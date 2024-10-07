@@ -1,6 +1,6 @@
 # Chastity's-Chess-Chapters
 
-##A book project to teach people chess strategies.
+## A book project to teach people chess strategies.
 
 This book is far from finished, but chapter 1 contains all the rules of Chess.
 
