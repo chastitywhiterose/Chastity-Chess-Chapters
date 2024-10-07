@@ -1,4 +1,5 @@
 # 1. d4
+
 ## Queen's Pawn Opening
 
 d4 is the second most popular first move for white. The most popular is e4.
