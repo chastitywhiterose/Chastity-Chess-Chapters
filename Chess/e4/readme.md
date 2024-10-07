@@ -1,4 +1,5 @@
 # 1. e4
+
 ## King's Pawn Opening
 
 e4 was the favorite first move of Bobby Fischer who believed that it was objectively the best starting move.
