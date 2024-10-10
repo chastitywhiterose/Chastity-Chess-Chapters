@@ -1,15 +1,12 @@
-# 1. d4 d5 2. Bf4
+# 1. d4
 
-## The London System
+## Queen's Pawn Opening
 
-This position is the start of the London System. White's bishop moves out to F4 immediately after both Queen pawns have moved two squares. The idea is that the bishop moves here so that it won't be blocked in when white moves their pawn to E3. F4 is a safe square for the bishop because it will take more than one move by black before it can be under a serious attack.
+d4 is the second most popular first move for white. The most popular is e4.
+Chastity plays Queen's pawn to d4 as white with the hope that black will also move their Queen's pawn to d5. This could lead to the Queen's Gambit or the London System. In either case, Chastity would be in familiar territory with positions she has memorized.
 
 Chastity's Recommendations
 
-[Chastity's Two Chess Openings for playing White](https://www.youtube.com/watch?v=MQ3SSiPNtA8)
-
-Other Resources
-
-[Learn the London System | 10-Minute Chess Openings](https://www.youtube.com/watch?v=49H728S_VjM)
+[Queen's Gambit](https://github.com/chastitywhiterose/Chastity-Chess-Chapters/tree/main/Chess/d4/d5/c4)
 
 
