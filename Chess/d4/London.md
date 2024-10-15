@@ -20,3 +20,11 @@ It’s best to avoid allowing your opponent to even put you in check. That’s w
 
 Alternatively, if you are playing a variant such as 3-check Chess, you probably will want to move your pawn to c3 even before the knight to d2 because you must avoid being put in check at any cost. In fact, c3 is totally okay before d2 even in standard Chess. I just tend to prefer waiting for the bishop to come out and then scare it away with that pawn after it attacks my knight or king. I find it funny but can't really say the move order matters other than for my sense of humor.
 
+As soon as it is safe to do so, you will probably want to get the g1 knight moved to f3. This allows it to control the e5 square and add defense to your d4 pawn. It also will help get it out of the way to castle king side.
+
+The f1 bishop should move to d3 as long as it is safe and won't be attacked there. This targets a lot of diagonal light squares and also will allow you to castle king side.
+
+There will be times when you will want to castle king side but other times you will want to castle queen side. It's all about where your opponent's pieces are currently attacking and getting your king to escape the oncoming attack.
+
+If you have already moved the c2 pawn to either c3 or c4 at this point, you have the option of moving your queen to c2. This is a great way of getting your king the space it needs to castle queen side if you want to, but it also allows your queen and bishop to launch a diagonal attack on the h7 square. Usually this will win you a free pawn because the rook can't take the bishop without getting captured by the queen. If your opponent has already castled kingside at this time, the attack is much worse.
+
