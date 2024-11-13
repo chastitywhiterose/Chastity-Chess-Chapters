@@ -1,6 +1,6 @@
 # Chaste Base
 
-This file details what I have done to create my Chess database that I am calling Chaste Base.
+This text details what I have done to create my Chess database that I am calling Chaste Base. It is a record of my own games I have played except filtered down for more relevance to the openings I am studying.
 
 # Step 1: Downloaded all of my lichess.org and chess.com games using En Croissant. It can download them and then I just have to copy over the PGN files from where the program stores them.
 
@@ -51,3 +51,5 @@ Because of the usefulness of pgn-extract, I am able to filter down to only the g
 ## Extract the filtered games from another database. In this example, caissabase which was first exported to PGN format from En-Croissant
 
 pgn-extract -ochastebase_caissa.pgn caissabase.pgn --checkmate -xvars.txt
+
+Because of the huge size of Caissabase (over 3 gigabytes), it took a long time to filter through it but the result was well worth it.
