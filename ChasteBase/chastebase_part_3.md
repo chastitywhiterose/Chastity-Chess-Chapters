@@ -2,7 +2,7 @@ ChasteBase The Ultimate Database
 
 This is part 3 of my series of documents about how I am creating ChasteBase. Unlike the previous two, this one is entirely about extracting useful information about games other people have played not including my own games. I will start with Caissabase. Although in the testing phase I will use commands based on my own database.
 
-First, create a file named "french" that has the following line:
+First, create a file named "french.txt" that has the following line:
 
 	1. e4 e6
 
@@ -22,6 +22,21 @@ pgn-extract caissabase.pgn -Tr0-1 -xfrench.txt -ochastebase_caissa_french.pgn
 
 It will take a REALLY long time to run this command because it has to filter through over 5 MILLION games and select only the French Defense black wins. But this is extremely useful!
 
+The next step however is to extract all the games with the Queen's Gambit from Caissabase. In this case, we are interested in all of the games whether white or black wins. This is because I need to know how to win with it as white but also against it as black.
+
+First, create a file named "queengambit.txt" that contains the following line:
+
+	1. d4 d5 2. c4
+
+Then run the test command to see if it works:
+
+pgn-extract chastitywhiterose_lichess.pgn -xqueengambit.txt
+
+Finally, use this command to extract all of the games containing the Queen's Gambit position from Caissabase.
+
+pgn-extract caissabase.pgn -xqueengambit.txt -ochastebase_caissa_queen_gambit.pgn
+
+
 # Further reading
 
 All the information I used to learn how to use pgn-extract came from this site:
@@ -33,61 +48,4 @@ All of the the required flags are documented and I believe that proper use of th
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is a continuation of my previous document about how and why I use pgn-extract to extract the games of interest. Instead, this one is more about combining the results of more games than only those I have played.
-
-The idea is to learn from other Chess masters!
-
-#Step 1 Get all of my own wins and combine them.
-
-The commands to combine all of my wins from lichess.org and chess.com into one database
-
-For the sake of this example, I am not using the --checkmate flag because most users I win against resign before I can checkmate them. However, because the tag files I use select only wins, all draws by stalemate are eliminated. Because of this information, I decided ultimately that the --checkmate flag is ultimately not needed for this database project.
-
-## Combining all the wins.
-
-In previous examples, used the -t flag in combination with tag files I made. However, the creation of tag files is inconvenient for me. There is a better way to do it! The -T flag is much simpler because all arguments can be placed on the command line.
-
-However, it will be required to run multiple commands to get all the relevant wins from both platforms.
-
-To combine all the wins into one file, we can run two commands and output results to different files.
-
-Two commands to extract only the wins from my lichess database
-
-pgn-extract -Twchastitywhiterose -Tr1-0 chastitywhiterose_lichess.pgn -ochastebase_white_wins_lichess.pgn
-pgn-extract -Tbchastitywhiterose -Tr0-1 chastitywhiterose_lichess.pgn -ochastebase_black_wins_lichess.pgn
-
-Two commands to extract only the wins from my chess.com database (my username is slightly different)
-
-pgn-extract -TwChastityWhiteRose -Tr1-0 chastitywhiterose_chesscom.pgn -ochastebase_white_wins_chesscom.pgn
-pgn-extract -TbChastityWhiteRose -Tr0-1 chastitywhiterose_chesscom.pgn -ochastebase_black_wins_chesscom.pgn
-
-And then combine those files into one file with a final command.
-pgn-extract chastebase_white_wins_lichess.pgn chastebase_black_wins_lichess.pgn chastebase_white_wins_chesscom.pgn chastebase_black_wins_chesscom.pgn -ochastebase_all_wins.pgn
-
-## adding caissabase
-
-This section is not complete. I haven't decided whether to add caissabase or not or in what method.
-
-pgn-extract -t chastity_white.tag chastitywhiterose_chesscom.pgn -ochastebase_white_wins.pgn
-pgn-extract -t chastity_white.tag chastitywhiterose_lichess.pgn -ochastebase_white_wins.pgn
 
