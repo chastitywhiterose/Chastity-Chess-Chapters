@@ -44,13 +44,27 @@ pgn-extract MillionBase.pgn -Tr0-1 -xqueengambit.txt -ochastebase_million_queen_
 ---
 
 # Ajedrez Data - Correspondence and OTB
-# Doing both files together this time.
+## Doing both files together this time.
 
 pgn-extract "Ajedrez Data - Correspondence.pgn" "Ajedrez Data - OTB.pgn" -Tr0-1 -xfrench.txt -ochastebase_ajedrez_french_black_wins.pgn --checkmate
 
 pgn-extract "Ajedrez Data - Correspondence.pgn" "Ajedrez Data - OTB.pgn" -Tr1-0 -xqueengambit.txt -ochastebase_ajedrez_queen_gambit_white_wins.pgn --checkmate
 
 pgn-extract "Ajedrez Data - Correspondence.pgn" "Ajedrez Data - OTB.pgn" -Tr0-1 -xqueengambit.txt -ochastebase_ajedrez_queen_gambit_black_wins.pgn --checkmate
+
+---
+
+# Combining the French Defense Black Wins
+
+pgn-extract chastebase_caissa_french_black_wins.pgn chastebase_million_french_black_wins.pgn chastebase_ajedrez_french_black_wins.pgn -ochastebase_all_french_black_wins.pgn
+
+# Combining the Queen's Gambit Wins
+
+pgn-extract chastebase_caissa_queen_gambit_white_wins.pgn chastebase_million_queen_gambit_white_wins.pgn chastebase_ajedrez_queen_gambit_white_wins.pgn -ochastebase_all_queen_gambit_white_wins.pgn
+
+pgn-extract chastebase_caissa_queen_gambit_black_wins.pgn chastebase_million_queen_gambit_black_wins.pgn chastebase_ajedrez_queen_gambit_black_wins.pgn -ochastebase_all_queen_gambit_black_wins.pgn
+
+---
 
 # Further reading
 
@@ -59,6 +73,10 @@ All the information I used to learn how to use pgn-extract came from this site:
 https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/
 
 All of the the required flags are documented and I believe that proper use of this tool will save me hundreds of hours of filtering through games manually. That's why I write all of these things down because this information will save me and many other people tons of time and possibly money.
+
+## More information about popular databases.
+
+https://www.chessjournal.com/chess-databases/
 
 
 # Other possible openings
