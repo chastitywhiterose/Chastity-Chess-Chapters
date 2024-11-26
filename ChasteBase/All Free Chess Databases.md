@@ -105,4 +105,13 @@ pgn-extract "Ajedrez Data - Correspondence.pgn" -Tr1-0 -xtrompowsky.txt -ochaste
 
 # Combining the Trompowsky Wins
 
-pgn-extract chastebase_caissa_trompowsky_white_wins.pgn chastebase_million_trompowsky_wins.pgn chastebase_ajedrez_trompowsky_white_wins.pgn -ochastebase_all_trompowsky_white_wins.pgn -D
+pgn-extract chastebase_caissa_trompowsky_white_wins.pgn chastebase_million_trompowsky_white_wins.pgn chastebase_ajedrez_trompowsky_white_wins.pgn -ochastebase_all_trompowsky_white_wins.pgn -D
+
+---
+
+Finally, as a last step, combine all the opening files into one HUGE database.
+More data is needed to see how useful this is.
+
+pgn-extract -ochastebase.pgn -D chastebase_all_queen_gambit_white_wins.pgn chastebase_all_trompowsky_white_wins.pgn chastebase_all_queen_gambit_black_wins.pgn chastebase_all_french_black_wins.pgn
+
+And that is how my largest database was created! It is named ChasteBase because it is a database of games with only the openings I want in it!
