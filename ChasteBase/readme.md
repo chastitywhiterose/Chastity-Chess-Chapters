@@ -1,96 +1,61 @@
-# Chaste Base README file explaining the process of this database
+# ChasteBase README
 
-This text details what I have done to create my Chess database that I am calling Chaste Base. It is a record of my own games I have played except filtered down for more relevance to the openings I am studying.
+This text explains everything you need to know about what I have done to create the Chess database that I am calling ChasteBase.
 
-# Step 1: Downloaded all of my lichess.org and chess.com games using En Croissant. It can download them and then I just have to copy over the PGN files from where the program stores them.
+# What is a Chess database
 
-The location of databases used by en-croissant:
+But the very concept of a Chess database is nothing more than a list of games that took place. Chess is unique in that it has a notation system detailing every single move in more detail than anyone can comprehend. However, the usefulness of a Chess database comes from the fact that programs exist for playing back the moves on a board so that you can watch every move take place as if it were a book or a movie. In fact, it's more like a book because you can step through each move at your speed.
 
-C:\Users\chand\AppData\Roaming\org.encroissant.app\db
+# Why would I use a Chess database?
 
-This gives me the files:
+A Chess database is a way of seeing the play style of different players and also how popular certain moves are compared to others in a given position. Programs such as Chessx and En-Croissant allow me to use databases and find what moves I am most likely to encounter when I play with humans. A Chess database is vastly more useful than finding out what a machine thinks is the best move. Chess engines don't play like humans and are not very helpful if you want to win against humans.
 
-chastitywhiterose_lichess.pgn
-chastitywhiterose_chesscom.pgn
+# Why another Chess database?
 
-They contain all of my games on these two platforms. 
+There are many Chess databases on the internet. Some of them are Free, but others you have to buy. This database is one using only the openings that I am interested in. These openings are
 
-# Step 2: Downloaded and installed pgn-extract.
+- Queen's Gambit
+- French Defence
+- Trompowsky Attack
+ 
+Why I chose these openings would take a whole book to explain. I have explored many openings but these are the ones I have settled on as the most reliable. There are also a lot of courses, videos, and books available for these openings and they are easy to study for that reason.
 
-Really all I did to install it was choose a place to download it and add it to my path. Here is where I put it on my PC.
+# How did you make this database?
 
-C:\pgn-extract
+I used the 3 most popular freely available databases. I downloaded them through the En-Croissant interface because it makes it easy to one click install these. However, they are extremely large files!
 
-# Step 3: Run commands to choose the games to the ones I am interested in.
+Below are the official websites for these databases if you want more information on them.
 
-## Collect all games into one file.
+http://caissabase.co.uk/
 
-pgn-extract -ochastebase.pgn chastitywhiterose_lichess.pgn chastitywhiterose_chesscom.pgn
+https://ajedrezdata.com/
 
-## Collect all games into one file. But only include those games which end in a checkmate. Resignations and timeouts don't count and are excluded.
+https://rebel13.nl/download/data.html
 
-pgn-extract -ochastebase.pgn chastitywhiterose_lichess.pgn chastitywhiterose_chesscom.pgn --checkmate
+Just know that my database is a lot smaller than any of these because it contains only those games that I found relevant base on my criteria.
 
-## Include all games that begin with the Queen's Gambit or the French Defense
+# What criteria
 
-pgn-extract -ochastebase.pgn chastitywhiterose_lichess.pgn chastitywhiterose_chesscom.pgn --checkmate -xvars.txt
+1. The games must begin with the opening position I am studying.
 
-That command works because the file vars.txt contains the following two lines
+   Limiting it to the openings I mentioned earlier gives me a solid opening repertoire for the most popular moves in how the game begins. Knowing the Queen's Gambit is good for the black or white player. The French defense is my chosen response to e4 as white's first move. The Trompowsky is actually the opening for white that I know the least about, but I have seen grandmasters do some deadly traps with it, and I hope to learn this power!
 
-    1. d4 d5 2. c4
-    1. e4 e6
+2. The games came from reliable source databases. These aren't just complete noobs on lichess.org or chess.com. If you open the database, you will see the names of either real people that exist or at least usernames on the websites they played. The makers of the original databases I used included only games by master players. Most of them will have over 2000 ELO ratings and know what they are doing.
 
-This allows me to include the exact 2 openings I am studying.
+3. The games MUST end in a checkmate. I refuse to include games that involve someone resigning or timing out. This restriction limits the database to the games that end for the right reason, that the game was actually finished.
 
-# Selecting only games I won
+4. The games must have the correct wins. For example, the French Defense is a method for fighting against e4. With perfect play, the black player should always win. Therefore, only black wins are included in the French Defense. Similarly, only white wins are important for the Trompowski. The Queen's Gambit is a different beast because either side can realistically win or draw. There are many good moves by both white and black in many positions. I wouldn't do my favorite opening justice if I didn't include all wins by both players.
 
-Because of the usefulness of pgn-extract, I am able to filter down to only the games that were won under the criteria I choose. The fact that it is a command line tool makes it especially helpful too!
+# How the hell did you filter through millions of games and find the ones you wanted?
 
-## Selecting my wins as white
+I used a free and open-source command line tool called pgn-extract.
 
-For it to work, the tag file "chastity_white.tag" contains
+All the information I used to learn how to use pgn-extract came from this site:
 
-    White "chastitywhiterose"
-    Result "1-0"
+https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/
 
+Obviously, I could not have done it manually because that would take millions of years. However, it did take many hours to achieve it because the databases are large and I had to learn how to use the tool and know its command line options.
 
-For example, the following command will find all games on lichess that I have won as white by using a tag file.
+# How should I use this database?
 
-pgn-extract -t chastity_white.tag chastitywhiterose_lichess.pgn --checkmate 
-
-This is a great way of extracting all of my wins as white.
-
-## Selecting my wins as black
-
-The reverse process is also possible. By creating another tag file "chastity_black.tag"
-
-    Black "chastitywhiterose"
-    Result "0-1"
-
-And then changing the filename in the command, I can extract all times I was playing black and won.
-
-pgn-extract -t chastity_black.tag chastitywhiterose_lichess.pgn --checkmate 
-
-This is extremely useful because wins are more helpful than losses. Although I generally use the --checkmate flag to filter it out games that end in resignation, it might be better to not use it because sometimes the opponents resign because they see a checkmate coming. It may also be better not to filter by openings as in the previous examples because unless there are a lot of games, it is usually unnecessary.
-
-## Combining all the wins.
-
-To combine all the wins into one file, we can run two commands and output results to different files.
-
-pgn-extract -t chastity_white.tag chastitywhiterose_lichess.pgn --checkmate -ochastebase_white_wins.pgn
-pgn-extract -t chastity_black.tag chastitywhiterose_lichess.pgn --checkmate -ochastebase_black_wins.pgn
-
-And then combine those two files into one file with a final command.
-pgn-extract chastebase_white_wins.pgn chastebase_black_wins.pgn -ochastebase_all_wins.pgn
-
-I wrote this document for myself mainly but I will share it with everyone, especially my Chess students because I believe creating a database of games to review and analyze is actually extremely helpful for seeing which moves they have the most success with. In fact, this data could reveal that certain openings are more in line with how a person's brain operates. Or maybe they have practiced an opening more than others and we can see how often they started with it.
-
-# Other examples
-
-## Extract the filtered games from another database. In this example, caissabase which was first exported to PGN format from En-Croissant
-
-pgn-extract -ochastebase_caissa.pgn caissabase.pgn --checkmate -xvars.txt
-
-Because of the huge size of Caissabase (over 3 gigabytes), it took a long time to filter through it but the result was well worth it. This filters down a huge database into only those that ended by checkmate. This gets rid of those lost on time or stalemates.
-
-## To be continued and updated as I find new helpful information on using pgnextract or perhaps learn about good software for viewing the pgn files.
+I will be recording videos on precisely how to use it as I intended. It can be used with a variety of software. I definitely recommend En-Croissant, though.
