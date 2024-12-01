@@ -101,17 +101,30 @@ pgn-extract caissabase.pgn -Tr1-0 -xtrompowsky.txt -ochastebase_caissa_trompowsk
 
 pgn-extract MillionBase.pgn -Tr1-0 -xtrompowsky.txt -ochastebase_million_trompowsky_white_wins.pgn --checkmate
 
-pgn-extract "Ajedrez Data - Correspondence.pgn" -Tr1-0 -xtrompowsky.txt -ochastebase_ajedrez_trompowsky_white_wins.pgn --checkmate
+pgn-extract "Ajedrez Data - Correspondence.pgn" "Ajedrez Data - OTB.pgn" -Tr1-0 -xtrompowsky.txt -ochastebase_ajedrez_trompowsky_white_wins.pgn --checkmate
 
 # Combining the Trompowsky Wins
 
 pgn-extract chastebase_caissa_trompowsky_white_wins.pgn chastebase_million_trompowsky_white_wins.pgn chastebase_ajedrez_trompowsky_white_wins.pgn -ochastebase_all_trompowsky_white_wins.pgn -D
+
+# Next, the London System wins for white.
+
+pgn-extract caissabase.pgn -Tr1-0 -xlondon.txt -ochastebase_caissa_london_white_wins.pgn --checkmate
+
+pgn-extract MillionBase.pgn -Tr1-0 -xlondon.txt -ochastebase_million_london_white_wins.pgn --checkmate
+
+pgn-extract "Ajedrez Data - Correspondence.pgn" "Ajedrez Data - OTB.pgn" -Tr1-0 -xlondon.txt -ochastebase_ajedrez_london_white_wins.pgn --checkmate
+
+# Combining the London Wins
+
+pgn-extract chastebase_caissa_london_white_wins.pgn chastebase_million_london_white_wins.pgn chastebase_ajedrez_london_white_wins.pgn -ochastebase_all_london_white_wins.pgn -D
+
 
 ---
 
 Finally, as a last step, combine all the opening files into one HUGE database.
 More data is needed to see how useful this is.
 
-pgn-extract -ochastebase.pgn -D chastebase_all_queen_gambit_white_wins.pgn chastebase_all_trompowsky_white_wins.pgn chastebase_all_queen_gambit_black_wins.pgn chastebase_all_french_black_wins.pgn
+pgn-extract -ochastebase.pgn -D chastebase_all_queen_gambit_white_wins.pgn chastebase_all_trompowsky_white_wins.pgn chastebase_all_london_white_wins.pgn chastebase_all_queen_gambit_black_wins.pgn chastebase_all_french_black_wins.pgn
 
 And that is how my largest database was created! It is named ChasteBase because it is a database of games with only the openings I want in it!
