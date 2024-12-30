@@ -10,6 +10,6 @@ pgn-extract -Tbchastitywhiterose -Tr0-1 -xqueengambit.txt chastitywhiterose_lich
 pgn-extract -TwChastityWhiteRose -Tr1-0 -xqueengambit.txt chastitywhiterose_chesscom.pgn -o%user%_white_wins_chesscom_queengambit.pgn --checkmate
 pgn-extract -TbChastityWhiteRose -Tr0-1 -xqueengambit.txt chastitywhiterose_chesscom.pgn -o%user%_black_wins_chesscom_queengambit.pgn --checkmate
 
-pgn-extract %user%_white_wins_lichess_queengambit.pgn %user%_white_wins_chesscom_queengambit.pgn -o%user%_all_wins_white_french.pgn
-pgn-extract %user%_black_wins_lichess_queengambit.pgn %user%_black_wins_chesscom_queengambit.pgn -o%user%_all_wins_black_french.pgn
+pgn-extract %user%_white_wins_lichess_queengambit.pgn %user%_white_wins_chesscom_queengambit.pgn -o%user%_all_wins_white_queengambit.pgn
+pgn-extract %user%_black_wins_lichess_queengambit.pgn %user%_black_wins_chesscom_queengambit.pgn -o%user%_all_wins_black_queengambit.pgn
 
