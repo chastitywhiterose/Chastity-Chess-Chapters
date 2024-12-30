@@ -10,6 +10,6 @@ pgn-extract -Tbchastitywhiterose -Tr0-1 -xfrench.txt chastitywhiterose_lichess.p
 pgn-extract -TwChastityWhiteRose -Tr1-0 -xfrench.txt chastitywhiterose_chesscom.pgn -o%user%_white_wins_chesscom_french.pgn --checkmate
 pgn-extract -TbChastityWhiteRose -Tr0-1 -xfrench.txt chastitywhiterose_chesscom.pgn -o%user%_black_wins_chesscom_french.pgn --checkmate
 
-pgn-extract %user%_white_wins_lichess.pgn %user%_white_wins_chesscom.pgn -o%user%_all_wins_white_french.pgn
-pgn-extract %user%_black_wins_lichess.pgn %user%_black_wins_chesscom.pgn -o%user%_all_wins_black_french.pgn
+pgn-extract %user%_white_wins_lichess_french.pgn %user%_white_wins_chesscom_french.pgn -o%user%_all_wins_white_french.pgn
+pgn-extract %user%_black_wins_lichess_french.pgn %user%_black_wins_chesscom_french.pgn -o%user%_all_wins_black_french.pgn
 
