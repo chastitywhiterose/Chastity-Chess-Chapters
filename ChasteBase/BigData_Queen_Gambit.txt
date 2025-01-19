@@ -11,7 +11,7 @@ pgn-extract ../BigData/caissabase.pgn -Tr0-1 -x../BigData/queengambit.txt -oblac
 
 pgn-extract ../BigData/MillionBase.pgn -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit_MillionBase.pgn --checkmate
 
-pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit.pgn --checkmate
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit_Ajedrez.pgn --checkmate
 
 pgn-extract ../BigData/MasterGames.pgn -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit_MasterGames.pgn --checkmate
 
@@ -29,7 +29,7 @@ pgn-extract ../BigData/caissabase.pgn -Tr1-0 -x../BigData/queengambit.txt -owhit
 
 pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit_MillionBase.pgn --checkmate
 
-pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit.pgn --checkmate
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit_Ajedrez.pgn --checkmate
 
 pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit_MasterGames.pgn --checkmate
 
