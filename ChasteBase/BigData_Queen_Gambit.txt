@@ -1,0 +1,39 @@
+A script to extract all black wins with the Queen's Gambit Opening
+However, these commands should probably not be run as a batch script and should instead be copy pasted
+Otherwise, we run the risk of crashing the computer and not knowing where the progress was.
+Therefore, this is a plain text file only and cannot be executed.
+
+It takes a long time to process millions of Chess games, even though pgn-extract is very fast!
+
+This section is for extracting black wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit_MasterGames.pgn --checkmate
+
+
+After we have extracted all of the Queen's Gambit wins from all of my BigData sources (free databases plus MasterGames from HIARCS), we will need to combine them all back into one file.
+
+pgn-extract -oblack_queengambit_All.pgn black_queengambit_caissabase.pgn black_queengambit_MillionBase.pgn black_queengambit_Ajedrez.pgn black_queengambit_MasterGames.pgn
+
+
+---
+
+This section is for extracting white wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit_MasterGames.pgn --checkmate
+
+
+After we have extracted all of the Queen's Gambit wins from all of my BigData sources (free databases plus MasterGames from HIARCS), we will need to combine them all back into one file.
+
+pgn-extract -owhite_queengambit_All.pgn white_queengambit_caissabase.pgn white_queengambit_MillionBase.pgn white_queengambit_Ajedrez.pgn white_queengambit_MasterGames.pgn
