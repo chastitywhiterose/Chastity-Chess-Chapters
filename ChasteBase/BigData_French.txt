@@ -14,7 +14,7 @@ pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez D
 pgn-extract ../BigData/MasterGames.pgn -Tr0-1 -x../BigData/french.txt -oblack_french_MasterGames.pgn --checkmate
 
 
-After we have extracted all of the French Defense wins from all of my BigData sources (free databases plus MasterGames from HIARCS), we will need to combine them all back into one file.
+After we have extracted all of the French Defense wins from all of my Free BigData sources (free databases plus MasterGames from HIARCS), we will need to combine them all back into one file.
 
 pgn-extract -oblack_french_All.pgn black_french_caissabase.pgn black_french_MillionBase.pgn black_french_Ajedrez.pgn black_french_MasterGames.pgn
 
@@ -22,5 +22,9 @@ pgn-extract -oblack_french_All.pgn black_french_caissabase.pgn black_french_Mill
 
 Although not included in the original database. I bought the French Powerbook 2024 from Chessbase. The games from it may be added to the next combination of sources but not for a while anyway.
 
-pgn-extract "../BigData/French Defence Powerbase 2024.pgn" -Tr0-1 -x../BigData/french.txt -oblack_french_Powerbase2024.pgn --checkmate
+pgn-extract "../BigData/French Defence Powerbase 2024.pgn" -Tr0-1 -x../BigData/french.txt -oblack_french_Powerbase_2024.pgn --checkmate
+
+Updated command with The French Defence Powerbase 2024
+
+pgn-extract -oblack_french_All.pgn black_french_caissabase.pgn black_french_MillionBase.pgn black_french_Ajedrez.pgn black_french_MasterGames.pgn black_french_Powerbase_2024.pgn
 

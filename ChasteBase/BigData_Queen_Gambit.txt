@@ -20,6 +20,10 @@ After we have extracted all of the Queen's Gambit wins from all of my BigData so
 
 pgn-extract -oblack_queengambit_All.pgn black_queengambit_caissabase.pgn black_queengambit_MillionBase.pgn black_queengambit_Ajedrez.pgn black_queengambit_MasterGames.pgn
 
+The next thing is to combine all the databases relating to the Queen's Gambit that I have purchased through ChessBase.
+These are special because I purchased them and then converted them to PGN files to be used outside of ChessBase
+
+pgn-extract "../BigData/Queens Gambit Accepted Powerbase 2019.pgn" "../BigData/Queens Gambit Declined Powerbase 2024.pgn" "../BigData/The Slav and Semislav Powerbase 2021.pgn" -Tr0-1 -x../BigData/queengambit.txt -oblack_queengambit_ChessBase.pgn --checkmate
 
 ---
 
@@ -37,3 +41,19 @@ pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/queengambit.txt -owhi
 After we have extracted all of the Queen's Gambit wins from all of my BigData sources (free databases plus MasterGames from HIARCS), we will need to combine them all back into one file.
 
 pgn-extract -owhite_queengambit_All.pgn white_queengambit_caissabase.pgn white_queengambit_MillionBase.pgn white_queengambit_Ajedrez.pgn white_queengambit_MasterGames.pgn
+
+The next thing is to combine all the databases relating to the Queen's Gambit that I have purchased through ChessBase.
+These are special because I purchased them and then converted them to PGN files to be used outside of ChessBase
+
+pgn-extract "../BigData/Queens Gambit Accepted Powerbase 2019.pgn" "../BigData/Queens Gambit Declined Powerbase 2024.pgn" "../BigData/The Slav and Semislav Powerbase 2021.pgn" -Tr1-0 -x../BigData/queengambit.txt -owhite_queengambit_ChessBase.pgn --checkmate
+
+---
+
+Final Section
+
+Combining all of the databases so far into their final collections for black and white separately
+
+pgn-extract -owhite_queengambit_All.pgn white_queengambit_caissabase.pgn white_queengambit_MillionBase.pgn white_queengambit_Ajedrez.pgn white_queengambit_MasterGames.pgn white_queengambit_ChessBase.pgn
+
+pgn-extract -oblack_queengambit_All.pgn black_queengambit_caissabase.pgn black_queengambit_MillionBase.pgn black_queengambit_Ajedrez.pgn black_queengambit_MasterGames.pgn black_queengambit_ChessBase.pgn
+
