@@ -15,3 +15,10 @@ pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/indian.txt -owhite_in
 pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/indian.txt -owhite_indian_Ajedrez.pgn --checkmate
 
 pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/indian.txt -owhite_indian_MasterGames.pgn --checkmate
+
+Combine them all back into one file.
+
+pgn-extract -owhite_indian_All.pgn white_indian_caissabase.pgn white_indian_MillionBase.pgn white_indian_Ajedrez.pgn white_indian_MasterGames.pgn
+
+Black wins Section not completed yet
+
