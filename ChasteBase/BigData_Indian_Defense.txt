@@ -8,10 +8,10 @@ This is called the Indian Defense and unfortunately I haven't studied it enough 
 
 This section is for extracting white wins.
 
-pgn-extract ../BigData/caissabase.pgn -Tr1-0 -x../BigData/indian.txt -owhite_queengambit_caissabase.pgn --checkmate
+pgn-extract ../BigData/caissabase.pgn -Tr1-0 -x../BigData/indian.txt -owhite_indian_caissabase.pgn --checkmate
 
-pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/indian.txt -owhite_queengambit_MillionBase.pgn --checkmate
+pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/indian.txt -owhite_indian_MillionBase.pgn --checkmate
 
-pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/indian.txt -owhite_queengambit_Ajedrez.pgn --checkmate
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/indian.txt -owhite_indian_Ajedrez.pgn --checkmate
 
-pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/indian.txt -owhite_queengambit_MasterGames.pgn --checkmate
+pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/indian.txt -owhite_indian_MasterGames.pgn --checkmate
