@@ -1,0 +1,39 @@
+The London System
+
+This file contains commands for extracting wins that begin with
+
+1. d4 d5 2. Bf4
+
+This is the beginning of the London System. It is a setup based system that brings the queen's bishop out and then builds a defensive pawn structure. It is the most flexible of white openings after d4.
+
+
+This section is for extracting white wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr1-0 -x../BigData/london.txt -owhite_london_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/london.txt -owhite_london_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/london.txt -owhite_london_Ajedrez.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/london.txt -owhite_london_MasterGames.pgn --checkmate
+
+Combine them all back into one file.
+
+pgn-extract -owhite_london_All.pgn white_london_caissabase.pgn white_london_MillionBase.pgn white_london_Ajedrez.pgn 
+
+there were no results for the master games so this was excluded from the command
+"white_london_MasterGames.pgn"
+
+This section is for extracting black wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr0-1 -x../BigData/london.txt -oblack_london_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr0-1 -x../BigData/london.txt -oblack_london_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr0-1 -x../BigData/london.txt -oblack_london_Ajedrez.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr0-1 -x../BigData/london.txt -oblack_london_MasterGames.pgn --checkmate
+
+Combine them all back into one file.
+
+pgn-extract -oblack_london_All.pgn black_london_caissabase.pgn black_london_MillionBase.pgn black_london_Ajedrez.pgn black_london_MasterGames.pgn
