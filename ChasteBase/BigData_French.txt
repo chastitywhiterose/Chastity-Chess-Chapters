@@ -28,3 +28,23 @@ Updated command with The French Defence Powerbase 2024
 
 pgn-extract -oblack_french_All.pgn black_french_caissabase.pgn black_french_MillionBase.pgn black_french_Ajedrez.pgn black_french_MasterGames.pgn black_french_Powerbase_2024.pgn
 
+---
+
+I have decided to also include the white wins with the French Defense.
+
+pgn-extract ../BigData/caissabase.pgn -Tr1-0 -x../BigData/french.txt -owhite_french_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/french.txt -owhite_french_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/french.txt -owhite_french_Ajedrez.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/french.txt -owhite_french_MasterGames.pgn --checkmate
+
+pgn-extract "../BigData/French Defence Powerbase 2024.pgn" -Tr1-0 -x../BigData/french.txt -owhite_french_Powerbase_2024.pgn --checkmate
+
+
+---
+
+Compile them all
+
+pgn-extract -owhite_french_All.pgn white_french_caissabase.pgn white_french_MillionBase.pgn white_french_Ajedrez.pgn white_french_MasterGames.pgn white_french_Powerbase_2024.pgn
