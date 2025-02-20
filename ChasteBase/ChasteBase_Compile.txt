@@ -5,7 +5,7 @@ Because I am a d4 player as white, the French defense is only included for cases
 The idea is to memorize these popular lines for improving my repertoire of common moves I play against real people over the board.
 
 
-pgn-extract -oAll_white.pgn white_indian_All.pgn white_london_All.pgn white_queengambit_All.pgn
+pgn-extract -oAll_white.pgn white_french_All.pgn white_indian_All.pgn white_london_All.pgn white_queengambit_All.pgn
 
 
 
