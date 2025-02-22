@@ -1,0 +1,7 @@
+These commands combine my databases of free sources with my own games sorted by wins for black or white. This way, my own wins slowly make up a larger percentage of the whole database.
+
+pgn-extract -ochastity_white.pgn lichess_chastitywhiterose.pgn All_white.pgn -Tr1-0 --checkmate
+
+
+pgn-extract -ochastity_black.pgn lichess_chastitywhiterose.pgn All_black.pgn -Tr0-1  --checkmate
+
