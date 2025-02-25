@@ -1,0 +1,44 @@
+Chess should end in checkmate
+
+In this post, I will be sharing something that may be useful to players about the nature and reliability of Chess databases. This is a topic that I am studying deeply as a Chess coach. I will be using the open source program [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/help.html) to assist me in sharing some stats about the most well known free database, Caissabase. I downloaded it through [En Croissant](https://encroissant.org/). I have to say that both of these programs are free and open source. As a rule, I promote free and open source software because I believe that Chess should be free for all and I don't believe someone needs to spend money on expensive Chess programs for analysis.
+
+Even in the largest Chess databases, very few games end in a checkmate. Because of this, it is necessary to extract only the ones that do end in checkmate because it is the proper way to win the game. The game ending because somebody ran out of time tells us nothing about the quality of the moves of that game.
+
+
+pgn-extract ../BigData/caissabase.pgn -ocheckmates_caissabase.pgn --checkmate
+
+For example, on my machine, the database called Caissabase is
+
+3.53 GB (3,791,607,570 bytes)
+
+After filtering to checkmates only with the previous command, the new size is
+
+190 MB (199,970,816 bytes)
+
+The final output of the pgn-extract command above was
+
+263966 games matched out of 5397923
+
+The reason I am sharing these stats is because it serves as evidence that most Chess databases suffer from several drawbacks.
+
+1. Players agree to draws to save time.
+2. Players lose when their clock runs out in time matches, even if they have a completely winning position.
+3. Players simply give up after they have lost their queen and have been known to resign even when there is a chance to win.
+
+Because of these 3 reasons. I recommend always filtering your reference databases to games ending in checkmates. In fact, aside from the fact that your analysis of games will be more reliable, this method can save a lot of disk space. For this reason, I have replaced Caissabase with the newer copy on my PC because I am sadly running out of space on this laptop. I expect this information will help people save disk space and also to get better data from the databases they use for analyzing games played both by themselves and also the famous Chess masters.
+
+
+---
+
+Commands for the other 3 free databases I use. I have saved tons of disk space.
+
+pgn-extract ../BigData/MillionBase.pgn -oMillionBase.pgn --checkmate
+
+109339 games matched out of 3451068.
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" -o"Ajedrez Data - Correspondence.pgn" --checkmate
+
+45431 games matched out of 1524027.
+
+pgn-extract "../BigData/Ajedrez Data - OTB.pgn" -o"Ajedrez Data - OTB.pgn" --checkmate
+
