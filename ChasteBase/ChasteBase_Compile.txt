@@ -1,9 +1,6 @@
 These commands compile all my databases that were previously extracted from larger sources into the wins for white and black in separate files but combining different openings. This is all done according to my preferences of openings that I usually play.
 
-Because I am a d4 player as white, the French defense is only included for cases where black wins. This is because it is assumed that if e5 is played, it is my opponent doing so when I am playing black.
-
 The idea is to memorize these popular lines for improving my repertoire of common moves I play against real people over the board.
-
 
 pgn-extract -oAll_white.pgn white_french_All.pgn white_indian_All.pgn white_london_All.pgn white_queengambit_All.pgn
 
