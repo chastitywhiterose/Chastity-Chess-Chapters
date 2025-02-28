@@ -5,3 +5,8 @@ pgn-extract -ochastity_white.pgn lichess_chastitywhiterose.pgn All_white.pgn -Tr
 
 pgn-extract -ochastity_black.pgn lichess_chastitywhiterose.pgn All_black.pgn -Tr0-1  --checkmate
 
+And these next commands simply extract my own wins and sort them by white or black to separate files.
+
+pgn-extract -Twchastitywhiterose -Tr1-0 lichess_chastitywhiterose.pgn -ochastitywhiterose_white_wins_lichess.pgn --checkmate
+pgn-extract -Tbchastitywhiterose -Tr0-1 lichess_chastitywhiterose.pgn -ochastitywhiterose_black_wins_lichess.pgn --checkmate
+
