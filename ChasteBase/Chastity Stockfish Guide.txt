@@ -1,0 +1,96 @@
+# Chastity Stockfish Guide
+
+# Chess Engines
+
+The use of Chess engines is quite controversial but inevitable. People are commonly cheating using Chess engines to find the best moves. However, it is questionable whether it can be detected whether someone found the best move on their own or whether they simply memorized the best lines from an engine.
+
+In any case, these are my notes on how engines are used. For now, I only am including Stockfish because it is the only one I know how to use from the command line. However, there are other free open source Chess Engines that may be worth investigating.
+
+# Stockfish
+
+I will not be covering how to install Stockfish because that is a separate matter depending on your operating system. However, I will provide an explanation of how stockfish can be used from the command line once it is downloaded and is placed in your path.
+
+Just type "stockfish" at the command line or adjust the name to whatever your executable is named
+You will probably see a message similar to "Stockfish 17 by the Stockfish developers (see AUTHORS file)".
+
+Simply enter "d" and you will probably get something like this:
+
+ +---+---+---+---+---+---+---+---+
+ | r | n | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+
+ | p | p | p | p | p | p | p | p | 7
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+
+ | P | P | P | P | P | P | P | P | 2
+ +---+---+---+---+---+---+---+---+
+ | R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+d is the display command and it will show a text representation of the Chess board. The position can be changed with a certain format. For example
+
+position startpos moves d2d4
+
+Will move the pawn from d2 to d4. This is my favorite starting move.
+
+ +---+---+---+---+---+---+---+---+
+ | r | n | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+
+ | p | p | p | p | p | p | p | p | 7
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+
+ |   |   |   | P |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+
+ | P | P | P |   | P | P | P | P | 2
+ +---+---+---+---+---+---+---+---+
+ | R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+This means that to reach the Queen's Gambit position, we can run this command:
+
+position startpos moves d2d4 d7d5 c2c4
+
+ +---+---+---+---+---+---+---+---+
+ | r | n | b | q | k | b | n | r | 8
+ +---+---+---+---+---+---+---+---+
+ | p | p | p |   | p | p | p | p | 7
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 6
+ +---+---+---+---+---+---+---+---+
+ |   |   |   | p |   |   |   |   | 5
+ +---+---+---+---+---+---+---+---+
+ |   |   | P | P |   |   |   |   | 4
+ +---+---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |   | 3
+ +---+---+---+---+---+---+---+---+
+ | P | P |   |   | P | P | P | P | 2
+ +---+---+---+---+---+---+---+---+
+ | R | N | B | Q | K | B | N | R | 1
+ +---+---+---+---+---+---+---+---+
+   a   b   c   d   e   f   g   h
+
+Once you have a position you like, you can always enter "d" again to display it. This will be useful for including these diagrams in a book.
+
+It is possible to enter "go" and then stockfish will try to search through every possible move and predict which is probably the best move in this position. However, by default it will search at an extremely high depth and this will take a long time.
+
+So it is usually much better to limit the search to a certain depth. For example, to only search 10 moves ahead:
+
+go depth 10
+
+The result I got when I did this was: bestmove c7c6 ponder b1c3
+
+This means that stockfish thinks that black should reply with moving the c7 pawn to c6 and then it expects white to move their knight from b1 to c3. The results may vary each time depending on your computer, the depth you select, and the version of stockfish you are using. 
+   
