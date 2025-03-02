@@ -1,0 +1,16 @@
+Wins from databases with any opening.
+
+This section is for extracting white wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr1-0 -owhite_checkmates_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -owhite_checkmates_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -owhite_checkmates_Ajedrez.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -owhite_checkmates_MasterGames.pgn --checkmate
+
+Combine them all back into one file.
+
+pgn-extract -owhite_checkmates_all.pgn white_checkmates_caissabase.pgn white_checkmates_MillionBase.pgn white_checkmates_Ajedrez.pgn 
+
