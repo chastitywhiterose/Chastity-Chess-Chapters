@@ -12,5 +12,18 @@ pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -owhite_checkmates_MasterGames.pgn
 
 Combine them all back into one file.
 
-pgn-extract -owhite_checkmates_all.pgn white_checkmates_caissabase.pgn white_checkmates_MillionBase.pgn white_checkmates_Ajedrez.pgn 
+pgn-extract -owhite_checkmates_all.pgn white_checkmates_caissabase.pgn white_checkmates_MillionBase.pgn white_checkmates_Ajedrez.pgn white_checkmates_MasterGames.pgn
 
+This section is for extracting black wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr0-1 -oblack_checkmates_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr0-1 -oblack_checkmates_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr0-1 -oblack_checkmates_Ajedrez.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr0-1 -oblack_checkmates_MasterGames.pgn --checkmate
+
+Combine them all back into one file.
+
+pgn-extract -oblack_checkmates_all.pgn black_checkmates_caissabase.pgn black_checkmates_MillionBase.pgn black_checkmates_Ajedrez.pgn black_checkmates_MasterGames.pgn
