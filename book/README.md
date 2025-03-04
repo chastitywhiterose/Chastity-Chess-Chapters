@@ -8,7 +8,7 @@ This readme is a summary of what I expect the book to contain once it is complet
 
 Table of Contents
 
-Chapter 1: All the rules of chess
+[Chapter 1: The Basic Rules of Movement](https://chastitychesschallenge.com/2025/03/03/chapter-1-the-basic-rules-of-movement/)
 
 Chapter 2: Chastity's Recommended Openings
 
@@ -38,5 +38,5 @@ Chapter 5: The best Chess playing websites
 - [pychess_alt](https://pychess-alternates.onrender.com/) Notable for Coffeehouse and Coffee Shogi!
 
 Chapter 6: How to improve at the game of Chess.
--Don't take ratings too seriously
--Tips that helped me
+- Don't take ratings too seriously
+- Tips that helped me
