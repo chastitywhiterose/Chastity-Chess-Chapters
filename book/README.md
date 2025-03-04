@@ -37,4 +37,6 @@ Chapter 5: The best Chess playing websites
 - [pychess](https://www.pychess.org/)
 - [pychess_alt](https://pychess-alternates.onrender.com/) Notable for Coffeehouse and Coffee Shogi!
 
-Chapter 6: The best Chess playing websites
+Chapter 6: How to improve at the game of Chess.
+-Don't take ratings too seriously
+-Tips that helped me
