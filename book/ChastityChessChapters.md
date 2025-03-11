@@ -8,9 +8,9 @@
 
 [Chapter 2: Chastity's Recommended Openings](https://chastitychesschallenge.com/2025/03/07/chapter-2-chastitys-recommended-openings/)
 
-Chapter 3: Chess variants
+[Chapter 3: Chess variants](https://chastitychesschallenge.com/2025/03/09/chapter-3-chess-variants/)
 
-Chapter 4: The best Chess software
+[Chapter 4: Chess Software](https://chastitychesschallenge.com/2025/03/11/chapter-4-chess-software/)
 
 - [Stockfish
 Strong open-source chess engine](https://stockfishchess.org/)
@@ -320,7 +320,7 @@ But a final note is that accepting or declining the Queen’s Gambit does not lo
 
 Now one thing you may have noticed is that the Queen’s Gambit started with moving the Queen’s Pawn (D4) instead of the King’s Pawn (E4) like in the previous example with the elaborate bishop sacrifice. Queen pawn openings are just far more fun to play because the game takes longer and my opponents get frustrated. E4 is better for quicker wins but is so cliché that I got tired of playing it and became a D4 player for my first move.
 
-# The London System
+## The London System
 
 I am not the first person to say that the London System is a solid opening. In fact it’s probably the best opening to teach a beginner who has decided they like to open the game with D4. The first move will always be D4. But the London System is actually quite different than the Queen's Gambit because your goal is not an early attack nor sacrificing pieces. The goal is to build a defensive structure. Look at the following picture.
 
@@ -360,7 +360,7 @@ Maybe you disagree with me, in case you would not follow my advice. However, the
 
 So far, all of what I have talked about so far is openings that white chooses to play. If you are the black player, what should you do? For one thing, you can expect that white will most likely play E4 for their first move, so I will next cover the French Defense.
 
-# The French Defense
+## The French Defense
 
 The French Defense is my main opening when playing as the black player. I will make the case for why it deserves more credit as an opening even though it is less popular than the Caro Kann(which may be covered later)
 
@@ -411,3 +411,171 @@ Obviously, the game doesn't always end this quickly but as you see the French De
 In this chapter, I have shown my favorite openings to play. Don't think that you know everything about how these will turn out for you in your games because the possibilities are infinite. You may find your own style and even invent a new opening no one has seen before!
 
 But the openings I have recommended are those that I have had to most success with and I have an advantage with them from practice. That's why I am qualified to teach them. I also have videos on my YouTube channel where I have gone more in depth with them.
+
+# Chapter 3: Chess variants
+
+As if learning standard Chess wasn't enough fun, there are historical and modern variants of Chess. I can't cover them all because there are literally hundreds. What I can do is tell you about some of my favorites and how they differ from Standard/Western Chess as described by most of this book.
+
+## Crazyhouse
+
+Crazyhouse is a variant available on lichess where captured pieces are not simply gone from the board but instead convert to the color of the player who captured them to be dropped back on the board at a later turn! As you might guess, games in this variant tend to be longer because it is possible to escape a checkmate what you could not get out of in standard Chess.
+
+There are some special rules that you should be aware of.
+
+- Drops resulting in immediate checkmate are permitted.
+- Pawns may not be dropped on the players' 1st or 8th ranks.
+- Promoted but captured pawns are dropped as pawns.
+
+The notation for Crazyhouse is the same as Chess except for the addition of the @ symbol to say that a previously captured piece is dropped back on the board.
+
+For example, consider the position of the Queen's Gambit Declined from the previous chapter.
+
+![d4-d5-c4-e6.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-e6.png)
+
+In this position, white decides to capture the d5 pawn with the c4 pawn.
+
+![1. d4 d5 2. c4 e6 3. cxd5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/1.-d4-d5-2.-c4-e6-3.-cxd5.png)
+
+Next, black tried to put white's king in check by moving bishop to b4.
+
+![1. d4 d5 2. c4 e6 3. cxd5 Bb4+.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/1.-d4-d5-2.-c4-e6-3.-cxd5-bb4.png)
+
+If this were regular Chess, white would not be able to move the king and would have to put a bishop or knight in the way to block the check. However, white previously captured a pawn and so they can drop one to the c3 square.
+
+![1. d4 d5 2. c4 e6 3. cxd5 Bb4+ 4. @c3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/1.-d4-d5-2.-c4-e6-3.-cxd5-bb4-4.-40c3.png)
+
+This means that the bishop is on the run and white has 9 pawns on the board. The situation is already looking like it will lead to a win for white.
+
+## Atomic
+
+Another variant which is available on lichess is Atomic. In this game, whenever a piece is captured, it creates an explosion that blows up the surrounding 8 squares! However, pawns on those 8 squares do not explode for some reason. They must be made of Minecraft obsidian or something like that. However, when a pawn makes a capture, it does explode. For example, the following position shows that white has moved their king's pawn two squares and black has moved their queen's pawn two squares.
+
+![1. e4 d5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/1.-e4-d5.png)
+
+White can capture, however, when it does, both pawns disappear!
+
+![1. e4 d5 2. exd5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/1.-e4-d5-2.-exd5.png)
+
+And now that there is nothing in the path of the black queen, they capture the d2 pawn and blow up white's king, queen, and bishop because all of them were on the adjacent squares to the d2 pawn.
+
+![1. e4 d5 2. exd5 Qxd2.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/1.-e4-d5-2.-exd5-qxd2.png)
+
+Black's queen is also gone but black has already won this game of atomic chess! The king wasn't just checkmated, it was actually destroyed in an explosion!
+
+So as you can see, atomic games don't last very long because it doesn't take many moves before pieces are destroyed. That doesn't mean it is simple to win it though because I am not very good at it despite my experience in normal Chess. Still, it is my second favorite variant of standard Chess, right behind Crazyhouse!
+
+But there are more Chess variants available on other websites. Some of them are very different from the standard Chess but they have many things in common.
+
+## Shogi
+
+For example, let me show you the board for Japanese Chess, which goes by the official name of Shogi!
+
+![Chastity SVG Kanji Shogi Set.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chastity-svg-kanji-shogi-set.png)
+
+It looks very fancy but unless you can read Japanese, these symbols probably make no sense to you. I can read them because I am experienced at playing Shogi enough in apps that force me to read their pieces. But for most people, the following image will make more sense.
+
+![Chastity SVG Western Shogi Set.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chastity-svg-western-shogi-set.png)
+
+Shogi is very much like Chess despite the difference in appearance. Shogi has pawns, kings, rooks, bishops, and knights. However, their some of their rules for movement are slightly different. However, the rook, bishop, and king are still identical to Western Chess.
+
+But there are new pieces, the Lance, the Silver General, and the Gold General. You need a tutorial on Shogi to learn how to play it. I may consider writing a tutorial later on but I have also been known to record videos on it and demonstrate how I play.
+
+Also, you can play Shogi anytime on [lishogi.org](https://lishogi.org/). It allows you to choose either the traditional Japanese pieces like the first picture or the westernized pieces from the second picture.
+
+## Xiangqi
+
+After you learn Chess and Shogi, I recommend Chinese Chess known as Xiangqi. You can learn and play it on [xiangqi.com](https://www.xiangqi.com/).
+
+I like it almost as much as Chess and Shogi, but I am really bad and I always lose because I am usually playing online against Chinese people who actually know how to play it well!
+
+I don't have example pictures for it right now because I need a lot more experience before I start teaching it. However, at least I could point you in the direction of where you can learn.
+
+In a future chapter, I will be listing websites and which Chess variants they allow you to play. This chapter was merely a brief introduction so that you know that other games like Chess exist!
+
+# Chapter 4: Chess Software
+
+In this Chapter, I will go over the best Free and Open Source software that is available for either playing or analyzing Chess. There are two command-line Chess Engines that I will recommend, two Graphical User Interface Programs that can use those engines, and two more utility programs that are specifically about managing Chess databases. Finally, I will mention how you can use these tools to analyze the games you have played.
+
+## Stockfish
+
+I will not be covering how to install Stockfish because that is a separate matter, depending on your operating system. However, I will explain how Stockfish can be used from the command line once it is downloaded and placed in your path.
+
+However, you can easily download [Stockfish](https://stockfishchess.org/) and find a detailed [guide](https://official-stockfish.github.io/docs/stockfish-wiki/Download-and-usage.html) for installing it on your platform.
+
+## Usage at the command line
+
+Although the official stockfish documentation is very good at helping people to set up Stockfish with most GUI software, there is a way to play directly by running commands from a terminal or command prompt. 
+
+After downloading and installing the engine by whatever means you used, just type "stockfish" at the command line or adjust the name to whatever your executable is named
+You will probably see a message similar to "Stockfish 17 by the Stockfish developers (see AUTHORS file)".
+
+Simply type `d` and press enter. You will probably get something like this:
+
+![position startpos.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/position-startpos.png)
+
+That is because `d` is the display command and it will show a text representation of the Chess board. The position can be changed with a certain format. For example
+
+`position startpos moves d2d4`
+
+Will move the pawn from d2 to d4. This is my favorite starting move. So if you use the `d` command again. You will see that the pawn has now moved!
+
+![position startpos moves d2d4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/position-startpos-moves-d2d4.png)
+
+Now that we have made our first move as white, we need to tell the computer to search for a move to reply with. For that we can enter `go depth 1` and it will come up with a quick response. For example if we get the result "bestmove d7d5". This means that the engine has decided that moving black's Queen pawn is the best move. So we add this result to the end of our last command.
+
+`position startpos moves d2d4 d7d5`
+
+![position startpos moves d2d4 d7d5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/position-startpos-moves-d2d4-d7d5.png)
+
+As you can see, both pawns have moved. However, this is not the preferred way for most people to use the engine. However, I did this as an example to show you what a Chess GUI has to do behind the scene to operate the engine and get back moves from it.
+
+## Fairy Stockfish
+
+I would like to mention briefly that [Fairy-Stockfish](https://fairy-stockfish.github.io/) is a version of Stockfish that support all of the Chess variants available on lichess.org and even more. I have not mastered the use of it from the command line, but I have confirmed that it works with Xboard, which is the next program I am recommending.
+
+## Xboard
+
+You can use [XBoard/WinBoard](http://hgm.nubati.net/) to run not only Stockfish, but many other Chess engines that are less popular. I find the interface of the program to be a little bit confusing. However, I have created convenient commands to use which allow me to play Chess, Shogi, or Xiangqi with it on my Windows 11 laptop.
+
+`winboard -fcp "C:\stockfish\fairy-stockfish.exe" -variant normal -xclock -depth 1`
+
+`winboard -fcp "C:\stockfish\fairy-stockfish.exe" -variant shogi -xclock -depth 1`
+
+`winboard -fcp "C:\stockfish\fairy-stockfish.exe" -variant xiangqi -xclock -depth 1`
+
+If you are playing XBoard, the Linux version, you can change winboard to xboard and change the path of fairy-stockfish to wherever you have it installed.
+
+Although I have less experience using Xboard than the other recommended software in this book, XBoard when combined with Fairy Stockfish allows you to play more types of Chess Variants than any other program that I know about.
+
+Also, if you beat Fairy Stockfish at depth 1 using commands similar to the above, then try changing that number to something higher and then then the computer will search deeper and find even better moves to play against you. Beating it at full strength is impossible for a human player.
+
+## En Croissant
+
+I recommend [En Croissant](https://encroissant.org/) for people who are only interested in playing standard Chess and want to analyze the games they have played on lichess.org or chess.com. It has a feature which can download all the rated games of a username of a player on those sites specifically. This means that if you play online on these sites, you can instantly obtain a database of your own games. You can use this to see how often you win or lose and what mistakes you are making.
+
+It also allows you to download larger databases of games like Caissabase which are full of games from the top Chess Masters of the world. This allows you to see how really good Chess players can play and maybe learn some things from them! That's what I try to do!
+
+## pgn-extract
+
+Once you have a database of your own games, or perhaps games of other people, you may want to filter them by certain criteria. The program [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/help.html) is exactly what you can do this with. It is a command line only program. You will have to read the documentation to know all of its options but here are some commands that I commonly use to keep track of my best wins.
+
+These commands use the file "lichess_chastitywhiterose.pgn" which I downloaded directly from lichess.org. There is a built in export feature that allows you to select games of different time controls and/or variants and decide which ones to export to pgn file. pgn-extract can only handle standard chess games but it can sort them extremely fast. For example
+
+This first command takes all of the games where chastitywhiterose was the white player and won the game by checkmate.
+
+`pgn-extract -Twchastitywhiterose -Tr1-0 lichess_chastitywhiterose.pgn -ochastitywhiterose_white_wins_lichess.pgn --checkmate`
+
+The second does the reverse and finds every time that chastitywhiterose played as black and then black won the game by checkmate.
+
+`pgn-extract -Tbchastitywhiterose -Tr0-1 lichess_chastitywhiterose.pgn -ochastitywhiterose_black_wins_lichess.pgn --checkmate`
+
+I have said for years that only games ending in a checkmate are reliable information. If you opponent timed out because they fell asleep or got distracted, that doesn't really feel like a win does it?
+
+## ChessX
+
+The best currently available free and open source Chess database management program is [ChessX](https://chessx.sourceforge.io/). It allows you to open a pgn file and actually play through all the games with a graphical user interface. This is the best way to analyze your games and see visually where you made the mistakes. I have not full explored everything that the program can do but I read that it also has filtering capabilities similar to what you could have done with pgn-extract which I previously mentioned.
+
+### Possible Updates
+
+I know there are infinitely more open-source Chess related programs out there that I have not had time to use or write about. If you know of any really good programs that are also open source, let me know and I can probably include them the next time I update this chapter!
+
