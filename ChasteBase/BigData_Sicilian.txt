@@ -1,0 +1,34 @@
+This file documents my method of filtering games to the Sicilian Defense. This opening is one that I have not played much but I am trying it out to see if it helps me win more than the French Defense. I will always like the French Defense more but I will give this a try for fun and for teaching purposes.
+
+Contents of file "C:\ChasteBase\BigData\sicilian.txt"
+
+1. e4 c5
+
+
+This section is for extracting white wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr1-0 -x../BigData/sicilian.txt -owhite_sicilian_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr1-0 -x../BigData/sicilian.txt -owhite_sicilian_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr1-0 -x../BigData/sicilian.txt -owhite_sicilian_Ajedrez.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr1-0 -x../BigData/sicilian.txt -owhite_sicilian_MasterGames.pgn --checkmate
+
+Combine them all back into one file.
+
+pgn-extract -owhite_sicilian_All.pgn white_sicilian_caissabase.pgn white_sicilian_MillionBase.pgn white_sicilian_Ajedrez.pgn white_sicilian_MasterGames.pgn
+
+This section is for extracting black wins.
+
+pgn-extract ../BigData/caissabase.pgn -Tr0-1 -x../BigData/sicilian.txt -oblack_sicilian_caissabase.pgn --checkmate
+
+pgn-extract ../BigData/MillionBase.pgn -Tr0-1 -x../BigData/sicilian.txt -oblack_sicilian_MillionBase.pgn --checkmate
+
+pgn-extract "../BigData/Ajedrez Data - Correspondence.pgn" "../BigData/Ajedrez Data - OTB.pgn" -Tr0-1 -x../BigData/sicilian.txt -oblack_sicilian_Ajedrez.pgn --checkmate
+
+pgn-extract ../BigData/MasterGames.pgn -Tr0-1 -x../BigData/sicilian.txt -oblack_sicilian_MasterGames.pgn --checkmate
+
+Combine them all back into one file.
+
+pgn-extract -oblack_sicilian_All.pgn black_sicilian_caissabase.pgn black_sicilian_MillionBase.pgn black_sicilian_Ajedrez.pgn black_sicilian_MasterGames.pgn

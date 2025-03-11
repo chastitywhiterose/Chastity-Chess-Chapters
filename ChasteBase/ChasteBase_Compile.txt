@@ -2,9 +2,8 @@ These commands compile all my databases that were previously extracted from larg
 
 The idea is to memorize these popular lines for improving my repertoire of common moves I play against real people over the board.
 
-pgn-extract -oAll_white.pgn white_french_All.pgn white_indian_All.pgn white_london_All.pgn white_queengambit_All.pgn
+pgn-extract -oAll_white.pgn white_french_All.pgn white_indian_All.pgn white_london_All.pgn white_queengambit_All.pgn white_sicilian_All.pgn
 
+pgn-extract -oAll_black.pgn black_french_All.pgn black_indian_All.pgn black_london_All.pgn black_queengambit_All.pgn black_sicilian_All.pgn
 
-
-pgn-extract -oAll_black.pgn black_french_All.pgn black_indian_All.pgn black_london_All.pgn black_queengambit_All.pgn
 
