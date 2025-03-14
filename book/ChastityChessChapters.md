@@ -20,22 +20,23 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 
 - [XBoard/WinBoard](http://hgm.nubati.net/)
 
-- [En Croissant
-The Ultimate Chess Toolkit](https://encroissant.org/)
+- [En Croissant](https://encroissant.org/)
 
 - [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/help.html)
 
 - [ChessX](https://chessx.sourceforge.io/)
 
-Chapter 5: The best Chess playing websites
+[Chapter 5: The Best Chess websites](https://chastitychesschallenge.com/2025/03/14/chapter-5-the-best-chess-websites/)
 
 - [lichess](https://lichess.org/) is the main site for standard Chess and variants like Crazyhouse
 - [lishogi](https://lishogi.org/) has Shogi, also known as Japanese Chess
-- [playstrategy](https://playstrategy.org/) has not only chess but also games like draughts and go
 - [pychess](https://www.pychess.org/) has more variants than lichess, including Duck Chess
-- [pychess_alternates](https://pychess-alternates.onrender.com/) Notable for Coffeehouse and Coffee Shogi!
+- [pychess_alternates](https://pychess-alternates.onrender.com/) is the place for Coffeehouse and Coffee Shogi!
+- [playstrategy](https://playstrategy.org/) has not only chess but also games like draughts and go
+- [chessvariants](https://www.chessvariants.com/) for learning more about Chess variants.
 
-Chapter 6: How to improve at the game of Chess.
+Chapter 6: How to improve at Chess
+
 - Don't take ratings too seriously
 - Tips that helped me
 
@@ -579,3 +580,66 @@ The best currently available free and open source Chess database management prog
 
 I know there are infinitely more open-source Chess related programs out there that I have not had time to use or write about. If you know of any really good programs that are also open source, let me know and I can probably include them the next time I update this chapter!
 
+# Chapter 5: The Best Chess Websites
+
+There are more websites to play Chess on than you can possibly imagine. However, only a few of them support variants beyond just standard Chess. In Chapter 2, I mentioned Crazyhouse, Atomic, Shogi, and Xiangqi. These are only 4 out of hundreds of variants. In this chapter, I will go over the top websites that I play on regularly and which variants I usually play on those sites.
+
+## Lichess.org
+
+[lichess](https://lichess.org/) is the first website you will want to visit and create an account if learning Standard Chess and variants based directly off of it. It support Chess960, Crazyhouse, Atomic, Three-Check, AntiChess, King of the Hill, Horde, and Racing Kings. This is more than most people can master.
+
+It's also important to mention that the site is entirely free and made with open source software. This is a big deal for me philosophically for me and for many other people who do not like the corruption of big companies that try to claim ownership over what can be done with a game. The site is financially funded by people who voluntarily donate because they want to help keep the developers paid and keep the site hosted, which is probably not easy considering that it manages billions of Chess games every month!
+
+Lichess is the second most popular Chess website in the world. Chess.com is still number one but it does not support all the variants that Lichess does. It also does not allow correspondence Chess of anything besides Standard Chess or Chess960. Because I like Crazyhouse the most, I started playing on lichess almost exclusively.
+
+## Lishogi.org
+
+Just as Lichess is built around Standard Chess and a few variants, [lishogi](https://lishogi.org/) is a fork of Lichess with everything changed to be about Shogi, which is the name for Japanese Chess. You will find that Shogi is even harder to master than Standard Chess and there are a lot more rules to remember, especially when it comes to promotion of pieces that reach the other side. The goal may still be to checkmate the king, but it is still a different game than Standard Chess. However, if you have played Crazyhouse Chess and you enjoy dropping captured pieces back on the board, I can't recommend a better site than lishogi. It also has variants of Shogi that I haven't even learned how to play.
+
+## Pychess.org
+
+[pychess](https://www.pychess.org/) has more variants than any other site mentioned in this chapter. However, there are 4 variants that I particularly play on there than I must recommend.
+
+### Duck Chess
+
+Just like Chess, except that there is also a duck! I know it sounds insane but this is one of the funniest but also most challenging variants. There is only one duck but after each player makes their regular Chess move, they are required to move the duck to a new empty square ANYWHERE on the board. The duck cannot capture anything but it also cannot be captured or moved through. This means that the duck can block even a checkmate temporarily if no other pieces can stop it.
+
+### Grand Chess
+
+Grand Chess is played on a 10x10 board and has two new pieces in addition to the standard chess pieces. The cardinal moves like a Bishop and a Knight. The Marshal moves like a Rook and a Knight. If you think about the fact that the Queen in Chess is like a combined Bishop and Rook, these piece combinations really don't seem unusual. Even so, pychess is one of the few sites you can play this variant on.
+
+### Fog of War
+
+In this variant, players cannot see their opponents pieces unless they have a piece that can legally move to that square. This variant is unique to playing on a computer because there is no way to simulate this experience on a regular chessboard that I can think of.
+
+### Alice Chess
+
+Alice Chess is a variant based on "Through the Looking-Glass" by Lewis Carroll. The game involves pieces moving between two different Chess boards or perhaps opposite sides of a single chessboard made of glass in the way that Pychess renders it on the site. I am really bad at this variant but because I am a fan of the Alice in Wonderland series, I think it is worth exploring more in detail and eventually I shall master it!
+
+## pychess-alternates.onrender.com
+
+The [pychess_alternates](https://pychess-alternates.onrender.com/) website is an alternate site for Pychess.org users which has more variants that have not been merged into the main site. I have to recommend it because it has two games not available anywhere else!
+
+### Coffeehouse
+
+Just like Crazyhouse except that captures are mandatory. If you can take an opponents piece, you are forced to even if it is a bad idea. I am bad at this variant but I love playing it and can never get enough people to play with because few people know the site exists..
+
+### Coffee Shogi
+
+Just like Coffeehouse except that it is based on Shogi instead of Standard Chess. This is probably the most psychologically challenging Chess variant that I have ever played! If nothing else, this would make the site worth a visit for the serious player who doesn't think Shogi is hard enough!
+
+Those are only two of the variants that are only available on that site. However, few people know about the site because it isn't talked about much. I only know about it because it was mentioned in a Pychess blog post.
+
+## playstrategy.org
+
+Playstrategy has a lot more than Chess and its variants. It also has Draughts, which is usually called Checkers in America, and Go, another really popular board game in Japan. I visit this site specifically to play those games even though it also has Chess, Shogi, and Xiangqi.
+
+## chessvariants.com
+
+The [chessvariants](https://www.chessvariants.com/) site is a great resource for learning about the rules of Chess variants that you have probably never heard of. Usually lichess and Pychess do a good summary of the rules and can be accessed directly on their site, but chessvariants can tell you a lot more information about the variants including their history which is useful for nerds like me. I don't just want to play the games, I want to know everything about them too.
+
+## Other sites
+
+[Chess.com](https://www.chess.com/) is usually the first site where people begin playing online Chess. Although lichess.org is better in my opinion, chess.com existed before lichess.org and has even more users. There is nothing to stop people from playing on both sites and see which they like better.
+
+[Xiangqi.com](https://www.xiangqi.com/) is probably the best resource for learning about Chinese Chess for a new player. I prefer playing on Pychess.org but that's because I already know how to play and because Pychess supports correspondence games which fit into my busy lifestyle better. But if you want to get a quick real time game of Xiangqi, then Xiangqi.com has the most users who are specifically looking to play this variant which is popular in China.
