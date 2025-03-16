@@ -1,0 +1,76 @@
+# Chastity Pandoc
+
+Chastity's notes of using Pandoc to convert markdown to other formats.
+
+Make PDF with default settings.
+
+pandoc ChastityChessChapters.md -o test1.pdf
+
+Make PDF but set the margins.
+
+pandoc ChastityChessChapters.md -o test2.pdf -V geometry:margin=.5in 
+
+Also set the font size(size 12 is actually the highest pandoc can do)
+
+pandoc ChastityChessChapters.md -o test3.pdf -V geometry:margin=.5in -V fontsize=12pt
+
+---
+
+Output to Latex format.
+
+pandoc ChastityChessChapters.md -o test.tex
+
+pandoc -f markdown -t latex --standalone ChastityChessChapters.md -o test.tex
+
+Convert to PDF
+
+pdflatex test.tex
+
+---
+
+pandoc ChastityChessChapters.md -o book.pdf
+
+pandoc ChastityChessChapters.md -o book.pdf -Vmargin-left=0.6in -Vmargin-right=0.6in
+
+1 inch for all margins
+
+pandoc ChastityChessChapters.md -o book.pdf -Vmargin-left=1in -Vmargin-right=1in -Vmargin-top=1in -Vmargin-bottom=1in
+
+0.5 margins
+
+pandoc ChastityChessChapters.md -o book.pdf -Vmargin-left=.5in -Vmargin-right=.5in -Vmargin-top=.5in -Vmargin-bottom=.5in
+
+pandoc ChastityChessChapters.md -o book.pdf -Vmargin-left=0.6in -Vmargin-right=0.6in
+
+
+
+---
+
+Show default code for empty odt file
+
+pandoc -D odt
+
+pandoc --print-default-data-file odt
+
+pandoc -D odt -o test.odt
+
+
+---
+
+Create default docx file for style reference.
+
+pandoc -o custom-reference.docx --print-default-data-file reference.docx
+
+---
+
+How to make a paperback book with Pandoc and LibreOffice.
+
+1. Create the default odt file that Pandoc uses for style reference.
+
+pandoc -o custom-reference.odt --print-default-data-file reference.odt
+
+2. Open the custom-reference.odt file in LibreOffice and modify the page margins to 0.5 for left and right margins. This is specific to my book only because the images are exactly 7.5 inches! This makes them perfectly centered to fit within the margins of a page that is 8.5x11 inches. Also, delete the footer. Page numbers are not necessary and space is wasted.
+
+3. Use the reference doc after modified as an input when making a new odt conversion of the book.
+
+pandoc ChastityChessChapters.md -o book.odt --reference-doc custom-reference.odt
