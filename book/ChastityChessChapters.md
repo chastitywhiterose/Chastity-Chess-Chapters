@@ -35,10 +35,11 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 - [playstrategy](https://playstrategy.org/) has not only chess but also games like draughts and go
 - [chessvariants](https://www.chessvariants.com/) for learning more about Chess variants.
 
-Chapter 6: How to improve at Chess
+[Chapter 6: How to Improve at Chess](https://chastitychesschallenge.com/2025/03/15/chapter-6-how-to-improve-at-chess/)
 
-- Don't take ratings too seriously
-- Tips that helped me
+- The Meaning of Chess Ratings
+- Keep a Database
+- Take Notes
 
 # Chapter 0: Introduction
 
@@ -578,7 +579,7 @@ The best currently available free and open source Chess database management prog
 
 ### Possible Updates
 
-I know there are infinitely more open-source Chess related programs out there that I have not had time to use or write about. If you know of any really good programs that are also open source, let me know and I can probably include them the next time I update this chapter!
+# I know there are infinitely more open-source Chess related programs out there that I have not had time to use or write about. If you know of any really good programs that are also open source, let me know and I can probably include them the next time I update this chapter!
 
 # Chapter 5: The Best Chess Websites
 
@@ -643,3 +644,57 @@ The [chessvariants](https://www.chessvariants.com/) site is a great resource for
 [Chess.com](https://www.chess.com/) is usually the first site where people begin playing online Chess. Although lichess.org is better in my opinion, chess.com existed before lichess.org and has even more users. There is nothing to stop people from playing on both sites and see which they like better.
 
 [Xiangqi.com](https://www.xiangqi.com/) is probably the best resource for learning about Chinese Chess for a new player. I prefer playing on Pychess.org but that's because I already know how to play and because Pychess supports correspondence games which fit into my busy lifestyle better. But if you want to get a quick real time game of Xiangqi, then Xiangqi.com has the most users who are specifically looking to play this variant which is popular in China.
+
+# Chapter 6: How to Improve at Chess
+
+In this chapter, I give some advice that I believe will help players improve.
+
+## The Meaning of Chess Ratings
+
+At some point, a Chess player will notice the numbers of their rating or their opponents on Chess websites. The ELO rating system is a very controversial and confusing tradition, which I believe can lead to problems. To avoid these problems, I want to explain some things.
+
+When you win a rated game, your rating goes up, and when you lose, your rating goes down. However, the amount by which it changes depends on the rating of your opponent. So, for example, if a 500-rated player beats a 2500-rated player, their rating would go up by a lot more than if they beat a 300.
+
+But the most important thing is that ratings are only a measurement of how smart of a player you are; they do not represent actual differences in strength or that one player has an unfair advantage. Chess is not like a physical sport where one person is stronger and can always win. The 500 and 2500 player each could win the game theoretically if they outsmart their opponent with the right moves.
+
+But what I am about to tell you is that players with high ratings are often cowards. They are afraid to play with lower rated players because if they lose, they lose more rating points than if they lose against another player rated closer to their rating.
+
+I believe this problem comes from the fact that having a high Chess rating is seen as a status symbol for bragging rights. My own opinion is that they are meaningless, however. You don't have to just take my word for it. I have links to two games to show an example of what I am talking about. The fact that every game in lichess is stored permanently on the server means that anyone in the world can play through it and see how it all happened.
+
+In this first game, I was rated 1763 but I beat someone rated 1926.
+
+https://lichess.org/lz2BBrn2
+
+If you browse through that game, you will see that they allowed me to fork their king and queen at the same time, and I captured their queen and then proceeded to checkmate them in a few moves after that.
+
+In the second game, I was rated 1913, but my opponent got a pawn to the other side and checkmated me with the new queen. I also made several mistakes, like allowing their bishop to fork both my rooks at the same time.
+
+https://lichess.org/5tnccreY
+
+Basically, the takeaway from this is that I go into each game knowing that I can theoretically win. Both sides have the same pieces at the start, and the only difference between me and my opponent is the moves we decide to make. I don't take Chess ratings seriously at all.
+
+That being said, as a player naturally improves and makes fewer mistakes, their rating will probably rise accidentally! So ignore what your opponent's rating is and instead look at where all their pieces are! That is what you should focus on. Do not be psychologically intimidated by what ratings you see.
+
+## Keep a Database
+
+One of the benefits of lichess is that every single game is stored on their website. Also, it is possible to export all of your games into a text file and then analyze it with the software of your choice, including those that I mentioned in [Chapter 4](https://chastitychesschallenge.com/2025/03/11/chapter-4-chess-software/).
+
+By downloading the database and loading it into software like ChessX or En-Croissant, you can see how often you are winning or losing with certain openings and see what moves you might be making that cost you the game. Keeping and studying a database of your games is the single most awesome way that you can learn from your losses and be encouraged by your past wins as well.
+
+## Take Notes
+
+Normally, a person cannot take notes during a chess game. In fact, it might be considered cheating in over-the-board tournaments. However, something that can be done is to take notes during correspondence games. Sometimes, you have to wait a few days before your opponent takes their turn. When this happens, you may totally forget what moves you planned to respond with when they captured that bishop or knight you sacrificed to set up a trap.
+
+Writing things down on paper or perhaps digitally on your phone or computer, which you normally use to play online Chess, can be a really good idea. It will keep you organized because correspondence Chess is harder on the brain than ordinary classical Chess. However, I find the lack of time limit to be quite relaxing. Having a ticking clock during live games can distract my eyes from the board and lead to mistakes. Therefore I recommend taking notes and trying correspondence instead if you also have this same problem.
+
+These notes can also be useful for planning your future games as well. If something worked well for you in a game, maybe try that same technique in the next game. If you don't write it down, you will probably forget!
+
+If you are looking for a good application to take notes on for PC, iPhone, or Android, I highly recommend [Joplin](https://joplinapp.org/). It allows you to take notes and organize them by folders or tags. Using Joplin could be useful for making a personal database of Chess games by tagging them according to wins, losses, and draws, as well as reasons for why the games were won or lost. Was it a checkmate or a resignation?
+
+If you are the writer, you can include as much or as little information as you want. One of the reasons I recommend installing the Joplin app over just having a bunch of text files on the computer is that my poor memory means that I can't remember where the files on my computer are. Having the notes in Joplin means that I can type in a search and find what I am looking for instantly!
+
+But the most important thing is that no matter what tools you use, you are in charge of your Chess improvement. You can do it according to your style and enjoy the journey.
+
+But remember, if you ever want a real person to help analyze your games from a human perspective, you can always ask me! I love to stream and record videos about Chess just for fun. I will gladly analyze your games, and you only need to ask!
+
+And the best part is, I don't charge money. I just want people to play Chess with me. That is why I must teach them the ancient ways of this game!
