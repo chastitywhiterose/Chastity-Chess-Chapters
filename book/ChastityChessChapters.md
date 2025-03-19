@@ -1,4 +1,4 @@
-# Chastity’s Chess Chapters
+# Chastity's Chess Chapters
 
 ## Table of Contents
 
@@ -43,17 +43,17 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 
 # Chapter 0: Introduction
 
-This is an ongoing chess book project for those who have falsely heard that chess is hard to learn. It will be updated as needed for the most effective teaching! This book Chastity's Chess Chapters is the official guidebook of what my business, Chastity's Chess Challenge is all about. I will be a chess teacher to the LGBTQIA+ community and people with disabilities.
+This chess book is an ongoing project for those who have falsely heard that chess is hard to learn. It will be updated as needed for the most effective teaching! This book, Chastity's Chess Chapters, is the official guidebook of what my business, Chastity's Chess Challenge, is all about. I will be a chess teacher to the LGBTQIA+ community and people with disabilities.
 
-Whether meeting in person, recording videos, or through some creative writing, I will do my best to make sure that nobody goes through life never learning how to play chess, the world's most popular board game sport!
+By meeting in person, recording videos, or through some Creative Writing, I will do my best to make sure that nobody goes through life never learning how to play chess, the world's most popular board game sport!
 
-I learned to play chess when I was 9 years old. My friend Patrick taught me, and I won the third game. He said he created a monster. Up to that point, I had always heard that chess was complicated. After learning the game, I struggled to find other people to play with. You have to remember that at that age I didn’t have the internet.
+I learned to play chess when I was 9 years old. My friend Patrick taught me, and I won the third game. He said he created a monster. Up to that point, I had always heard that chess was complicated. After learning the game, I struggled to find other people to play with. You have to remember that at that age I didn't have the internet.
 
 The internet changed the game because you no longer need to wait for another human in your town to play with. You can set up matches with random people on lichess.org, chess.com, and even Facebook. If all else fails, you can download a chess program and play against the computer using some of the best chess engines available.
 
-However, I will warn you that playing against a computer comes with pros and cons. Most computer programs will tear apart a player new to the game unless they are set to the lowest level AI. It can be discouraging to new players who lose twenty games in a row and then think, “I guess I am really bad at chess,” and then get discouraged and quit playing.
+However, I will warn you that playing against a computer comes with pros and cons. Most computer programs will tear apart a player new to the game unless they are set to the lowest level AI. It can be discouraging to new players who lose twenty games in a row and then think, "I guess I am really bad at chess," and then get discouraged and quit playing.
 
-Chess is a game where you are going to lose half the time because it’s a game of pure skill where anyone can win if they can outsmart their opponent. You don’t need to be a genius to play chess, and you certainly don’t have to know math or memorize opening theory to get started playing today. You only need to know the rules of chess, which can be learned in less than half an hour.
+Chess is a game where you are going to lose half the time because it's a game of pure skill where anyone can win if they can outsmart their opponent. You don't need to be a genius to play chess, and you certainly don't have to know math or memorize opening theory to get started playing today. You only need to know the rules of chess, which can be learned in less than half an hour.
 
 The book you are reading now is meant to teach the rules and be a reference to look back on if you forget. I will also include some common suggestions on a few good ways to get started playing and what your first moves should be as a beginner.
 
@@ -63,11 +63,11 @@ Hello, I am Chastity White Rose and I am a chess player. I am one of many people
 
 The actual rules of chess are not very hard to learn. There are 6 types of pieces, and they have very specific rules of how they move that never change. Compared to the complexity of most video games that people play, chess is actually very simple because there is a lot less to learn and remember. If you have played Pokemon, Final Fantasy, or Tetris, then you are smart enough for chess!
 
-But chess is not specifically a video game. It’s a board game that has only recently turned into a video game because there are chess programs for every machine you can imagine. You can play from a regular Personal Computer or a Smart Phone these days and play with other people all over the world through the internet. Later on, I will talk about some of the best sites to play chess online.
+But chess is not specifically a video game. It's a board game that has only recently turned into a video game because there are chess programs for every machine you can imagine. You can play from a regular Personal Computer or a Smart Phone these days and play with other people all over the world through the internet. Later on, I will talk about some of the best sites to play chess online.
 
-But first, a basic explanation of the goal of chess. The way to win the game of chess is to checkmate the opponent’s king. Checkmate means that you are attacking the king and it has nowhere to move to escape and would be captured on the next turn. I will show examples of what this looks like later on.
+But first, a basic explanation of the goal of chess. The way to win the game of chess is to checkmate the opponent's king. Checkmate means that you are attacking the king and it has nowhere to move to escape and would be captured on the next turn. I will show examples of what this looks like later on.
 
-For now, I intend to teach you the basic rules of how each piece moves by isolating them from the other pieces and highlighting the empty squares they can move to by highlighting those squares in green. Just think “green means go,” as in a traffic light.
+For now, I intend to teach you the basic rules of how each piece moves by isolating them from the other pieces and highlighting the empty squares they can move to by highlighting those squares in green. Just think "green means go," as in a traffic light.
 
 Below is a picture of what the chessboard typically looks like if you are playing on a computer chess program. This is how the pieces are arranged. The chess set used is called Merida and it is one of the piece sets available on lichess.org where I play chess online.
 
@@ -138,29 +138,29 @@ In this next image we see that the white queen is directly next to the black kin
 
 ![Chess_Checkmate_Example_1.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_checkmate_example_1.png)
 
-You may wonder why the king can’t simply capture the queen. That is because then the bishop would then capture the king. Two or more pieces can easily gang up on a king and then it is game over. There are times however when only one enemy piece can checkmate the king if that king is blocked by its own pieces.
+You may wonder why the king can't simply capture the queen. That is because then the bishop would then capture the king. Two or more pieces can easily gang up on a king and then it is game over. There are times however when only one enemy piece can checkmate the king if that king is blocked by its own pieces.
 
-Consider the following image of a checkmate that is shown from black’s perspective. If you are playing the black pieces, they will be closer to you. That is to simulate what it would look like from above on a real chessboard.
+Consider the following image of a checkmate that is shown from black's perspective. If you are playing the black pieces, they will be closer to you. That is to simulate what it would look like from above on a real chessboard.
 
 ![Chess_Checkmate_Example_2.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_checkmate_example_2.png)
 
 In this picture, you can see that white moved two of its pawns, and black also moved its queen over so that it is in direct diagonal direction from the king. This is checkmate because the white king is blocked by its own pieces from moving to a safe spot. It also cannot move anything in the way.
 
-This form of checkmate is called the fool’s mate. It only happens if white is being a fool and traps themselves. Normally, you would not want to move those pawns unless you had already given yourself an escape route or moved other pieces that could resist the queen's attack. The fool's mate is more common than you think, and I include it so that you don't fall into it.
+This form of checkmate is called the fool's mate. It only happens if white is being a fool and traps themselves. Normally, you would not want to move those pawns unless you had already given yourself an escape route or moved other pieces that could resist the queen's attack. The fool's mate is more common than you think, and I include it so that you don't fall into it.
 
-Now you know all of the most important rules of chess to get started with. There are two more rules called castling and en passant. However, I think it is best to get started playing chess and then learn about those rare cases later on. In the next chapter, I plan to show examples of what your first moves might be to get the game started. You can choose any legal move at any time it is your turn in the game of chess, but some moves are more likely to be successful than others. The previous example of the fool’s mate shows what pawns you may not want to move right at the start of the game.
+Now you know all of the most important rules of chess to get started with. There are two more rules called castling and en passant. However, I think it is best to get started playing chess and then learn about those rare cases later on. In the next chapter, I plan to show examples of what your first moves might be to get the game started. You can choose any legal move at any time it is your turn in the game of chess, but some moves are more likely to be successful than others. The previous example of the fool's mate shows what pawns you may not want to move right at the start of the game.
 
-For now, remember that you can get started playing chess today! To get started playing online I recommend lichess, the world’s best free chess server with no ads. Go to the following link and there are interactive lessons that allow you to practice moving the chess pieces.
+For now, remember that you can get started playing chess today! To get started playing online I recommend lichess, the world's best free chess server with no ads. Go to the following link and there are interactive lessons that allow you to practice moving the chess pieces.
 
 https://lichess.org/learn
 
 In fact, the depth of learning tools they offer you is far beyond what I have included in this chapter. However, I wish to point you in the right direction to a site you can use that will not scare you away with telling you to buy a premium membership or show ads constantly advertising products like Viagra, Burger King sandwiches, or laundry detergent. Nothing is worse than being distracted when you are trying to learn the number one board game in the world.
 
-And on that note, that is precisely why I paid for an upgraded plan on my wordpress blogs for the purpose of removing ads. I want to teach chess without my students or followers exposed to anything I find unethical and that I don’t have control over.
+And on that note, that is precisely why I paid for an upgraded plan on my wordpress blogs for the purpose of removing ads. I want to teach chess without my students or followers exposed to anything I find unethical and that I don't have control over.
 
 Playing chess online is a good way to get started because it is unlikely that you will have another person available 24/7 willing to play with you at a time that is convenient for you.
 
-Also, lichess does have a mobile app for cell phones but I recommend starting on a regular desktop or laptop PC because using a mouse is much easier than tapping on a tiny cell phone screen. It can be done but the chance of mistakes is higher. However, I have had great success playing on my iPad because of it’s much larger screen size.
+Also, lichess does have a mobile app for cell phones but I recommend starting on a regular desktop or laptop PC because using a mouse is much easier than tapping on a tiny cell phone screen. It can be done but the chance of mistakes is higher. However, I have had great success playing on my iPad because of it's much larger screen size.
 
 Try practicing playing a few games and then continue to the next chapter to see my personal suggestions on starting moves to help you have a chance at winning more often.
 
@@ -176,11 +176,11 @@ I will finish this chapter by explaining the en passant and castling rules. Thes
 
 En Passant
 
-Because of the fact that a pawn can move two squares on its first turn, there is a special rule called en passant which allows the opponent’s pawn AS IF it had moved only one. Consider the following picture. The black pawn just moved two squares from it’s starting position. The blue square is where the white pawn can move to and capture the pawn “in passing” (which is what “en passant” means in french).
+Because of the fact that a pawn can move two squares on its first turn, there is a special rule called en passant which allows the opponent's pawn AS IF it had moved only one. Consider the following picture. The black pawn just moved two squares from it's starting position. The blue square is where the white pawn can move to and capture the pawn "in passing" (which is what "en passant" means in french).
 
 ![Chess_en_passant.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_en_passant.png)
 
-The idea is that the pawn would have captured the pawn while it was moving through that square. This is to compensate for the limitations of a turn based game. Don’t worry though, this rule only applies to pawns and only on the turn immediately after a pawn has moved two squares last turn.
+The idea is that the pawn would have captured the pawn while it was moving through that square. This is to compensate for the limitations of a turn based game. Don't worry though, this rule only applies to pawns and only on the turn immediately after a pawn has moved two squares last turn.
 
 Castling
 
@@ -188,7 +188,7 @@ Remember when I said a king only moves one square at a time? Most of the time th
 
 ![Chess_Castle_Setup.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_castle_setup.png)
 
-Because there are no pieces in between the king and rooks and because the king and rooks have not moved in this game, they are allowed to do a one time “castle” move where the king and the rook both move. The king moves two spaces towards the rook and then the rook goes to the square the king skipped over!
+Because there are no pieces in between the king and rooks and because the king and rooks have not moved in this game, they are allowed to do a one time "castle" move where the king and the rook both move. The king moves two spaces towards the rook and then the rook goes to the square the king skipped over!
 
 King side castle
 
@@ -198,17 +198,17 @@ Queen side castle
 
 ![Chess_Castle_Left.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_castle_left.png)
 
-Don’t let these special rules confuse you too much. They are a bit nonsensical. In fact I would compare them to the T spin triple rules in Tetris. On a related note, Tetris is actually a really good game too. Tetris is my favorite video game but it is not as easy to play as chess because Tetris requires quick reflexes and planning in mere seconds.
+Don't let these special rules confuse you too much. They are a bit nonsensical. In fact I would compare them to the T spin triple rules in Tetris. On a related note, Tetris is actually a really good game too. Tetris is my favorite video game but it is not as easy to play as chess because Tetris requires quick reflexes and planning in mere seconds.
 
-Chess is more of a game for slow careful thinkers. Although there are some who play speed chess, I don’t recommend trying to play fast for beginners. Focus on quality of moves rather than how many moves you can make in a minute. Also, play without time limits or choose time limits that are reasonable. I play 30 minute live games against other people online and my rating for classical chess is higher than rapid, blitz, or bullet chess for that reason.
+Chess is more of a game for slow careful thinkers. Although there are some who play speed chess, I don't recommend trying to play fast for beginners. Focus on quality of moves rather than how many moves you can make in a minute. Also, play without time limits or choose time limits that are reasonable. I play 30 minute live games against other people online and my rating for classical chess is higher than rapid, blitz, or bullet chess for that reason.
 
-Time limits are artificial inventions made for convenience of society. Don’t rush through chess they same way everyone in society forces you to be fast and cause accidents in the real world. I work at Walmart so I know exactly what happens when employees are rushed. Products get put in the wrong spot and injuries happen if people value only speed and forsake everything else.
+Time limits are artificial inventions made for convenience of society. Don't rush through chess they same way everyone in society forces you to be fast and cause accidents in the real world. I work at Walmart so I know exactly what happens when employees are rushed. Products get put in the wrong spot and injuries happen if people value only speed and forsake everything else.
 
 Chess, or any game for that matter should be for fun, not as a job you do because someone else is forcing you to. No matter what, you must remember that!
 
 # Chapter 2: Chastity's Recommended Openings
 
-For the sake of keeping this book short, I will not be trying to teach all details about chess notation. Part of this is because I don’t want to explain it wrong. However, all the major chess sites including lichess do keep track of the moves you play in every game and will show you the chess notation. It’s actually very easy to pick up just by looking at examples from your own games. I will be calling moves by their chess notation name but every almost every move will also have a picture with it so that there will be no confusion as to what it means.
+For the sake of keeping this book short, I will not be trying to teach all details about chess notation. Part of this is because I don't want to explain it wrong. However, all the major chess sites including lichess do keep track of the moves you play in every game and will show you the chess notation. It's actually very easy to pick up just by looking at examples from your own games. I will be calling moves by their chess notation name but every almost every move will also have a picture with it so that there will be no confusion as to what it means.
 
 White takes their turn first in the game of chess. This means that if you are playing as white, you have the unique opportunity to pick the first move that will set the course of the rest of the game! However, there are only a few moves that are considered to be very good. I will show you the two most popular choices that white players use to start the game.
 
@@ -216,44 +216,44 @@ But first, I have an example image that shows the names of all the squares in ch
 
 ![Chess_Coordinates_White.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_coordinates_white.png)
 
-That image has all the letters and numbers of each square from the white player’s perspective. Look back at this picture because it will help explain a lot of what I mean in the pages after it.
-Square E1 is where the white king starts the game and E8 is where the black king starts the game. Also look at squares F2 and F7 because those are the squares most vulnerable to attacks that put the king in check. Moving those pawns at the beginning of the game is asking for trouble! The most popular first move for white is e4 (white’s king pawn two squares forward).
+That image has all the letters and numbers of each square from the white player's perspective. Look back at this picture because it will help explain a lot of what I mean in the pages after it.
+Square E1 is where the white king starts the game and E8 is where the black king starts the game. Also look at squares F2 and F7 because those are the squares most vulnerable to attacks that put the king in check. Moving those pawns at the beginning of the game is asking for trouble! The most popular first move for white is e4 (white's king pawn two squares forward).
 
 ![e4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4.png)
 
-The main reason e4 is a popular move is because it allows white’s queen or bishop to get out on the next turn white plays. Most chess masters consider it to be the best move and it is also commonly played by chess engines. But it’s not the only popular move. The second is d4 (white’s queen pawn two squares forward)
+The main reason e4 is a popular move is because it allows white's queen or bishop to get out on the next turn white plays. Most chess masters consider it to be the best move and it is also commonly played by chess engines. But it's not the only popular move. The second is d4 (white's queen pawn two squares forward)
 
 ![d4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4.png)
 
-Moving this pawn to d4 is popular because it is the start of many different openings that involve getting the dark squared bishop out early in the game. This could be the start of the Queen’s Gambit, Trompowsky Attack, or the London System.
+Moving this pawn to d4 is popular because it is the start of many different openings that involve getting the dark squared bishop out early in the game. This could be the start of the Queen's Gambit, Trompowsky Attack, or the London System.
 
-But that isn’t to say there aren’t countless openings that begin with the first and most popular choice I mentioned earlier. If you are playing white, you should decide which of these moves to start with and then you should start with it every time until you get used to seeing how your opponent moves and how they respond to each of your moves. That’s not just my advice but is the advice of chess coach Levy Rozman (GothamChess) who I learned a lot from!
+But that isn't to say there aren't countless openings that begin with the first and most popular choice I mentioned earlier. If you are playing white, you should decide which of these moves to start with and then you should start with it every time until you get used to seeing how your opponent moves and how they respond to each of your moves. That's not just my advice but is the advice of chess coach Levy Rozman (GothamChess) who I learned a lot from!
 
-Although studying openings is fun, don’t rely on them so much that you find yourself lost as soon as your opponent does something unexpected. That being said, you should probably have a plan for the first 4 moves at least. Planning ahead requires some experience of playing, winning, and losing games to see what worked and what didn’t.
+Although studying openings is fun, don't rely on them so much that you find yourself lost as soon as your opponent does something unexpected. That being said, you should probably have a plan for the first 4 moves at least. Planning ahead requires some experience of playing, winning, and losing games to see what worked and what didn't.
 
-I find that I win my games more often when I start with e4, but I find myself having more fun when I play d4 as my first move and then try for the Queen’s Gambit, which is my favorite. I will be explaining the Queen’s Gambit opening later on but first I am going to show you the most generic ways to start the game. This will mostly be from white’s perspective but you will find that this method is flexible enough to be mirrored for both players.
+I find that I win my games more often when I start with e4, but I find myself having more fun when I play d4 as my first move and then try for the Queen's Gambit, which is my favorite. I will be explaining the Queen's Gambit opening later on but first I am going to show you the most generic ways to start the game. This will mostly be from white's perspective but you will find that this method is flexible enough to be mirrored for both players.
 
-The Bishop’s Opening
+The Bishop's Opening
 
 First, both white and black move their e file pawns two squares for their first move.
 
 ![e4-e5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5.png)
 
-This is equally good for both of them because that allows both of them to get their bishops or queens moved out diagonally. Keep in mind that at the beginning of the game, diagonal moves are faster than orthogonal moves. The rooks can’t get out because the pawns in front of them are blocking their movement. For this reason, your early attacks will depend on bishops.
+This is equally good for both of them because that allows both of them to get their bishops or queens moved out diagonally. Keep in mind that at the beginning of the game, diagonal moves are faster than orthogonal moves. The rooks can't get out because the pawns in front of them are blocking their movement. For this reason, your early attacks will depend on bishops.
 
 ![e4-e5-Bc4-Bc5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5.png)
 
-Next, the bishops come out. This means they are both attacking the weak F2 and F7 squares I mentioned earlier. This position is called the bishop’s opening for obvious reasons.
-If you find yourself in the bishop’s opening position, you have some serious options to consider. If you are playing white, you already have an advantage in this position because it is your turn. You could move the knight to F3 and attack the e5 pawn or you might want to move the queen to H5 and try a scholar’s mate.
+Next, the bishops come out. This means they are both attacking the weak F2 and F7 squares I mentioned earlier. This position is called the bishop's opening for obvious reasons.
+If you find yourself in the bishop's opening position, you have some serious options to consider. If you are playing white, you already have an advantage in this position because it is your turn. You could move the knight to F3 and attack the e5 pawn or you might want to move the queen to H5 and try a scholar's mate.
 Keep in mind that the possible moves your opponent can do are endless and that to a certain extent, to show an example, I have to make up possible moves of only one of them just to prove the point I am showing. There is no way of knowing if you will end up in the mirrored bishop setup as shown in the previous image. With that being said, if you EVER DO find yourself in this exact position, I will show you some great possibilities that can come from it. I recommend knight to F3.
 
 ![e4-e5-Bc4-Bc5-Nf3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3.png)
 
-Why is this position good for white, you may ask. That’s because this knight move accomplishes several things at once.
+Why is this position good for white, you may ask. That's because this knight move accomplishes several things at once.
 1. It attacks the E5 pawn
 2. It gets the knight out of the way so the king can castle
-3. It prevents the black queen from going to H4 and trying to  scholar’s mate white king on F2.
-Based on my experience, what usually happens after this is that black will move their queen’s pawn to D6 and defend the E4 pawn. Then white will do the reverse and move their queen pawn to D3.
+3. It prevents the black queen from going to H4 and trying to  scholar's mate white king on F2.
+Based on my experience, what usually happens after this is that black will move their queen's pawn to D6 and defend the E4 pawn. Then white will do the reverse and move their queen pawn to D3.
 
 ![e4-e5-Bc4-Bc5-Nf3-d6-d3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3-d6-d3.png)
 
@@ -269,28 +269,28 @@ You may wonder why we would sacrifice a bishop. The idea behind this is for the 
 
 ![e4-e5-Bc4-Bc5-Nf3-d6-d3-Bg4-Bf7-Kf7-Ng5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3-d6-d3-bg4-bf7-kf7-ng5.png)
 
-At this point, the king is forced to move again. No matter where the king moves to, it will be white’s turn again and the white queen can capture the black bishop!
+At this point, the king is forced to move again. No matter where the king moves to, it will be white's turn again and the white queen can capture the black bishop!
 
 ![e4-e5-Bc4-Bc5-Nf3-d6-d3-Bg4-Bf7-Kf7-Ng5-Ke8-Qg4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3-d6-d3-bg4-bf7-kf7-ng5-ke8-qg4.png)
 
-At this point, white has lost a bishop but they have also taken a bishop and a pawn. This strategy of sacrificing pieces to gain an advantage is one of my favorite things to do. It highlights the importance of being able to plan ahead in chess. With that being said, I will next teach you my favorite opening for white, the Queen’s Gambit!
+At this point, white has lost a bishop but they have also taken a bishop and a pawn. This strategy of sacrificing pieces to gain an advantage is one of my favorite things to do. It highlights the importance of being able to plan ahead in chess. With that being said, I will next teach you my favorite opening for white, the Queen's Gambit!
 
-# The Queen’s Gambit
+# The Queen's Gambit
 
-The Queen’s Gambit sounds like a fancy name, and this name was used for a Netflix show as well. However, this opening was well known before people had televisions, computers, or the internet. The word “gambit” means sacrifice. In this opening white sacrifices a pawn with the hope of getting an advantage later. To some people, it also means a gamble because there is no way of knowing if it will work out the way you want depending on what your opponent does.
+The Queen's Gambit sounds like a fancy name, and this name was used for a Netflix show as well. However, this opening was well known before people had televisions, computers, or the internet. The word "gambit" means sacrifice. In this opening white sacrifices a pawn with the hope of getting an advantage later. To some people, it also means a gamble because there is no way of knowing if it will work out the way you want depending on what your opponent does.
 
 The opening starts with each side moving the pawn in front of their queen.
 Then white moves the pawn on C2 to C4.
 
 ![d4-d5-c4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4.png)
 
-In this position, black’s pawn can capture the white pawn and yet it doesn’t appear that white can capture it back, at least not yet. If it does take the pawn, this is known as accepting the gambit. New players will more likely than not take this pawn if they don’t see the trap.
+In this position, black's pawn can capture the white pawn and yet it doesn't appear that white can capture it back, at least not yet. If it does take the pawn, this is known as accepting the gambit. New players will more likely than not take this pawn if they don't see the trap.
 
 ![d4-d5-c4-dxc4-e4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-dxc4-e4.png)
 
-You see, the idea was to distract the pawn and move it away from the center so that white’s king pawn could move two squares forward. Also notice that the white bishop on F1 could also capture the black pawn on C4 next turn, but not so fast, first, black has to choose their next move. The only problem is that there really is no good way for black to stop white from taking their pawn with the bishop. If they try to protect it with another pawn, things can turn out badly. Sooner or later white will capture back the C4 pawn with the bishop and if black tries to stop it, they will only lose more pieces.
+You see, the idea was to distract the pawn and move it away from the center so that white's king pawn could move two squares forward. Also notice that the white bishop on F1 could also capture the black pawn on C4 next turn, but not so fast, first, black has to choose their next move. The only problem is that there really is no good way for black to stop white from taking their pawn with the bishop. If they try to protect it with another pawn, things can turn out badly. Sooner or later white will capture back the C4 pawn with the bishop and if black tries to stop it, they will only lose more pieces.
 
-My best advice is that if you accept the Queen’s Gambit, also accept that you will lose this pawn and don’t try to defend it with by moving the b7 pawn to b5. This has never worked out well for my opponents. Do not let the sequence of the following images happen to you!
+My best advice is that if you accept the Queen's Gambit, also accept that you will lose this pawn and don't try to defend it with by moving the b7 pawn to b5. This has never worked out well for my opponents. Do not let the sequence of the following images happen to you!
 
 ![d4-d5-c4-dxc4-e4-b5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-e4-b5.png)
 
@@ -306,9 +306,9 @@ My best advice is that if you accept the Queen’s Gambit, also accept that you 
 
 I also want you to notice that the previous sequence of moves would still be just as bad if white had decided to move their king's pawn only one space to e3. There are valid reasons they might do so to add extra protection to the d4 pawn. The d4 pawn is only protected by the queen right now so beware of this in all your games.
 
-If you are the black player, I would recommend against accepting the Queen’s Gambit entirely. It leads to many traps by white. If you do accept it, you will lose your pawn anyway. Don’t waste time with that and instead move out other pawns depending on what pieces you plan to move. Below are the two most common responses to the Queen’s Gambit.
+If you are the black player, I would recommend against accepting the Queen's Gambit entirely. It leads to many traps by white. If you do accept it, you will lose your pawn anyway. Don't waste time with that and instead move out other pawns depending on what pieces you plan to move. Below are the two most common responses to the Queen's Gambit.
 
-## Queen’s Gambit Declined
+## Queen's Gambit Declined
 
 ![d4-d5-c4-e6.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-e6.png)
 
@@ -316,39 +316,39 @@ If you are the black player, I would recommend against accepting the Queen’s G
 
 ![d4-d5-c4-c6.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-c6.png)
 
-Both of these responses allow you to capture the white pawn back if it captures your D5 pawn. More importantly, you are getting pawns out of the way of your other pieces so that they can start attacking white. The Queen’s Gambit Declined is probably slightly better than the Slav Defense because moving the king’s pawn is just generally a great move because then black’s queen and dark squared bishop can move out diagonally and try to attack white.
+Both of these responses allow you to capture the white pawn back if it captures your D5 pawn. More importantly, you are getting pawns out of the way of your other pieces so that they can start attacking white. The Queen's Gambit Declined is probably slightly better than the Slav Defense because moving the king's pawn is just generally a great move because then black's queen and dark squared bishop can move out diagonally and try to attack white.
 
-But a final note is that accepting or declining the Queen’s Gambit does not lose for black by any means, but accepting it allows white to get both of their center pawns and allows them to start moving both bishops out very quickly. White already has the advantage, don’t give them more help if you are the black player. But if you are the white player, I have plenty of advice on what to do. However I may have to add more to this book later.
+But a final note is that accepting or declining the Queen's Gambit does not lose for black by any means, but accepting it allows white to get both of their center pawns and allows them to start moving both bishops out very quickly. White already has the advantage, don't give them more help if you are the black player. But if you are the white player, I have plenty of advice on what to do. However I may have to add more to this book later.
 
-Now one thing you may have noticed is that the Queen’s Gambit started with moving the Queen’s Pawn (D4) instead of the King’s Pawn (E4) like in the previous example with the elaborate bishop sacrifice. Queen pawn openings are just far more fun to play because the game takes longer and my opponents get frustrated. E4 is better for quicker wins but is so cliché that I got tired of playing it and became a D4 player for my first move.
+Now one thing you may have noticed is that the Queen's Gambit started with moving the Queen's Pawn (D4) instead of the King's Pawn (E4) like in the previous example with the elaborate bishop sacrifice. Queen pawn openings are just far more fun to play because the game takes longer and my opponents get frustrated. E4 is better for quicker wins but is so cliché that I got tired of playing it and became a D4 player for my first move.
 
 ## The London System
 
-I am not the first person to say that the London System is a solid opening. In fact it’s probably the best opening to teach a beginner who has decided they like to open the game with D4. The first move will always be D4. But the London System is actually quite different than the Queen's Gambit because your goal is not an early attack nor sacrificing pieces. The goal is to build a defensive structure. Look at the following picture.
+I am not the first person to say that the London System is a solid opening. In fact it's probably the best opening to teach a beginner who has decided they like to open the game with D4. The first move will always be D4. But the London System is actually quite different than the Queen's Gambit because your goal is not an early attack nor sacrificing pieces. The goal is to build a defensive structure. Look at the following picture.
 
 ![7 move london white only.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/7-move-london-white-only.png)
 
-It takes a total of 7 moves to achieve this setup but it can usually be done quite easily no matter what black does. If you don’t get this position on your side because you had a chance to take your opponent’s pieces because they made bad moves, then that should take priority over building this. For example, suppose that your opponent moves their king’s pawn two squares forward to E5, then just take it with your pawn!
+It takes a total of 7 moves to achieve this setup but it can usually be done quite easily no matter what black does. If you don't get this position on your side because you had a chance to take your opponent's pieces because they made bad moves, then that should take priority over building this. For example, suppose that your opponent moves their king's pawn two squares forward to E5, then just take it with your pawn!
 
 ![d4-e5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-e5.png)
 
 ![d4-e5-dxe5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-e5-dxe5.png)
 
-It’s totally easy to see how a player might be used to moving their king’s pawn two squares and might mistakenly let white’s D4 pawn take it. This completely disabled black’s development besides costing them a pawn. They can’t move their knight to F6, nor can they move the pawn in front of their queen either one or two spaces (because of en passant rule). If black makes this mistake, then they already have a huge disadvantage. This is not like the Queen’s Gambit because there is no advantage to offering white a free pawn. If black does this, then take that pawn and then build the rest of the London Fortress even though there will be a missing pawn at the head of the pyramid of pawns. But most of the time, your opponent will not make a mistake as bad as the previous example. They will most likely do something smarter such as knight to F6.
+It's totally easy to see how a player might be used to moving their king's pawn two squares and might mistakenly let white's D4 pawn take it. This completely disabled black's development besides costing them a pawn. They can't move their knight to F6, nor can they move the pawn in front of their queen either one or two spaces (because of en passant rule). If black makes this mistake, then they already have a huge disadvantage. This is not like the Queen's Gambit because there is no advantage to offering white a free pawn. If black does this, then take that pawn and then build the rest of the London Fortress even though there will be a missing pawn at the head of the pyramid of pawns. But most of the time, your opponent will not make a mistake as bad as the previous example. They will most likely do something smarter such as knight to F6.
 
 ![d4-nf6.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6.png)
 
-In this position, we see that the black knight is trying to prevent our king’s pawn to e4. That’s totally fine because that is not what we will do in the London system. We will continue to build our setup. In this position we should next move the bishop to F4.
+In this position, we see that the black knight is trying to prevent our king's pawn to e4. That's totally fine because that is not what we will do in the London system. We will continue to build our setup. In this position we should next move the bishop to F4.
 
-It’s worth mentioning that bishop to F5 would also be a good move, and would be called the Trompowsky attack. However, since I am teaching the London System, we will stick with bishop to F4 for now.
+It's worth mentioning that bishop to F5 would also be a good move, and would be called the Trompowsky attack. However, since I am teaching the London System, we will stick with bishop to F4 for now.
 
 ![d4-nf6-bf4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6-bf4.png)
 
-Because of the fact that we have disabled the enemy king’s pawn from moving two squares, most players will instead move their queen’s pawn two squares instead. Remember, moving the pawns in front of the king or queen is almost always a good idea. With that in mind, our next move should be pawn to E3 because this is the next step in building the pawn pyramid, and it also adds an extra defender to the E4 pawn and Bishop.
+Because of the fact that we have disabled the enemy king's pawn from moving two squares, most players will instead move their queen's pawn two squares instead. Remember, moving the pawns in front of the king or queen is almost always a good idea. With that in mind, our next move should be pawn to E3 because this is the next step in building the pawn pyramid, and it also adds an extra defender to the E4 pawn and Bishop.
 
 ![d4-nf6-bf4-d5-e3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6-bf4-d5-e3.png)
 
-Keep in mind that this is still early in the game and that chess openings only take you so far. However, white has a really good winning chance in this setup. For example, black may try to offer the black version of the Queen’s Gambit by pawn to C5. However, doing so allows us to take their knight on B8!
+Keep in mind that this is still early in the game and that chess openings only take you so far. However, white has a really good winning chance in this setup. For example, black may try to offer the black version of the Queen's Gambit by pawn to C5. However, doing so allows us to take their knight on B8!
 
 ![d4-nf6-bf4-d5-e3-c5-bxb8.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6-bf4-d5-e3-c5-bxb8.png)
 
@@ -579,7 +579,7 @@ The best currently available free and open source Chess database management prog
 
 ### Possible Updates
 
-# I know there are infinitely more open-source Chess related programs out there that I have not had time to use or write about. If you know of any really good programs that are also open source, let me know and I can probably include them the next time I update this chapter!
+I know there are infinitely more open-source Chess related programs out there that I have not had time to use or write about. If you know of any really good programs that are also open source, let me know and I can probably include them the next time I update this chapter!
 
 # Chapter 5: The Best Chess Websites
 
