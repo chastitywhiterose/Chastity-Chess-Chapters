@@ -69,23 +69,23 @@ But first, a basic explanation of the goal of chess. The way to win the game of 
 
 For now, I intend to teach you the basic rules of how each piece moves by isolating them from the other pieces and highlighting the empty squares they can move to by highlighting those squares in green. Just think "green means go," as in a traffic light.
 
-Below is a picture of what the chessboard typically looks like if you are playing on a computer chess program. This is how the pieces are arranged. The chess set used is called Merida and it is one of the piece sets available on lichess.org where I play chess online.
+Below is a picture of what the chessboard typically looks like if you are playing a computer chess program. This picture shows how the pieces are arranged. The chess set used is called Merida, and it is one of the piece sets available on lichess.org, where I play chess online.
 
 ![Chess_Start.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_start.png)
 
 I will next explain the names of each of these pieces and how they move.
 
-The first piece that you will want to learn is the pawn. The pawns are the most abundant piece on the board and each side (black and white) has 8 of them to start with. They only move in one forward direction (away from the side they started on)
+The first piece that you will want to learn is the pawn. The pawns are the most abundant piece on the board, and each side (black and white) has 8 of them to start with. They only move in one forward direction (away from the side they started on)
 
 ![Chess_Pawn_Move.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_pawn_move.png)
 
-Pawns can move one square forward except that they can also move two spaces on their first move. Notice that the left pawn is in its starting position and has not moved yet, so it can move to either square in front of it highlighted in green, but only on this first move.
+Pawns can move one square forward, except that they can also move two spaces on their first move. Notice that the left pawn is in its starting position and has not moved yet. Because of this, it can move to either square in front of it highlighted in green, but only on this first move.
 
 Pawns capture other pieces differently than the way they move onto empty spaces. They capture only one space diagonally forward. Consider the following image:
 
 ![Chess_Pawn_Capture.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_pawn_capture.png)
 
-The white pawn can capture either of the two black pawns on the blue squares because they are diagonally one space in front. Notice that the white pawn cannot capture the pawn exactly one space in front. It only can move that way if the square is empty.
+The white pawn can capture either of the two black pawns on the blue squares because they are diagonally one space in front. Notice that the white pawn cannot capture the pawn exactly one space in front. It can only move that way if the square is empty.
 
 The previous two pages contain everything you need to get started with moving pawns. There is another rule called en passant that I will cover later in the special rules at the end of this chapter because it is quite rare to see. The main thing right now is to learn how each piece moves. Also, I want to explain my convention of how I use color in this book.
 
@@ -122,49 +122,49 @@ See the image below to get an example of all the places a knight can jump to. It
 
 ![Chess_Knight_Move.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_knight_move.png)
 
-This movement of jumping over other pieces is unique to the knight. Using it effectively is the challenge because it is harder for new players to visualize it. Consider coming back to this page for a visual reminder of it.
+This movement of jumping over other pieces is unique to the knight. Using it effectively is a challenge because it is harder for new players to visualize it. Consider coming back to this page for a visual reminder of it.
 
-The queen is the most powerful piece in the game because she has the combined powers of a rook and a bishop! See below the example of all the places that queen can move to!
+The queen is the most powerful piece in the game because she has the combined powers of a rook and a bishop! See below the example of all the places that the queen can move to!
 
 ![Chess_Queen_Move.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_queen_move.png)
 
-As you might guess, the queen is usually what people rely on to win the game, and players try to avoid losing the queen. She may only be a single piece but can wipe out an army unless the opponent has a plan to stop her!
+As you might guess, the queen is what most people rely on to win the game because she is so powerful. Players try to avoid losing the queen. She may only be a single piece but can wipe out an army unless the opponent has a plan to stop her!
 
-The king is exactly like a queen, but it can only move one square in any of the 8 directions. It is also the most important piece that decides who wins or loses the game. If the king is being attacked and cannot move to a legal square, that player who owns the king loses the game.
+The king is exactly like a queen, but it can only move one square in any of the 8 directions. It is also the most important piece that decides who wins or loses the game. If the king is being attacked and cannot move to a legal square, the player who owns the king loses the game.
 
 ![Chess_King_Move.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_king_move.png)
 
-In this next image we see that the white queen is directly next to the black king. The black king has only one empty square that it could move to but the queen attacks that square too and would still capture the king. That means it is checkmate! The white player wins in this example.
+In this next image, we see that the white queen is directly next to the black king. The black king has only one empty square that it could move to, but the queen attacks that square too and would still capture the king. That means it is checkmate! The white player wins in this example.
 
 ![Chess_Checkmate_Example_1.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_checkmate_example_1.png)
 
-You may wonder why the king can't simply capture the queen. That is because then the bishop would then capture the king. Two or more pieces can easily gang up on a king and then it is game over. There are times however when only one enemy piece can checkmate the king if that king is blocked by its own pieces.
+You may wonder why the king can't simply capture the queen. That is because then the bishop would then capture the king. Two or more pieces can easily gang up on a king and then it is game over. There are times, however, when only one enemy piece can checkmate the king if that king is blocked by its pieces.
 
-Consider the following image of a checkmate that is shown from black's perspective. If you are playing the black pieces, they will be closer to you. That is to simulate what it would look like from above on a real chessboard.
+Consider the following image of a checkmate that is shown from the black player's perspective. If you are playing the black pieces, they will be closer to you. That is to simulate what it would look like from above on a real chessboard.
 
 ![Chess_Checkmate_Example_2.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_checkmate_example_2.png)
 
-In this picture, you can see that white moved two of its pawns, and black also moved its queen over so that it is in direct diagonal direction from the king. This is checkmate because the white king is blocked by its own pieces from moving to a safe spot. It also cannot move anything in the way.
+In this picture, you can see that white moved two of its pawns, and black also moved its queen over so that it is in a direct diagonal direction from the king. This position is checkmate because the other white pieces block the white king from moving to a safe spot. It also cannot move anything in the way.
 
-This form of checkmate is called the fool's mate. It only happens if white is being a fool and traps themselves. Normally, you would not want to move those pawns unless you had already given yourself an escape route or moved other pieces that could resist the queen's attack. The fool's mate is more common than you think, and I include it so that you don't fall into it.
+This form of checkmate is called the fool's mate. It only happens if the white player is being a fool and traps themselves. Normally, you would not want to move those pawns unless you had already given yourself an escape route or moved other pieces that could resist the queen's attack. The fool's mate is more common than you think, and I include it so that you don't fall into it.
 
-Now you know all of the most important rules of chess to get started with. There are two more rules called castling and en passant. However, I think it is best to get started playing chess and then learn about those rare cases later on. In the next chapter, I plan to show examples of what your first moves might be to get the game started. You can choose any legal move at any time it is your turn in the game of chess, but some moves are more likely to be successful than others. The previous example of the fool's mate shows what pawns you may not want to move right at the start of the game.
+Now you know all of the most important rules of chess to get started with. There are two more rules called castling and en passant. However, I think it is best to get started playing chess and then learn about those rare cases later on. In the next chapter, I plan to show examples of what your first moves might be to get the game started. You can choose any legal move while it is your turn in the game of chess, but some moves are more likely to be successful than others. The previous example of the fool's mate shows what pawns you may not want to move right at the start of the game.
 
-For now, remember that you can get started playing chess today! To get started playing online I recommend lichess, the world's best free chess server with no ads. Go to the following link and there are interactive lessons that allow you to practice moving the chess pieces.
+For now, remember that you can get started playing chess today! To get started playing online, I recommend lichess, the world's best free chess server with no ads. Go to the following link and there are interactive lessons that allow you to practice moving the chess pieces.
 
 https://lichess.org/learn
 
-In fact, the depth of learning tools they offer you is far beyond what I have included in this chapter. However, I wish to point you in the right direction to a site you can use that will not scare you away with telling you to buy a premium membership or show ads constantly advertising products like Viagra, Burger King sandwiches, or laundry detergent. Nothing is worse than being distracted when you are trying to learn the number one board game in the world.
+In fact, the depth of learning tools they offer you is far beyond what I have included in this chapter. However, I wish to point you in the right direction to a site you can use that will not scare you away by telling you to buy a premium membership or show ads constantly advertising products like Viagra, Burger King sandwiches, or laundry detergent. Nothing is worse than being distracted when you are trying to learn the number one board game in the world.
 
 And on that note, that is precisely why I paid for an upgraded plan on my wordpress blogs for the purpose of removing ads. I want to teach chess without my students or followers exposed to anything I find unethical and that I don't have control over.
 
 Playing chess online is a good way to get started because it is unlikely that you will have another person available 24/7 willing to play with you at a time that is convenient for you.
 
-Also, lichess does have a mobile app for cell phones but I recommend starting on a regular desktop or laptop PC because using a mouse is much easier than tapping on a tiny cell phone screen. It can be done but the chance of mistakes is higher. However, I have had great success playing on my iPad because of it's much larger screen size.
+Also, lichess does have a mobile app for cell phones, but I recommend starting on a regular desktop or laptop PC because using a mouse is much easier than tapping on a tiny cell phone screen. It can be done, but the chance of mistakes is higher. However, I have had great success playing on my iPad because it has a much larger screen size.
 
-Try practicing playing a few games and then continue to the next chapter to see my personal suggestions on starting moves to help you have a chance at winning more often.
+Try practicing playing a few games and then continue to the next chapter to see my suggestions on starting moves to help you have a chance at winning more often.
 
-Also, if you find yourself liking the game of chess, I do recommend creating an account on lichess because then you can challenge anyone or add them as a friend. Lichess is not just a site for playing chess, it is an entire social network that also keeps track of all your games so that you can look back and see what went wrong.
+Also, if you find yourself liking the game of chess, I do recommend creating an account on lichess because then you can challenge anyone or add them as a friend. Lichess is not just a site for playing chess. Lichess is an entire social network that also keeps track of all your games so that you can look back and see what went wrong. You can also follow other players and add them to your friends list to challenge them to a game conveniently.
 
 Below is the link to my profile:
 
@@ -176,19 +176,19 @@ I will finish this chapter by explaining the en passant and castling rules. Thes
 
 En Passant
 
-Because of the fact that a pawn can move two squares on its first turn, there is a special rule called en passant which allows the opponent's pawn AS IF it had moved only one. Consider the following picture. The black pawn just moved two squares from it's starting position. The blue square is where the white pawn can move to and capture the pawn "in passing" (which is what "en passant" means in french).
+Because a pawn can move two squares on its first turn, there is a special rule called en passant, which allows the opponent's pawn AS IF it had moved only one. Consider the following picture. The black pawn just moved two squares from its starting position. The blue square is where the white pawn can move to and capture the pawn "in passing" (which is what "en passant" means in French).
 
 ![Chess_en_passant.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_en_passant.png)
 
-The idea is that the pawn would have captured the pawn while it was moving through that square. This is to compensate for the limitations of a turn based game. Don't worry though, this rule only applies to pawns and only on the turn immediately after a pawn has moved two squares last turn.
+The idea is that the pawn would have captured the pawn while it was moving through that square. The En Passant rule helps compensate for the limitations of a turn-based game. This rule only applies to pawns and only on the turn immediately after a pawn has moved two squares last turn.
 
 Castling
 
-Remember when I said a king only moves one square at a time? Most of the time this is true. Although this makes no sense, there is a rule that allows a king to move two squares in one turn. Consider the setup below.
+Remember when I said a king only moves one square at a time? Most of the time, this is true. Although this makes no sense, there is a rule that allows a king to move two squares in one turn. Consider the setup below.
 
 ![Chess_Castle_Setup.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_castle_setup.png)
 
-Because there are no pieces in between the king and rooks and because the king and rooks have not moved in this game, they are allowed to do a one time "castle" move where the king and the rook both move. The king moves two spaces towards the rook and then the rook goes to the square the king skipped over!
+Because there are no pieces in between the king and rooks and because the king and rooks have not moved in this game, they are allowed to do a one-time "castle" move where the king and the rook both move. The king moves two spaces towards the rook, and then the rook goes to the square. The king skipped over!
 
 King side castle
 
@@ -198,13 +198,13 @@ Queen side castle
 
 ![Chess_Castle_Left.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_castle_left.png)
 
-Don't let these special rules confuse you too much. They are a bit nonsensical. In fact I would compare them to the T spin triple rules in Tetris. On a related note, Tetris is actually a really good game too. Tetris is my favorite video game but it is not as easy to play as chess because Tetris requires quick reflexes and planning in mere seconds.
+Don't let these special rules confuse you too much. They are a bit nonsensical. In fact, I would compare them to the T spin triple rules in Tetris. On a related note, Tetris is actually a really good game, too. Tetris is my favorite video game, but it is not as easy to play as chess because Tetris requires quick reflexes and planning in mere seconds.
 
-Chess is more of a game for slow careful thinkers. Although there are some who play speed chess, I don't recommend trying to play fast for beginners. Focus on quality of moves rather than how many moves you can make in a minute. Also, play without time limits or choose time limits that are reasonable. I play 30 minute live games against other people online and my rating for classical chess is higher than rapid, blitz, or bullet chess for that reason.
+Chess is more of a game for slow, careful thinkers. Although some play speed chess, I don't recommend trying to play fast for beginners. Focus on the quality of moves rather than how many moves you can make in a minute. Also, play without time limits or choose reasonable time limits. I play 30-minute live games against other people online, and my rating for classical chess is higher than rapid, blitz, or bullet chess because I am slow to move and prefer to think and make the best move.
 
-Time limits are artificial inventions made for convenience of society. Don't rush through chess they same way everyone in society forces you to be fast and cause accidents in the real world. I work at Walmart so I know exactly what happens when employees are rushed. Products get put in the wrong spot and injuries happen if people value only speed and forsake everything else.
+Time limits are artificial inventions made for the convenience of society. Don't rush through chess the same way everyone in society forces you to be fast and cause accidents in the real world. I work at Walmart, so I know what happens when employees are rushed. Products get put in the wrong spot, and injuries happen if people value only speed and forsake everything else.
 
-Chess, or any game for that matter should be for fun, not as a job you do because someone else is forcing you to. No matter what, you must remember that!
+Chess, or any game for that matter, should be for fun, not as a job you do because someone else is forcing you to. No matter what, you must remember that!
 
 # Chapter 2: Chastity's Recommended Openings
 
