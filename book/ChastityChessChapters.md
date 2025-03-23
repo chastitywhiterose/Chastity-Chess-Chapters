@@ -10,6 +10,11 @@
 
 [Chapter 3: Chess variants](https://chastitychesschallenge.com/2025/03/09/chapter-3-chess-variants/)
 
+- [Crazyhouse](https://www.pychess.org/variants/crazyhouse)
+- [Atomic](https://www.pychess.org/variants/atomic)
+- [Shogi](https://www.pychess.org/variants/shogi)
+- [Xiangqi](https://www.pychess.org/variants/xiangqi)
+
 [Chapter 4: Chess Software](https://chastitychesschallenge.com/2025/03/11/chapter-4-chess-software/)
 
 - [Stockfish
@@ -40,6 +45,11 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 - The Meaning of Chess Ratings
 - Keep a Database
 - Take Notes
+
+[Chapter 7: The Value of Chess Notation](https://chastitychesschallenge.com/2025/03/23/chapter-7-the-value-of-chess-notation/)
+
+- Names of the Squares
+- Letters of the Pieces
 
 # Chapter 0: Introduction
 
@@ -486,13 +496,19 @@ Also, you can play Shogi anytime on [lishogi.org](https://lishogi.org/). It allo
 
 ## Xiangqi
 
-After you learn Chess and Shogi, I recommend Chinese Chess known as Xiangqi. You can learn and play it on [xiangqi.com](https://www.xiangqi.com/).
+After you learn Chess and Shogi, I recommend Chinese Chess known as Xiangqi. You can learn and play it on [xiangqi.com](https://www.xiangqi.com/). Usually the game is played with pieces represented by Chinese Characters. However, many sites and programs allow you to select a westernized set similar to what was available for Shogi.
 
-I like it almost as much as Chess and Shogi, but I am really bad and I always lose because I am usually playing online against Chinese people who actually know how to play it well!
+![chastity-svg-xiangqi-set.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chastity-svg-xiangqi-set.png)
 
-I don't have example pictures for it right now because I need a lot more experience before I start teaching it. However, at least I could point you in the direction of where you can learn.
+You will find that Xiangqi is harder to learn because there are different rules for pawn movement depending on whether they have crossed the river. The game also has elephants which move two spaces diagonally but can never cross to the other side of the river. Because of this, you will find that the rooks, knights, and cannons are the important pieces.
 
-In a future chapter, I will be listing websites and which Chess variants they allow you to play. This chapter was merely a brief introduction so that you know that other games like Chess exist!
+Cannons are actually one of the more bizarre pieces because nothing quite like them exists in Chess or Shogi. They move like a rook but cannot capture unless there is a piece in the way to jump over! 
+
+I like Xiangqi almost as much as Chess and Shogi, but I am really bad it Xiangqi and I always lose because I am usually playing online against Chinese people who actually know how to play it well!
+
+After you learn the rules of Xiangqi, then you might want to play it on [pychess](https://www.pychess.org/). Pychess supports Chess, Shogi, and Xiangqi. It is probably the best site if you want to play the most variants possible.
+
+In the next chapter, I will be listing websites and which Chess variants they allow you to play. This chapter was merely a brief introduction so that you know that other games like Chess exist! I could never list them all, but I recommend at least learning Chess, Shogi, and Xiangqi. Once you know these three, then all other Chess variants will have similar rules to at least one of them.
 
 # Chapter 4: Chess Software
 
@@ -698,3 +714,82 @@ But the most important thing is that no matter what tools you use, you are in ch
 But remember, if you ever want a real person to help analyze your games from a human perspective, you can always ask me! I love to stream and record videos about Chess just for fun. I will gladly analyze your games, and you only need to ask!
 
 And the best part is, I don't charge money. I just want people to play Chess with me. That is why I must teach them the ancient ways of this game!
+
+# Chapter 7: The Value of Chess Notation
+
+As I have said before, you don't have to learn Chess notation in order to play Chess. You could even be a Grandmaster without learning Chess notation. However, learning Chess notation does have some benefits that you should know about.
+
+1. If you know Chess notation, you can write down any sequence of moves on paper that you play over the board. If this information is not written down, you will probably forget what happened in the game and why you won or lost. This is extremely frustrating for someone who wants to improve.
+
+2. Most Chess websites will automatically keep track of the notation for you. In fact it is quite possible to look at the notation and figure out what it means because it is very simple.
+
+## Names of the Squares
+
+If you are viewing the board from the white player's perspective, the names of the squares are as shown in the following picture. 
+
+![Chess_Coordinates_White.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_coordinates_white.png)
+
+The letters are called files and the numbers are called ranks. If you are familiar with the name of the squares, then you can know what piece starts on that square and where it can move. For example, the white queen will start on d1 and the black queen will start on be on d8. The kings are on the e file instead of the d file. The 8 white pawns are on rank 2 and the black pawns are on rank 7.
+
+However, if you are the black player, you will have to remember that the view is flipped from the previous image. This means that all your major pieces are along rank 8 instead of rank 1.
+
+![chess_coordinates_black.png](https://chastitychesschallenge.wordpress.com/wp-content/uploads/2025/03/chess_coordinates_black.png)
+
+Many Chess boards have the letters and numbers printed on the sides of the board to help people remember the names of the squares by reading it like a map.
+
+If learning the names of the squares is too much for you, just remember that it's not required. However, if you understand the names of the squares, then you can write down from the beginning of the game where a piece moves. For example, if white moved their knight from g1 to f3, then the notation would be written as "Nf3".
+
+## Letters of the Pieces
+
+Each Chess piece, except for pawns, is represented by a letter.
+
+```
+K = King
+Q = Queen
+N = kNight (second letter used because K is already used for King)
+B = Bishop
+R = Rook
+```
+
+Pawns moves are simply written as the name of the square the pawn moved to.
+
+If a piece moves to a square at the same time as capturing something already on that square, then you add an `x` to the notation For example, if the notation says
+
+
+```
+1. d4 d5 2. c4 dxc4
+```
+
+Then we know that we have reached the Queen's Gambit Accepted position as described in chapter 2. Black has captured the pawn on c4 that white was trying to sacrifice.
+
+Suppose that a pawn gets all the way to the other side and promotes to a queen. Then the notation would be
+
+```
+d8=Q
+```
+
+If any move results in putting the king in check, we add a plus sign to that move. For example if white's bishop were to capture the pawn on f7 and put the black king in check, it would be written as
+
+```
+Bxf7+
+```
+
+Once you know how to write the notation for the moves, it is possible to record any Chess game and even make notes for yourself. This is especially helpful in Correspondence games. Of course most people don't write the notation because we have computers to do it for us. I thinkt he main benefit of learning Chess notation is being able to read it.
+
+For example, consider the following notation:
+
+```
+1. f3 e5 2. g4 Qh4#
+```
+
+If you play those moves on the board or in your head, you will get something that looks like this picture of the fool's mate from chapter 1.
+
+![Chess_Checkmate_Example_2.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_checkmate_example_2.png)
+
+The `#` is the symbol for a checkmate, the check where there is no escape for the king. If you are searching a large text file database of games, you can conveniently search for this character to find the games that ended in a checkmate to separate them from games that ended because somebody gave up and resigned.
+
+As someone who plays a lot of online Chess, I accidentally became fluent in Chess notation because I read the notation as I play the games and see it written on the side. As a result, I often speak in Chess notation to describe moves while playing with people.
+
+Unfortunately, people don't know what I am talking about. For this reason, I felt like it was necessary to at least include this chapter which serves as a basic introduction. Other Chess games have their own notation. For example, Shogi notation is often written in Japanese and Xiangqi notation is written in Chinese. I can't read their notation systems at all but there are westernized versions of them as well.
+
+A person can also make up their own notation entirely. If you can think of a better system to help you remember what moves you made, then it's not wrong as long as it helps you.
