@@ -823,3 +823,37 @@ And I think that is what is wrong with the world. I don't just promote Chess bec
 If you have made it this far, you can consider yourself above average. Although anyone can play Chess, not everyone sees the beauty of it like I do. My home is that because I wrote this book, there will be at least one person who has never heard of Chess but comes to learn to play and understand the joy of Chess as much as I have.
 
 If my writing causes even one person to find happiness or relaxation by playing Chess, then I have succeeded in my mission. If you are that person, please let me know.
+
+# Chapter 9: The Making of the Paperback
+
+Because this Chess book was originally written in [Markdown](https://www.markdownguide.org/) and posted as a series of chapters to my Wordpress blog, it did not have any concept of pages or margins because this is not needed to view it on the web.
+
+Making a paperbook on the other hand is different because a physical book is a real physical object of a certain width and height. Some adjustments were needed to submit it to Kindle Direct Publishing.
+
+Therefore, I came up with a process to convert the text into a form that Amazon would accept for an 8.5 inch by 11 inch size book. The following are the exact steps I used.
+
+How to make a paperback book with Pandoc and LibreOffice.
+
+1. I created the default odt file that Pandoc uses for style reference. This command came straight from the Pandoc documentation.
+
+`pandoc -o custom-reference.odt --print-default-data-file reference.odt`
+
+2. I opened the custom-reference.odt file in LibreOffice and modify the left and right page margins to 0.5 for left and right. The images are exactly 7.5 inches wide, so this makes them perfectly centered to fit within the width margins of a page that is 8.5x11 inches. The top and bottom margins are not quite as important but I set them to 0,5 for consistency.
+
+3.  I also deleted the header and footer. This also helps save some space.
+
+4. Finally, I used the reference doc after modified as an input when making a new odt conversion of the book.
+
+`pandoc ChastityChessChapters.md -o book.odt --reference-doc custom-reference.odt`
+
+This file should look good enough to export directly as a PDF in LibreOffice. Although this may seem overly complicated, this process is more useful than you might expect. For one, it bypasses the use of "Industry Standard" tools like Microsoft Word that most writers think they need. Pandoc and LibreOffice are the only two software programs you need to create good looking documents from Markdown files.
+
+However, this process is unneccessary for most books that contain only text. It was precisely because my Chess book had a lot of pictures that I used Markdown because it allowed better control of the images than I could do in LibreOffice alone.
+
+I would also like to mention that severate note taking apps were useful to me as I was writing the book. Below are my top 3 favorite programs out of the many I installed and tried out.
+
+- [Joplin](https://joplinapp.org/)
+- [Simplenote](https://simplenote.com/)
+- [ghostwriter](https://ghostwriter.kde.org/)
+
+All 3 of those apps are useful for their ability to preview the output of what the source Markdown code will look like. For Mobile devices, Joplin and Simplenote are the best. For a PC with Windows, Mac, or Linux, ghostwriter is especially helpful because it works directly with plain text files on your system just like notepad does but it also allows a preview just like Joplin and Simplenote do.This was essential when I was making sure my pictures were linked correctly!
