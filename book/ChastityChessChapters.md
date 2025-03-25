@@ -51,6 +51,8 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 - Names of the Squares
 - Letters of the Pieces
 
+[Chapter 8: Too Long Didn’t Read](https://chastitychesschallenge.com/2025/03/25/chapter-8-too-long-didnt-read/)
+
 # Chapter 0: Introduction
 
 This chess book is an ongoing project for those who have falsely heard that chess is hard to learn. It will be updated as needed for the most effective teaching! This book, Chastity's Chess Chapters, is the official guidebook of what my business, Chastity's Chess Challenge, is all about. I will be a chess teacher to the LGBTQIA+ community and people with disabilities.
@@ -793,3 +795,31 @@ As someone who plays a lot of online Chess, I accidentally became fluent in Ches
 Unfortunately, people don't know what I am talking about. For this reason, I felt like it was necessary to at least include this chapter which serves as a basic introduction. Other Chess games have their own notation. For example, Shogi notation is often written in Japanese and Xiangqi notation is written in Chinese. I can't read their notation systems at all but there are westernized versions of them as well.
 
 A person can also make up their own notation entirely. If you can think of a better system to help you remember what moves you made, then it's not wrong as long as it helps you.
+
+# Chapter 8: Too Long Didn't Read
+
+There will be many people who did not make it past even the first chapter of this book. This book about Chess is necessarily long because I am sharing all the information I possibly can from my years of experience playing Chess and games similar to Chess. At this point, you might be thinking, "This book is too long! I am not going to read all this!" And you would not be the first to think like this.
+
+The truth is that most people, especially in these modern times no longer have the time nor patience to get as deep into Chess as I have. This world is built around a system of instant gratification as people are bombarded with advertising about movies, toys, First Person Shooter video games, and sex. Most people never dedicate their lives to anything with much devotion. They have short attention spans, and they want to feel happy and feel it NOW.
+
+And I think that is what is wrong with the world. I don't just promote Chess because it is a board game that I happen to enjoy and am pretty good at. I think Chess is actually good for the world. Although you will probably not take the time to read this, I have compiled a list of the benefits of Chess and why I have such loyalty to an ancient board game that almost nobody will play with me outside of nerds on the internet.
+
+1. Chess teaches people to think before they act. Relying on impulse or your first guess is almost certainly wrong. We could all use a little more hesitation in all of our decisions. A person who moves without looking at all the pieces on the board will make huge mistakes. Chess reminds you to look at your surroundings and think of the cause and effect that could take place.
+
+2. Chess teaches you to understand the mind of your opponent. By trying to anticipate what moves your opponent is planning, you are entering their thought process. Many times, I have come to respect someone's intelligence based entirely on how I see them play Chess. It is the one game where someone's thought process is evident. Chess is not like Monopoly, where a lucky dice roll can make someone win without really knowing how to play the game. The process of winning is much more satisfying in Chess because you know that you actually outwitted your opponent.
+
+3. Chess is entirely free to play. Although there are many computer programs that you can buy, the original form of Chess is a board game. If you first buy a Chess set, or someone gives you one, you can play with your friends or even play against yourself. There is no limit to how many games you can play. You could play once a week against your friend or you might be obsessed and have played over 5,000 Chess games online like I have. Because there is no punishment or reward for winning or losing, you do it as much as you want, when you want, limited only by your goals.
+
+4. Chess is a game of equality. Race, gender, financial status, religion, or political affiliation have nothing to do with Chess. Being in one category or another does not make you win or lose. It is the one game where you can be considered a loser by society's constantly changing standards, but you can still win at Chess against someone who is too overconfident and doesn't have the intelligence to stop you.
+
+5. Learning Chess is easy. Learning to play Chess is really not hard. [Chapter 1](https://chastitychesschallenge.com/2025/03/03/chapter-1-the-basic-rules-of-movement/) covered all the rules that you need to know. A person can begin playing Chess and even win a few games on the same day. It's not nearly as hard as learning to play most other board, card, or video games.
+
+6. Chess is tough to master. Although it may be easy to learn the rules, getting experienced enough to win 75% or more of the time can take years. By constantly playing and training yourself to avoid mistakes, you can improve. Most people simply don't have this much time, nor are they willing to sacrifice other things in their lives that they spend time doing. But I honestly think that if Chess were easy to master, then I would have already achieved everything I could do, and then the fun would be over. Chess provides me with enough challenge that I never get bored.
+
+7. Chess can help you make friends. Many people are not physically inclined for other activities. Some of them can't play sports or participate in what is popular for most people. However, Chess is something that many people can find community in. There are groups, Chess clubs, meetups, and no shortage of online websites, such as lichess.org. Over time, you might meet people who can become good friends over a shared activity like Chess or whatever else you may have in common.
+
+8. Chess is also a game for the solitary. There are hermits like me who can spend much time alone and meditate on the possible moves that can be made. The fact that I can play Chess against a computer when no human is available allows me to test my mind against the artificial intelligence of Chess engines like Stockfish. Chess can help you be social when you want to, but it does not require it if you would rather be left alone. I sometimes play entire Chess games in my head because it brings me comfort for something to make sense when life can be so unpredictable.
+
+If you have made it this far, you can consider yourself above average. Although anyone can play Chess, not everyone sees the beauty of it like I do. My home is that because I wrote this book, there will be at least one person who has never heard of Chess but comes to learn to play and understand the joy of Chess as much as I have.
+
+If my writing causes even one person to find happiness or relaxation by playing Chess, then I have succeeded in my mission. If you are that person, please let me know.
