@@ -228,8 +228,9 @@ But first, I have an example image that shows the names of all the squares in ch
 
 ![Chess_Coordinates_White.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_coordinates_white.png)
 
-That image has all the letters and numbers of each square from the white player's perspective. Look back at this picture because it will help explain a lot of what I mean in the pages after it.
-Square E1 is where the white king starts the game and E8 is where the black king starts the game. Also look at squares F2 and F7 because those are the squares most vulnerable to attacks that put the king in check. Moving those pawns at the beginning of the game is asking for trouble! The most popular first move for white is e4 (white's king pawn two squares forward).
+That image has all the letters and numbers of each square from the white player's perspective. Look back at this picture because it will help explain a lot of what I mean in the pages after it. The image has the letters in capitals because it looks cool, but when Chess notation is written, capital letters usually refer to which piece is moving while lowercase letters refer to the file (which vertical column a square is on). The numbers are which rank (horizontal row) the square is on. See more on the topic of chess notation in [Chapter 7](https://chastitychesschallenge.com/2025/03/23/chapter-7-the-value-of-chess-notation/).
+
+Square e1 is where the white king starts the game and e8 is where the black king starts the game. Also look at squares f2 and f7 because those are the squares most vulnerable to attacks that put the king in check. Moving those pawns at the beginning of the game is asking for trouble! The most popular first move for white is e4 (white's king pawn two squares forward).
 
 ![e4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4.png)
 
@@ -255,17 +256,17 @@ This is equally good for both of them because that allows both of them to get th
 
 ![e4-e5-Bc4-Bc5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5.png)
 
-Next, the bishops come out. This means they are both attacking the weak F2 and F7 squares I mentioned earlier. This position is called the bishop's opening for obvious reasons.
-If you find yourself in the bishop's opening position, you have some serious options to consider. If you are playing white, you already have an advantage in this position because it is your turn. You could move the knight to F3 and attack the e5 pawn or you might want to move the queen to H5 and try a scholar's mate.
-Keep in mind that the possible moves your opponent can do are endless and that to a certain extent, to show an example, I have to make up possible moves of only one of them just to prove the point I am showing. There is no way of knowing if you will end up in the mirrored bishop setup as shown in the previous image. With that being said, if you EVER DO find yourself in this exact position, I will show you some great possibilities that can come from it. I recommend knight to F3.
+Next, the bishops come out. This means they are both attacking the weak f2 and f7 squares I mentioned earlier. This position is called the bishop's opening for obvious reasons.
+If you find yourself in the bishop's opening position, you have some serious options to consider. If you are playing white, you already have an advantage in this position because it is your turn. You could move the knight to f3 and attack the e5 pawn or you might want to move the queen to h5 and try a scholar's mate.
+Keep in mind that the possible moves your opponent can do are endless and that to a certain extent, to show an example, I have to make up possible moves of only one of them just to prove the point I am showing. There is no way of knowing if you will end up in the mirrored bishop setup as shown in the previous image. With that being said, if you EVER DO find yourself in this exact position, I will show you some great possibilities that can come from it. I recommend knight to f3.
 
 ![e4-e5-Bc4-Bc5-Nf3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3.png)
 
 Why is this position good for white, you may ask. That's because this knight move accomplishes several things at once.
-1. It attacks the E5 pawn
+1. It attacks the e5 pawn
 2. It gets the knight out of the way so the king can castle
-3. It prevents the black queen from going to H4 and trying to  scholar's mate white king on F2.
-Based on my experience, what usually happens after this is that black will move their queen's pawn to D6 and defend the E4 pawn. Then white will do the reverse and move their queen pawn to D3.
+3. It prevents the black queen from going to h4 and trying to  scholar's mate white king on f2.
+Based on my experience, what usually happens after this is that black will move their queen's pawn to d6 and defend the e4 pawn. Then white will do the reverse and move their queen pawn to d3.
 
 ![e4-e5-Bc4-Bc5-Nf3-d6-d3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3-d6-d3.png)
 
@@ -273,7 +274,7 @@ This also allows the bishops to move out that were previously blocked by those p
 
 ![e4-e5-Bc4-Bc5-Nf3-d6-d3-Bg4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3-d6-d3-bg4.png)
 
-This creates a problem for white because if they move the knight, the queen behind it will be captured. Because I value knights more than bishops, I recommend the following. After the bishop attacks the knight, sacrifice your bishop on F7 and put the king in check.
+This creates a problem for white because if they move the knight, the queen behind it will be captured. Because I value knights more than bishops, I recommend the following. After the bishop attacks the knight, sacrifice your bishop on f7 and put the king in check.
 
 ![e4-e5-Bc4-Bc5-Nf3-d6-d3-Bg4-Bf7.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e5-bc4-bc5-nf3-d6-d3-bg4-bf7.png)
 
@@ -292,7 +293,7 @@ At this point, white has lost a bishop but they have also taken a bishop and a p
 The Queen's Gambit sounds like a fancy name, and this name was used for a Netflix show as well. However, this opening was well known before people had televisions, computers, or the internet. The word "gambit" means sacrifice. In this opening white sacrifices a pawn with the hope of getting an advantage later. To some people, it also means a gamble because there is no way of knowing if it will work out the way you want depending on what your opponent does.
 
 The opening starts with each side moving the pawn in front of their queen.
-Then white moves the pawn on C2 to C4.
+Then white moves the pawn on c2 to c4.
 
 ![d4-d5-c4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4.png)
 
@@ -300,7 +301,7 @@ In this position, black's pawn can capture the white pawn and yet it doesn't app
 
 ![d4-d5-c4-dxc4-e4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-dxc4-e4.png)
 
-You see, the idea was to distract the pawn and move it away from the center so that white's king pawn could move two squares forward. Also notice that the white bishop on F1 could also capture the black pawn on C4 next turn, but not so fast, first, black has to choose their next move. The only problem is that there really is no good way for black to stop white from taking their pawn with the bishop. If they try to protect it with another pawn, things can turn out badly. Sooner or later white will capture back the C4 pawn with the bishop and if black tries to stop it, they will only lose more pieces.
+You see, the idea was to distract the pawn and move it away from the center so that white's king pawn could move two squares forward. Also notice that the white bishop on f1 could also capture the black pawn on c4 next turn, but not so fast, first, black has to choose their next move. The only problem is that there really is no good way for black to stop white from taking their pawn with the bishop. If they try to protect it with another pawn, things can turn out badly. Sooner or later white will capture back the c4 pawn with the bishop and if black tries to stop it, they will only lose more pieces.
 
 My best advice is that if you accept the Queen's Gambit, also accept that you will lose this pawn and don't try to defend it by moving the b7 pawn to b5. This has never worked out well for my opponents. Do not let the sequence of the following images happen to you!
 
@@ -328,11 +329,11 @@ If you are the black player, I would recommend against accepting the Queen's Gam
 
 ![d4-d5-c4-c6.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-c6.png)
 
-Both of these responses allow you to capture the white pawn back if it captures your D5 pawn. More importantly, you are getting pawns out of the way of your other pieces so that they can start attacking white. The Queen's Gambit Declined is probably slightly better than the Slav Defense because moving the king's pawn is just generally a great move because then black's queen and dark squared bishop can move out diagonally and try to attack white.
+Both of these responses allow you to capture the white pawn back if it captures your d5 pawn. More importantly, you are getting pawns out of the way of your other pieces so that they can start attacking white. The Queen's Gambit Declined is probably slightly better than the Slav Defense because moving the king's pawn is just generally a great move because then black's queen and dark squared bishop can move out diagonally and try to attack white.
 
 But a final note is that accepting or declining the Queen's Gambit does not lose for black by any means, but accepting it allows white to get both of their center pawns and allows them to start moving both bishops out very quickly. White already has the advantage, don't give them more help if you are the black player. But if you are the white player, I have plenty of advice on what to do. However I may have to add more to this book later.
 
-Now one thing you may have noticed is that the Queen's Gambit started with moving the Queen's Pawn (D4) instead of the King's Pawn (E4) like in the previous example with the elaborate bishop sacrifice. Queen pawn openings are just far more fun to play because the game takes longer and my opponents get frustrated. E4 is better for quicker wins but is so cliché that I got tired of playing it and became a D4 player for my first move.
+Now one thing you may have noticed is that the Queen's Gambit started with moving the Queen's Pawn (d4) instead of the King's Pawn (e4) like in the previous example with the elaborate bishop sacrifice. Queen pawn openings are just far more fun to play because the game takes longer and my opponents get frustrated. e4 is better for quicker wins but is so cliché that I got tired of playing it and became a d4 player for my first move.
 
 ## The London System
 
@@ -356,11 +357,11 @@ It's worth mentioning that bishop to f5 would also be a good move, and would be 
 
 ![d4-nf6-bf4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6-bf4.png)
 
-Because of the fact that we have disabled the enemy king's pawn from moving two squares, most players will instead move their queen's pawn two squares instead. Remember, moving the pawns in front of the king or queen is almost always a good idea. With that in mind, our next move should be pawn to E3 because this is the next step in building the pawn pyramid, and it also adds an extra defender to the E4 pawn and Bishop.
+Because of the fact that we have disabled the enemy king's pawn from moving two squares, most players will instead move their queen's pawn two squares instead. Remember, moving the pawns in front of the king or queen is almost always a good idea. With that in mind, our next move should be pawn to e3 because this is the next step in building the pawn pyramid, and it also adds an extra defender to the e4 pawn and Bishop.
 
 ![d4-nf6-bf4-d5-e3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6-bf4-d5-e3.png)
 
-Keep in mind that this is still early in the game and that chess openings only take you so far. However, white has a really good winning chance in this setup. For example, black may try to offer the black version of the Queen's Gambit by pawn to C5. However, doing so allows us to take their knight on B8!
+Keep in mind that this is still early in the game and that chess openings only take you so far. However, white has a really good winning chance in this setup. For example, black may try to offer the black version of the Queen's Gambit by pawn to c5. However, doing so allows us to take their knight on b8!
 
 ![d4-nf6-bf4-d5-e3-c5-bxb8.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6-bf4-d5-e3-c5-bxb8.png)
 
