@@ -79,7 +79,7 @@ But chess is not specifically a video game. It's a board game that has only rece
 
 But first, a basic explanation of the goal of chess. The way to win the game of chess is to checkmate the opponent's king. Checkmate means that you are attacking the king and it has nowhere to move to escape and would be captured on the next turn. I will show examples of what this looks like later on.
 
-For now, I intend to teach you the basic rules of how each piece moves by isolating them from the other pieces and highlighting the empty squares they can move to by highlighting those squares in green. Just think "green means go," as in a traffic light.
+For now, I intend to teach you the basic rules of how each piece moves by isolating them from the other pieces and highlighting the empty squares by coloring those squares in green. Just think "green means go," as in a traffic light.
 
 Below is a picture of what the chessboard typically looks like if you are playing a computer chess program. This picture shows how the pieces are arranged. The chess set used is called Merida, and it is one of the piece sets available on lichess.org, where I play chess online.
 
@@ -188,11 +188,11 @@ I will finish this chapter by explaining the en passant and castling rules. Thes
 
 En Passant
 
-Because a pawn can move two squares on its first turn, there is a special rule called en passant, which allows the opponent's pawn AS IF it had moved only one. Consider the following picture. The black pawn just moved two squares from its starting position. The blue square is where the white pawn can move to and capture the pawn "in passing" (which is what "en passant" means in French).
+Because a pawn can move two squares on its first turn, there is a special rule called en passant, which allows capturing the opponent's pawn AS IF it had moved only one. Consider the following picture. The black pawn just moved two squares from its starting position. The blue square is where the white pawn can move to and capture the pawn "in passing" (which is what "en passant" means in French).
 
 ![Chess_en_passant.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_en_passant.png)
 
-The idea is that the pawn would have captured the pawn while it was moving through that square. The En Passant rule helps compensate for the limitations of a turn-based game. This rule only applies to pawns and only on the turn immediately after a pawn has moved two squares last turn.
+The idea is that the pawn would have captured the pawn while it was moving through that square. The En Passant rule helps compensate for the limitations of a turn-based game. This rule only applies to pawns and only on the turn immediately after a pawn has moved two squares on its last turn.
 
 Castling
 
@@ -200,7 +200,7 @@ Remember when I said a king only moves one square at a time? Most of the time, t
 
 ![Chess_Castle_Setup.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chess_castle_setup.png)
 
-Because there are no pieces in between the king and rooks and because the king and rooks have not moved in this game, they are allowed to do a one-time "castle" move where the king and the rook both move. The king moves two spaces towards the rook, and then the rook goes to the square. The king skipped over!
+Because there are no pieces in between the king and rooks and because the king and rooks have not moved in this game, they are allowed to do a one-time "castle" move where the king and the rook both move. The king moves two spaces towards the rook, and then the rook goes to the square the king skipped over!
 
 King side castle
 
@@ -220,9 +220,9 @@ Chess, or any game for that matter, should be for fun, not as a job you do becau
 
 # Chapter 2: Chastity's Recommended Openings
 
-For the sake of keeping this book short, I will not be trying to teach all details about chess notation. Part of this is because I don't want to explain it wrong. However, all the major chess sites including lichess do keep track of the moves you play in every game and will show you the chess notation. It's actually very easy to pick up just by looking at examples from your own games. I will be calling moves by their chess notation name but every almost every move will also have a picture with it so that there will be no confusion as to what it means.
+For the sake of keeping this book short, I will not be trying to teach all details about chess notation. Part of this is because I don't want to explain it wrong. However, all the major chess sites including lichess do keep track of the moves you play in every game and will show you the chess notation. It's actually very easy to pick up just by looking at examples from your own games. I will be calling moves by their chess notation name but almost every move will also have a picture with it so that there will be no confusion as to what it means.
 
-White takes their turn first in the game of chess. This means that if you are playing as white, you have the unique opportunity to pick the first move that will set the course of the rest of the game! However, there are only a few moves that are considered to be very good. I will show you the two most popular choices that white players use to start the game.
+White takes their turn first in the game of chess. This means that if you are playing as white, you have the unique opportunity to pick the first move that will set the course for the rest of the game! However, there are only a few moves that are considered to be very good. I will show you the two most popular choices that white players use to start the game.
 
 But first, I have an example image that shows the names of all the squares in chess notation.
 
@@ -302,7 +302,7 @@ In this position, black's pawn can capture the white pawn and yet it doesn't app
 
 You see, the idea was to distract the pawn and move it away from the center so that white's king pawn could move two squares forward. Also notice that the white bishop on F1 could also capture the black pawn on C4 next turn, but not so fast, first, black has to choose their next move. The only problem is that there really is no good way for black to stop white from taking their pawn with the bishop. If they try to protect it with another pawn, things can turn out badly. Sooner or later white will capture back the C4 pawn with the bishop and if black tries to stop it, they will only lose more pieces.
 
-My best advice is that if you accept the Queen's Gambit, also accept that you will lose this pawn and don't try to defend it with by moving the b7 pawn to b5. This has never worked out well for my opponents. Do not let the sequence of the following images happen to you!
+My best advice is that if you accept the Queen's Gambit, also accept that you will lose this pawn and don't try to defend it by moving the b7 pawn to b5. This has never worked out well for my opponents. Do not let the sequence of the following images happen to you!
 
 ![d4-d5-c4-dxc4-e4-b5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-e4-b5.png)
 
@@ -336,23 +336,23 @@ Now one thing you may have noticed is that the Queen's Gambit started with movin
 
 ## The London System
 
-I am not the first person to say that the London System is a solid opening. In fact it's probably the best opening to teach a beginner who has decided they like to open the game with D4. The first move will always be D4. But the London System is actually quite different than the Queen's Gambit because your goal is not an early attack nor sacrificing pieces. The goal is to build a defensive structure. Look at the following picture.
+I am not the first person to say that the London System is a solid opening. In fact, it's probably the best opening to teach a beginner for playing the white pieces. The first move will always be d4. The London System is actually quite different than the Queen's Gambit because your goal is not an early attack nor sacrificing pieces. The goal is to build a defensive structure. Look at the following picture.
 
 ![7 move london white only.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/7-move-london-white-only.png)
 
-It takes a total of 7 moves to achieve this setup but it can usually be done quite easily no matter what black does. If you don't get this position on your side because you had a chance to take your opponent's pieces because they made bad moves, then that should take priority over building this. For example, suppose that your opponent moves their king's pawn two squares forward to E5, then just take it with your pawn!
+It takes a total of 7 moves to achieve this setup but it can usually be done quite easily no matter what black does. If your opponent makes bad moves and you can capture their pieces then that should take priority over arranging the pieces like this picture. For example, if your opponent moves their king's pawn two squares forward to e5, then just take it with your d4 pawn!
 
 ![d4-e5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-e5.png)
 
 ![d4-e5-dxe5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-e5-dxe5.png)
 
-It's totally easy to see how a player might be used to moving their king's pawn two squares and might mistakenly let white's D4 pawn take it. This completely disabled black's development besides costing them a pawn. They can't move their knight to F6, nor can they move the pawn in front of their queen either one or two spaces (because of en passant rule). If black makes this mistake, then they already have a huge disadvantage. This is not like the Queen's Gambit because there is no advantage to offering white a free pawn. If black does this, then take that pawn and then build the rest of the London Fortress even though there will be a missing pawn at the head of the pyramid of pawns. But most of the time, your opponent will not make a mistake as bad as the previous example. They will most likely do something smarter such as knight to F6.
+It's totally easy to see how a player might be used to moving their king's pawn two squares and might mistakenly let white's d4 pawn take it. This completely disables black's development besides costing them a pawn. They can't move their knight to f6, nor can they move the pawn in front of their queen either one or two spaces (because of en passant rule). If black makes this mistake, then they already have a huge disadvantage. This is not like the Queen's Gambit because there is no advantage to offering white a free pawn. If black does this, then take that pawn and then build the rest of the London Fortress even though there will be a missing pawn at the head of the pyramid of pawns. But most of the time, your opponent will not make a mistake as bad as the previous example. They will most likely do something smarter such as knight to f6.
 
 ![d4-nf6.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6.png)
 
-In this position, we see that the black knight is trying to prevent our king's pawn to e4. That's totally fine because that is not what we will do in the London system. We will continue to build our setup. In this position we should next move the bishop to F4.
+In this position, we see that the black knight is trying to prevent our king's pawn from going to e4. That's totally fine because that is not what we will do in the London system. We will continue to build our setup. In this position we should next move the bishop to f4.
 
-It's worth mentioning that bishop to F5 would also be a good move, and would be called the Trompowsky attack. However, since I am teaching the London System, we will stick with bishop to F4 for now.
+It's worth mentioning that bishop to f5 would also be a good move, and would be called the Trompowsky attack. However, since I am teaching the London System, we will stick with bishop to f4 for now.
 
 ![d4-nf6-bf4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-nf6-bf4.png)
 
@@ -370,19 +370,19 @@ The rook can take our bishop but we have eliminated one of the enemy knights. Yo
 2. Knight attacks cannot be blocked, they are therefore better for checkmating in many cases I have seen.
 3. Knights look like horses, which are my favorite animal. I prefer to protect my horses.
 
-Maybe you disagree with me, in case you would not follow my advice. However, the main point is that to play the London System, you should get your pieces out similar to the picture of the 7 moves
+Maybe you disagree with my advice. However, the main point is that to play the London System, you should get your pieces out similar to the picture of the 7 moves.
 
-So far, all of what I have talked about so far is openings that white chooses to play. If you are the black player, what should you do? For one thing, you can expect that white will most likely play E4 for their first move, so I will next cover the French Defense.
+All of what I have talked about so far is openings that white chooses to play. If you are the black player, what should you do? For one thing, you can expect that white will most likely play e4 for their first move, so I will next cover the French Defense.
 
 ## The French Defense
 
-The French Defense is my main opening when playing as the black player. I will make the case for why it deserves more credit as an opening even though it is less popular than the Caro Kann(which may be covered later)
+The French Defense is my main opening when playing as the black player. I will make the case for why it deserves more credit as an opening even though it is less popular than the Caro Kann (which may be covered later)
 
 This is the start of the French Defense. White has moved king's pawn to e4 and we are moving our king's pawn only one square instead of the usual two.
 
 ![e4-e6.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e6.png)
 
-I know it looks weird and uncomforable to move a pawn only one square when it could have moved two, but the reason for this will become clear very soon.
+I know it looks weird and uncomfortable to move a pawn only one square when it could have moved two, but the reason for this will become clear very soon.
 
 Almost all the time, white will move their queen's pawn two squares and in this case you will copy them.
 
@@ -398,7 +398,7 @@ The other alternative is when white does not take the pawn and instead advances 
 
 ![e4-e6-d4-d5-e5.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/e4-e6-d4-d5-e5.png)
 
-This is called the advanced variation of the French Defense. Not because it is advanced in the sense of complicated but because the white pawn has advanced instead of capturing. When this happens, the best thing to do is to move a pawn to c5 and offer the "black queen's gambit" and hope that white takes it so you can capture back with the bishop. From that point the game continues like normal and it follows much of the same logic as I use when I play the Queen's Gambit.
+This is called the advanced variation of the French Defense, not because it is advanced in the sense of complicated but because the white pawn has advanced instead of capturing. When this happens, the best thing to do is to move a pawn to c5 and offer the "black queen's gambit" and hope that white takes it so you can capture back with the bishop. From that point the game continues like normal and it follows much of the same logic as I use when I play the Queen's Gambit.
 
 For example, the following sequence of images shows exactly how a checkmate can happen quickly if white does not defend the weak f2 square next to their king.
 
@@ -424,7 +424,7 @@ Obviously, the game doesn't always end this quickly but as you see the French De
 
 In this chapter, I have shown my favorite openings to play. Don't think that you know everything about how these will turn out for you in your games because the possibilities are infinite. You may find your own style and even invent a new opening no one has seen before!
 
-But the openings I have recommended are those that I have had to most success with and I have an advantage with them from practice. That's why I am qualified to teach them. I also have videos on my YouTube channel where I have gone more in depth with them.
+But the openings I have recommended are those that I have had the most success with and I have an advantage with them from practice. That's why I am qualified to teach them. I also have videos on my YouTube channel where I have gone more in depth with them.
 
 # Chapter 3: Chess variants
 
@@ -506,7 +506,7 @@ You will find that Xiangqi is harder to learn because there are different rules 
 
 Cannons are actually one of the more bizarre pieces because nothing quite like them exists in Chess or Shogi. They move like a rook but cannot capture unless there is a piece in the way to jump over! 
 
-I like Xiangqi almost as much as Chess and Shogi, but I am really bad it Xiangqi and I always lose because I am usually playing online against Chinese people who actually know how to play it well!
+I like Xiangqi almost as much as Chess and Shogi, but I am really bad at it and I always lose because I am usually playing online against Chinese people who actually know how to play it well!
 
 After you learn the rules of Xiangqi, then you might want to play it on [pychess](https://www.pychess.org/). Pychess supports Chess, Shogi, and Xiangqi. It is probably the best site if you want to play the most variants possible.
 
@@ -526,8 +526,7 @@ However, you can easily download [Stockfish](https://stockfishchess.org/) and fi
 
 Although the official stockfish documentation is very good at helping people to set up Stockfish with most GUI software, there is a way to play directly by running commands from a terminal or command prompt. 
 
-After downloading and installing the engine by whatever means you used, just type "stockfish" at the command line or adjust the name to whatever your executable is named
-You will probably see a message similar to "Stockfish 17 by the Stockfish developers (see AUTHORS file)".
+After downloading and installing the engine by whatever means you used, just type "stockfish" at the command line or adjust the name to whatever your executable is named. You will probably see a message similar to "Stockfish 17 by the Stockfish developers (see AUTHORS file)".
 
 Simply type `d` and press enter. You will probably get something like this:
 
@@ -537,7 +536,7 @@ That is because `d` is the display command and it will show a text representatio
 
 `position startpos moves d2d4`
 
-Will move the pawn from d2 to d4. This is my favorite starting move. So if you use the `d` command again. You will see that the pawn has now moved!
+will move the pawn from d2 to d4. This is my favorite starting move. So if you use the `d` command again, you will see that the pawn has now moved!
 
 ![position startpos moves d2d4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/position-startpos-moves-d2d4.png)
 
@@ -551,7 +550,7 @@ As you can see, both pawns have moved. However, this is not the preferred way fo
 
 ## Fairy Stockfish
 
-I would like to mention briefly that [Fairy-Stockfish](https://fairy-stockfish.github.io/) is a version of Stockfish that support all of the Chess variants available on lichess.org and even more. I have not mastered the use of it from the command line, but I have confirmed that it works with Xboard, which is the next program I am recommending.
+I would like to mention briefly that [Fairy-Stockfish](https://fairy-stockfish.github.io/) is a version of Stockfish that supports all of the Chess variants available on lichess.org and even more. I have not mastered the use of it from the command line, but I have confirmed that it works with Xboard, which is the next program I am recommending.
 
 ## Xboard
 
@@ -589,11 +588,11 @@ The second does the reverse and finds every time that chastitywhiterose played a
 
 `pgn-extract -Tbchastitywhiterose -Tr0-1 lichess_chastitywhiterose.pgn -ochastitywhiterose_black_wins_lichess.pgn --checkmate`
 
-I have said for years that only games ending in a checkmate are reliable information. If you opponent timed out because they fell asleep or got distracted, that doesn't really feel like a win does it?
+I have said for years that only games ending in a checkmate are reliable information. If your opponent timed out because they fell asleep or got distracted, that doesn't really feel like a win, does it?
 
 ## ChessX
 
-The best currently available free and open source Chess database management program is [ChessX](https://chessx.sourceforge.io/). It allows you to open a pgn file and actually play through all the games with a graphical user interface. This is the best way to analyze your games and see visually where you made the mistakes. I have not full explored everything that the program can do but I read that it also has filtering capabilities similar to what you could have done with pgn-extract which I previously mentioned.
+The best currently available free and open source Chess database management program is [ChessX](https://chessx.sourceforge.io/). It allows you to open a pgn file and actually play through all the games with a graphical user interface. This is the best way to analyze your games and see visually where you made the mistakes. I have not fully explored everything that the program can do but I read that it also has filtering capabilities similar to what you could have done with pgn-extract which I previously mentioned.
 
 ### Possible Updates
 
