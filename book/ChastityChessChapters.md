@@ -605,11 +605,11 @@ There are more websites to play Chess on than you can possibly imagine. However,
 
 ## Lichess.org
 
-[lichess](https://lichess.org/) is the first website you will want to visit and create an account if learning Standard Chess and variants based directly off of it. It support Chess960, Crazyhouse, Atomic, Three-Check, AntiChess, King of the Hill, Horde, and Racing Kings. This is more than most people can master.
+[lichess](https://lichess.org/) is the first website you will want to visit and create an account if learning Standard Chess and variants based directly off of it. It supports Chess960, Crazyhouse, Atomic, Three-Check, AntiChess, King of the Hill, Horde, and Racing Kings. This is more than most people can master.
 
-It's also important to mention that the site is entirely free and made with open source software. This is a big deal for me philosophically for me and for many other people who do not like the corruption of big companies that try to claim ownership over what can be done with a game. The site is financially funded by people who voluntarily donate because they want to help keep the developers paid and keep the site hosted, which is probably not easy considering that it manages billions of Chess games every month!
+It's also important to mention that the site is entirely free and made with open source software. This is a big deal philosophically for me and for many other people who do not like the corruption of big companies that try to claim ownership over what can be done with a game. The site is financially funded by people who voluntarily donate because they want to help keep the developers paid and keep the site hosted, which is probably not easy considering that it manages billions of Chess games every month!
 
-Lichess is the second most popular Chess website in the world. Chess.com is still number one but it does not support all the variants that Lichess does. It also does not allow correspondence Chess of anything besides Standard Chess or Chess960. Because I like Crazyhouse the most, I started playing on lichess almost exclusively.
+Lichess is the second most popular Chess website in the world. Chess.com is still number one but it does not support all the variants that Lichess does. It also does not allow correspondence Chess for anything besides Standard Chess or Chess960. Because I like Crazyhouse the most, I started playing on lichess almost exclusively.
 
 ## Lishogi.org
 
@@ -776,7 +776,7 @@ If any move results in putting the king in check, we add a plus sign to that mov
 Bxf7+
 ```
 
-Once you know how to write the notation for the moves, it is possible to record any Chess game and even make notes for yourself. This is especially helpful in Correspondence games. Of course most people don't write the notation because we have computers to do it for us. I thinkt he main benefit of learning Chess notation is being able to read it.
+Once you know how to write the notation for the moves, it is possible to record any Chess game and even make notes for yourself. This is especially helpful in Correspondence games. Of course most people don't write the notation because we have computers to do it for us. I think the main benefit of learning Chess notation is being able to read it.
 
 For example, consider the following notation:
 
@@ -796,7 +796,7 @@ Unfortunately, people don't know what I am talking about. For this reason, I fel
 
 A person can also make up their own notation entirely. If you can think of a better system to help you remember what moves you made, then it's not wrong as long as it helps you.
 
-# Chapter 8: Too Long Didn't Read
+# Chapter 8: Too Long. Didn't Read.
 
 There will be many people who did not make it past even the first chapter of this book. This book about Chess is necessarily long because I am sharing all the information I possibly can from my years of experience playing Chess and games similar to Chess. At this point, you might be thinking, "This book is too long! I am not going to read all this!" And you would not be the first to think like this.
 
@@ -820,7 +820,7 @@ And I think that is what is wrong with the world. I don't just promote Chess bec
 
 8. Chess is also a game for the solitary. There are hermits like me who can spend much time alone and meditate on the possible moves that can be made. The fact that I can play Chess against a computer when no human is available allows me to test my mind against the artificial intelligence of Chess engines like Stockfish. Chess can help you be social when you want to, but it does not require it if you would rather be left alone. I sometimes play entire Chess games in my head because it brings me comfort for something to make sense when life can be so unpredictable.
 
-If you have made it this far, you can consider yourself above average. Although anyone can play Chess, not everyone sees the beauty of it like I do. My home is that because I wrote this book, there will be at least one person who has never heard of Chess but comes to learn to play and understand the joy of Chess as much as I have.
+If you have made it this far, you can consider yourself above average. Although anyone can play Chess, not everyone sees the beauty of it like I do. My hope is that because I wrote this book, there will be at least one person who has never heard of Chess but comes to learn to play and understand the joy of Chess as much as I have.
 
 If my writing causes even one person to find happiness or relaxation by playing Chess, then I have succeeded in my mission. If you are that person, please let me know.
 
