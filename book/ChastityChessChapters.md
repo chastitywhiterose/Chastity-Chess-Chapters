@@ -51,7 +51,7 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 - Names of the Squares
 - Letters of the Pieces
 
-[Chapter 8: Too Long Didn’t Read](https://chastitychesschallenge.com/2025/03/25/chapter-8-too-long-didnt-read/)
+[Chapter 8: Too Long. Didn't Read.](https://chastitychesschallenge.com/2025/03/25/chapter-8-too-long-didnt-read/)
 
 # Chapter 0: Introduction
 
@@ -840,7 +840,7 @@ How to make a paperback book with Pandoc and LibreOffice.
 
 2. I opened the custom-reference.odt file in LibreOffice and modify the left and right page margins to 0.5 for left and right. The images are exactly 7.5 inches wide, so this makes them perfectly centered to fit within the width margins of a page that is 8.5x11 inches. The top and bottom margins are not quite as important but I set them to 0,5 for consistency.
 
-3.  I also deleted the header and footer. This also helps save some space.
+3. I also deleted the header and footer. This also helps save some space.
 
 4. Finally, I used the reference doc after modified as an input when making a new odt conversion of the book.
 
