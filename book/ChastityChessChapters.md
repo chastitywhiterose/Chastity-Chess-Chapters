@@ -53,6 +53,25 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 
 [Chapter 8: Too Long. Didn't Read.](https://chastitychesschallenge.com/2025/03/25/chapter-8-too-long-didnt-read/)
 
+[Chapter 9: The Making of the Paperback](https://chastitychesschallenge.com/2025/04/01/chapter-9-the-making-of-the-paperback/)
+
+# Copyright
+
+[Chastity's Chess
+Chapters](https://chastitychesschallenge.com/chastitys-chess-chapters/) © 2025 by [Chastity White
+Rose](https://chastitywhiterose.com/) is licensed under [Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0
+International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+What this means in plain English is that although Chastity White Rose, which is known as Chandler Klebs legally, is the author of all the text and artwork in this book (except for Chess pieces from the public domain). She has the final say in what went into this book and future editions.
+
+At the same time, you have the right to share this book, copy it, or reformat or convert it to whatever digital or print form is easy for you to read. Chastity stands opposed to DRM (Digital Rights Management) because the game of Chess is free to play for everyone. In the same way, this book should be free (libre) for everyone!
+
+This license means that while you certainly can buy copies of this print and/or digital book to support the author, your rights to read it never expire. Chastity wants people to learn to play and enjoy Chess. This book is merely a means to that end.
+
+What you may not do is try to sell it as if it were your book because Chastity put her time, energy, and money into making this book with the goal of helping people play Chess and teaching it in her style. You can share and adapt it to help others learn, including translating it into other languages, but you must make it clear that it is not the original work.
+
+
 # Chapter 0: Introduction
 
 This chess book is an ongoing project for those who have falsely heard that chess is hard to learn. It will be updated as needed for the most effective teaching! This book, Chastity's Chess Chapters, is the official guidebook of what my business, Chastity's Chess Challenge, is all about. I will be a chess teacher to the LGBTQIA+ community and people with disabilities.
@@ -68,6 +87,10 @@ However, I will warn you that playing against a computer comes with pros and con
 Chess is a game where you are going to lose half the time because it's a game of pure skill where anyone can win if they can outsmart their opponent. You don't need to be a genius to play chess, and you certainly don't have to know math or memorize opening theory to get started playing today. You only need to know the rules of chess, which can be learned in less than half an hour.
 
 The book you are reading now is meant to teach the rules and be a reference to look back on if you forget. I will also include some common suggestions on a few good ways to get started playing and what your first moves should be as a beginner.
+
+In Chapter 4 I provide a list of the best Free and Open-Source Software that allow you to play Chess against your computer by training against Stockfish or manage databases of your games.
+
+In Chapter 5, I list my favorite websites where I play Chess and its many variants almost daily. I am very active on there and it is quite possible that you will find me under the username [chastitywhiterose](https://lichess.org/@/chastitywhiterose) on most of the websites listed there.
 
 # Chapter 1: The Basic Rules of Movement
 
@@ -826,34 +849,32 @@ If my writing causes even one person to find happiness or relaxation by playing 
 
 # Chapter 9: The Making of the Paperback
 
-Because this Chess book was originally written in [Markdown](https://www.markdownguide.org/) and posted as a series of chapters to my Wordpress blog, it did not have any concept of pages or margins because this is not needed to view it on the web.
+Because this Chess book was originally written in [Markdown](https://www.markdownguide.org/) and posted as a series of chapters to my WordPress blog, it did not have any concept of pages or margins because this is not needed to view it on the web. Making a paper book, on the other hand, is different because a physical book is a real physical object of a certain width and height. Some adjustments were needed to submit it to Kindle Direct Publishing.
 
-Making a paperbook on the other hand is different because a physical book is a real physical object of a certain width and height. Some adjustments were needed to submit it to Kindle Direct Publishing.
-
-Therefore, I came up with a process to convert the text into a form that Amazon would accept for an 8.5 inch by 11 inch size book. The following are the exact steps I used.
-
-How to make a paperback book with Pandoc and LibreOffice.
+Therefore, I came up with a process to convert the text into a form that Amazon would accept for an 8.5-inch by 11-inch size book. The following are the exact steps I used with a combination of [Pandoc](https://pandoc.org/) and [LibreOffice](https://www.libreoffice.org/)
 
 1. I created the default odt file that Pandoc uses for style reference. This command came straight from the Pandoc documentation.
 
 `pandoc -o custom-reference.odt --print-default-data-file reference.odt`
 
-2. I opened the custom-reference.odt file in LibreOffice and modify the left and right page margins to 0.5 for left and right. The images are exactly 7.5 inches wide, so this makes them perfectly centered to fit within the width margins of a page that is 8.5x11 inches. The top and bottom margins are not quite as important but I set them to 0,5 for consistency.
+2. I opened the custom-reference.odt file in LibreOffice and modified the left and right page margins to 0.5 for left and right. The images are exactly 7.5 inches wide, so this makes them perfectly centered to fit within the width margins of a page that is 8.5x11 inches. The top and bottom margins are not quite as important, but I set them to 0.5 for consistency.
 
-3. I also deleted the header and footer. This also helps save some space.
+3. I also changed the style of "Heading 1" to automatically include a page break before the heading so that each chapter would start on a new page.
 
-4. Finally, I used the reference doc after modified as an input when making a new odt conversion of the book.
+4. Finally, I used the reference doc after modification as an input when making a new odt conversion of the book.
 
 `pandoc ChastityChessChapters.md -o book.odt --reference-doc custom-reference.odt`
 
-This file should look good enough to export directly as a PDF in LibreOffice. Although this may seem overly complicated, this process is more useful than you might expect. For one, it bypasses the use of "Industry Standard" tools like Microsoft Word that most writers think they need. Pandoc and LibreOffice are the only two software programs you need to create good looking documents from Markdown files.
+This file should look good enough to export directly as a PDF in LibreOffice. Although this may seem overly complicated, this process is more useful than you might expect. For one, it bypasses the use of "Industry Standard" tools like Microsoft Word that most writers think they need. Pandoc and LibreOffice are the only two software programs you need to create good-looking documents from Markdown files.
 
-However, this process is unneccessary for most books that contain only text. It was precisely because my Chess book had a lot of pictures that I used Markdown because it allowed better control of the images than I could do in LibreOffice alone.
+However, this process is unnecessary for most books that contain only text. It was precisely because my Chess book had a lot of pictures that I used Markdown. I used this method because it allowed better control of the images than I could do in LibreOffice alone.
 
-I would also like to mention that severate note taking apps were useful to me as I was writing the book. Below are my top 3 favorite programs out of the many I installed and tried out.
+I would also like to mention that several note-taking apps were useful to me as I was writing the book. Below are my top 3 favorite programs out of the many I installed and tried out.
 
 - [Joplin](https://joplinapp.org/)
 - [Simplenote](https://simplenote.com/)
 - [ghostwriter](https://ghostwriter.kde.org/)
 
-All 3 of those apps are useful for their ability to preview the output of what the source Markdown code will look like. For Mobile devices, Joplin and Simplenote are the best. For a PC with Windows, Mac, or Linux, ghostwriter is especially helpful because it works directly with plain text files on your system just like notepad does but it also allows a preview just like Joplin and Simplenote do.This was essential when I was making sure my pictures were linked correctly!
+All 3 of those apps are useful for their ability to preview the output of what the source Markdown code will look like. For Mobile devices, Joplin and Simplenote are the best. For a PC with Windows, Mac, or Linux, ghostwriter is especially helpful because it works directly with plain text files on your system just like Notepad does, but it also allows a preview just like Joplin and Simplenote do. Testing the images was essential for making sure my pictures were linked correctly!
+
+In case you were wondering, all of the artwork was made using the program [Inkscape](https://inkscape.org/). The Chess, Shogi, and Xiangqi pieces are either under a GPL or Public Domain license and came from open-source projects like [lichess](https://lichess.org/), [lishogi](https://lishogi.org/) and [pychess](https://www.pychess.org/).
