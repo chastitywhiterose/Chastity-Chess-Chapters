@@ -1851,7 +1851,7 @@ HTML in a web browser.</p>
 <p><code>pandoc ChastityChessChapters-ebook.md -o ebook.html</code></p>
 <p>Once I confirmed that the links worked correctly, I then converted to
 an epub file.</p>
-<p><code>pandoc ChastityChessChapters-ebook.md -o ebook.epub</code></p>
+<p><code>pandoc --metadata title="Chastity's Chess Chapters" ChastityChessChapters-ebook.md -o ebook.epub</code></p>
 <p>Then I tested the epub by opening it in <a
 href="https://calibre-ebook.com/">Calibre</a> to see how it looked. To
 my surprise, the conversion worked very well.</p>

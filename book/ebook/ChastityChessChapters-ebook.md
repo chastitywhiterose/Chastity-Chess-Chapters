@@ -893,7 +893,7 @@ Once I read the Pandoc documentation on the rules for linking to existing headin
 
 Once I confirmed that the links worked correctly, I then converted to an epub file.
 
-`pandoc ChastityChessChapters-ebook.md -o ebook.epub`
+`pandoc --metadata title="Chastity's Chess Chapters" ChastityChessChapters-ebook.md -o ebook.epub`
 
 Then I tested the epub by opening it in [Calibre](https://calibre-ebook.com/) to see how it looked. To my surprise, the conversion worked very well.
 
