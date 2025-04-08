@@ -885,7 +885,18 @@ In case you were wondering, all of the artwork was made using the program [Inksc
 
 This is a bonus chapter that was not in the originally published paperback. Specifically in the ebook, a few things were modified. First, the links in the table of contents were changed to internal links for easier navigation in the ebook. They no longer point to the blog posts because the idea is that the ebook can be downloaded and read without requiring an internet connection once downloaded.
 
+In the paperback, the links cannot be clicked because the book is literal paper and ink instead of a computer. However, they are exceptionally helpful to me as the author because it means I can quickly go to the post for that chapter and check to see if there are any new comments! However, I did not want the links to remain the same for the ebook because it is meant to help you jump to the chapter on whatever device you are reading it on.
+
 Once I read the Pandoc documentation on the rules for linking to existing headings within a document, I used this command to test it as HTML in a web browser.
 
 `pandoc ChastityChessChapters-ebook.md -o ebook.html`
 
+Once I confirmed that the links worked correctly, I then converted to an epub file.
+
+`pandoc ChastityChessChapters-ebook.md -o ebook.epub`
+
+Then I tested the epub by opening it in [Calibre](https://calibre-ebook.com/) to see how it looked. To my surprise, the conversion worked very well.
+
+These technical details about software and formatting may not mean much to you as the reader, but this is useful information worth sharing for other authors who may have the desire to write a publish a book. They may already even have a manuscript typed up but don't know how to get it published as a paperback (the original and true form of a book) or an ebook (the modern convenience of reading a book on your phone, iPad, Kindle, Nook, Kobo, etc).
+
+The process of publishing my first Chess book has taught me more than I would have ever thought was possible. I hope reading my book has helped you understand why I love Chess. If you are an author who wants some help publishing your book, I can also probably guide you with a few tools and tricks I have learned.
