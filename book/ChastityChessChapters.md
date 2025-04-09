@@ -51,7 +51,7 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 - Names of the Squares
 - Letters of the Pieces
 
-[Chapter 8: Too Long. Didn't Read.](https://chastitychesschallenge.com/2025/03/25/chapter-8-too-long-didnt-read/)
+[Chapter 8: Too Long Didn't Read](https://chastitychesschallenge.com/2025/03/25/chapter-8-too-long-didnt-read/)
 
 [Chapter 9: The Making of the Paperback](https://chastitychesschallenge.com/2025/04/01/chapter-9-the-making-of-the-paperback/)
 
@@ -819,7 +819,7 @@ Unfortunately, people don't know what I am talking about. For this reason, I fel
 
 A person can also make up their own notation entirely. If you can think of a better system to help you remember what moves you made, then it's not wrong as long as it helps you.
 
-# Chapter 8: Too Long. Didn't Read.
+# Chapter 8: Too Long Didn't Read
 
 There will be many people who did not make it past even the first chapter of this book. This book about Chess is necessarily long because I am sharing all the information I possibly can from my years of experience playing Chess and games similar to Chess. At this point, you might be thinking, "This book is too long! I am not going to read all this!" And you would not be the first to think like this.
 
