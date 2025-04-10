@@ -893,10 +893,11 @@ Once I read the Pandoc documentation on the rules for linking to existing headin
 
 Once I confirmed that the links worked correctly, I then converted to an epub file.
 
-`pandoc --metadata title="Chastity's Chess Chapters" ChastityChessChapters-ebook.md -o ebook.epub`
+`pandoc -t epub --metadata title="Chastity's Chess Chapters" ChastityChessChapters-ebook.md -o ebook.epub`
 
 Then I tested the epub by opening it in [Calibre](https://calibre-ebook.com/) to see how it looked. To my surprise, the conversion worked very well.
 
 These technical details about software and formatting may not mean much to you as the reader, but this is useful information worth sharing for other authors who may have the desire to write a publish a book. They may already even have a manuscript typed up but don't know how to get it published as a paperback (the original and true form of a book) or an ebook (the modern convenience of reading a book on your phone, iPad, Kindle, Nook, Kobo, etc).
 
 The process of publishing my first Chess book has taught me more than I would have ever thought was possible. I hope reading my book has helped you understand why I love Chess. If you are an author who wants some help publishing your book, I can also probably guide you with a few tools and tricks I have learned.
+
