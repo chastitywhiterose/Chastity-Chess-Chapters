@@ -23,7 +23,7 @@ Then white moves the pawn on c2 to c4.
 
 In this position, black's pawn can capture the white pawn and yet it doesn't appear that white can capture it back, at least not yet. If it does take the pawn, this is known as accepting the gambit. New players will more likely than not take this pawn if they don't see the trap.
 
-![d4-d5-c4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4.png?w=360)	![d4-d5-c4-dxc4](https://chastitychesschallenge.com/wp-content/uploads/2025/04/d4-d5-c4-dxc4-1.png?w=360)![d4-d5-c4-dxc4-e4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-dxc4-e4.png?w=360)
+![d4-d5-c4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4.png?w=360)	![d4-d5-c4-dxc4](https://chastitychesschallenge.com/wp-content/uploads/2025/04/d4-d5-c4-dxc4-1.png?w=360)	![d4-d5-c4-dxc4-e4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/d4-d5-c4-dxc4-e4.png?w=360)
 
 You see, the idea was to distract the pawn and move it away from the center so that white's king pawn could move two squares forward. Also notice that the white bishop on f1 could also capture the black pawn on c4 next turn, but not so fast, first, black has to choose their next move. The only problem is that there really is no good way for black to stop white from taking their pawn with the bishop. If they try to protect it with another pawn, things can turn out badly. Sooner or later white will capture back the c4 pawn with the bishop and if black tries to stop it, they will only lose more pieces.
 
