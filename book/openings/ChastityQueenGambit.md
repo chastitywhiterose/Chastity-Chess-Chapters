@@ -138,3 +138,24 @@ At this point, white usually resigns after losing their queen. There really are 
 I play Chess on Lichess.org almost daily. You can find me as user [chastitywhiterose](https://lichess.org/@/chastitywhiterose). Send me a challenge for a correspondence game or contact me for setting up a time for some live classical Chess!
 
 I also stream on [Twitch](https://www.twitch.tv/chastitywhiterose) and upload the videos to [YouTube](https://www.youtube.com/@chastitywhiterose) also.
+
+---
+
+# How This Book was Made
+
+Like my first Chess book, [Chastity's Chess
+Chapters](https://chastitychesschallenge.com/chastitys-chess-chapters/), this book was written using Markdown, the easier replacement for HTML. By using Pandoc, I converted it into the right file formats for publishing as a paperback and ebook.
+
+To make standalone html file, this works.
+
+`pandoc ChastityQueenGambit.md -o ebook.html -s --metadata title="Chastity's Queen's Gambit Opening Book" --toc`
+
+To make an epub with correct metadata, this command is perfect.
+
+`pandoc ChastityQueenGambit.md -o ebook.epub -s --metadata title="Chastity's Queen's Gambit Opening Book" --metadata subtitle="A Beginner's Guide to the Queen's Gambit Opening" --metadata author="Chastity White Rose" --toc`
+
+The paperback is a bit more complex, but it was generated into an Open Document Text file and then printed to PDF in LibreOffice. My previous book has more details about the process I used.
+
+`pandoc ChastityQueenGambit.md -o book.odt --reference-doc custom-reference.odt`
+
+The images used in this book are all hosted on my blog and linked to. I created them all myself by using Inkscape.
