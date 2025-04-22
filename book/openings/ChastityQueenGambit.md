@@ -128,7 +128,23 @@ Black queen takes white queen because when the white bishop moved out of the way
 At this point, white usually resigns after losing their queen. There really are no good moves for white in this position and the black queen can keep putting the white king in check while taking all their pieces. This is why the Albin Counter Gambit is so dangerous to a Queen’s Gambit player like me. Don’t fall for this trap as I once did!
 
 
+But you may wonder, can the Queen be protected if the white king moves to e3 instead of taking the pawn on f2?
 
+
+No, because remember that the pawn can promote to any piece, including a knight when it promotes. This puts the king in check.
+
+
+Of course, the rook can take this black knight, but that will not help the situation at all.
+
+
+The true purpose of taking that knight was to remove the final defender of the king from a bishop on b4 check.
+
+
+As you can see, there is no way to protect the queen. As soon as the king moves to one of the 3 legal squares, the white queen will be captured by either the black bishop or queen.
+
+The Albin Counter Gambit doesn’t always go this way, but it certainly can. This is why it is a perfectly valid response to the Queen’s Gambit.
+
+![d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3.png](https://chastitychesschallenge.com/wp-content/uploads/2025/04/d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3.png?w=360) ![d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3-fxg1n.png](https://chastitychesschallenge.com/wp-content/uploads/2025/04/d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3-fxg1n.png?w=360) ![d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3-fxg1n-rxg1.png](https://chastitychesschallenge.com/wp-content/uploads/2025/04/d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3-fxg1n-rxg1.png?w=360) ![d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3-fxg1n-rxg1-bg4.png](https://chastitychesschallenge.com/wp-content/uploads/2025/04/d4-d5-c4-e5-dxe5-d4-e3-bg5-bd2-dxe3-bxg5-exf2-ke3-fxg1n-rxg1-bg4.png?w=360)
 
 
 ---
