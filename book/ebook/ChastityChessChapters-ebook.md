@@ -893,7 +893,8 @@ Once I read the Pandoc documentation on the rules for linking to existing headin
 
 Once I confirmed that the links worked correctly, I then converted to an epub file.
 
-`pandoc -t epub --metadata title="Chastity's Chess Chapters" ChastityChessChapters-ebook.md -o ebook.epub`
+`pandoc ChastityChessChapters-ebook.md -o ebook.epub -s --metadata title="Chastity's Chess Chapters" --metadata subtitle="Chess is not as hard to learn as you have been told!" --metadata author="Chastity White Rose"`
+
 
 Then I tested the epub by opening it in [Calibre](https://calibre-ebook.com/) to see how it looked. To my surprise, the conversion worked very well.
 
@@ -901,3 +902,4 @@ These technical details about software and formatting may not mean much to you a
 
 The process of publishing my first Chess book has taught me more than I would have ever thought was possible. I hope reading my book has helped you understand why I love Chess. If you are an author who wants some help publishing your book, I can also probably guide you with a few tools and tricks I have learned.
 
+My number one tip I would like to give authors right now is to publish an ebook through [Draft2Digital](https://draft2digital.com/). If you can write a book and produce a high quality epub file, you can expect that it will look pretty much the same when you publish it through Draft2Digital. This book you are reading is available on the Apple Books store, the Kobo Books store, Barnes and Noble, and some lesser known online book stores that I hadn't heard about before joining Draft2Digital. This service is the fastest way I know of to get an ebook available in as many places as possible.
