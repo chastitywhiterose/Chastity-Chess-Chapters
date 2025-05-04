@@ -887,7 +887,7 @@ In case you were wondering, all of the artwork was made using the program [Inksc
 
 More copies of this book in paperback form can be purchased here on Amazon.
 
-https://www.amazon.com/dp/B0F44DG4XD
+<https://www.amazon.com/dp/B0F44DG4XD>
 
 # Chapter 10: The Making of the Ebook
 
@@ -928,4 +928,4 @@ Please do contact me with any questions, comments, corrections, or Chess Challen
 
 chastitywhiterose@gmail.com
 
-https://chastitychesschallenge.com/
+<https://chastitychesschallenge.com>
