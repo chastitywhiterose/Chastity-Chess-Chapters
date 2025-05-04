@@ -524,7 +524,11 @@ Also, you can play Shogi anytime on [lishogi.org](https://lishogi.org/). It allo
 
 ## Xiangqi
 
-After you learn Chess and Shogi, I recommend Chinese Chess known as Xiangqi. You can learn and play it on [xiangqi.com](https://www.xiangqi.com/). Usually the game is played with pieces represented by Chinese Characters. However, many sites and programs allow you to select a westernized set similar to what was available for Shogi.
+After you learn Chess and Shogi, I recommend Chinese Chess known as Xiangqi. You can learn and play it on [xiangqi.com](https://www.xiangqi.com/). Usually the game is played with pieces represented by Chinese Characters. The following picture is typical of what you would see on most websites
+
+![chastity-svg-xiangqi-set-chinese.png](https://chastitychesschallenge.com/wp-content/uploads/2025/04/chastity-svg-xiangqi-set-chinese.png)
+
+However, many sites and programs allow you to select a westernized set similar to what was available for Chess or Shogi.
 
 ![chastity-svg-xiangqi-set.png](https://chastitychesschallenge.com/wp-content/uploads/2025/03/chastity-svg-xiangqi-set.png)
 
@@ -881,9 +885,13 @@ All 3 of those apps are useful for their ability to preview the output of what t
 
 In case you were wondering, all of the artwork was made using the program [Inkscape](https://inkscape.org/). The Chess, Shogi, and Xiangqi pieces are either under a GPL or Public Domain license and came from open-source projects like [lichess](https://lichess.org/), [lishogi](https://lishogi.org/) and [pychess](https://www.pychess.org/).
 
+More copies of this book in paperback form can be purchased here on Amazon.
+
+https://www.amazon.com/dp/B0F44DG4XD
+
 # Chapter 10: The Making of the Ebook
 
-This is a bonus chapter that was not in the originally published paperback. Specifically in the ebook, a few things were modified. First, the links in the table of contents were changed to internal links for easier navigation in the ebook. They no longer point to the blog posts because the idea is that the ebook can be downloaded and read without requiring an internet connection once downloaded.
+In the ebook edition of this book, a few things were modified. First, the links in the table of contents were changed to internal links for easier navigation in the ebook. They no longer point to the blog posts because the idea is that the ebook can be downloaded and read without requiring an internet connection once downloaded.
 
 In the paperback, the links cannot be clicked because the book is literal paper and ink instead of a computer. However, they are exceptionally helpful to me as the author because it means I can quickly go to the post for that chapter and check to see if there are any new comments! However, I did not want the links to remain the same for the ebook because it is meant to help you jump to the chapter on whatever device you are reading it on.
 
@@ -903,3 +911,21 @@ These technical details about software and formatting may not mean much to you a
 The process of publishing my first Chess book has taught me more than I would have ever thought was possible. I hope reading my book has helped you understand why I love Chess. If you are an author who wants some help publishing your book, I can also probably guide you with a few tools and tricks I have learned.
 
 My number one tip I would like to give authors right now is to publish an ebook through [Draft2Digital](https://draft2digital.com/). If you can write a book and produce a high quality epub file, you can expect that it will look pretty much the same when you publish it through Draft2Digital. This book you are reading is available on the Apple Books store, the Kobo Books store, Barnes and Noble, and some lesser known online book stores that I hadn't heard about before joining Draft2Digital. This service is the fastest way I know of to get an ebook available in as many places as possible.
+
+However, the best part of this is that the books you publish through Draft2Digital are also available on Smashwords. Smashwords is particularly good because if you buy a book there, you can download the epub and then load it into whichever ebook reading application you like. This way you are not locked into only one vendor and can freely read the same book if you change from using Kindle to Kobo, Nook, or Apple Books.
+
+For example, this ebook is available on Smashwords in both English and Spanish.
+
+## My Chess Books on Smashwords
+
+[Chastity's Chess Chapters](https://www.smashwords.com/books/view/1744420)
+
+[Capítulos de ajedrez de Chastity](https://www.smashwords.com/books/view/1760689)
+
+My final statement on this matter is that I still think original paperback books are superior to electronic books, but my goal is to make my books available to people who also prefer reading ebooks. It is also possible to update ebooks faster than paperbacks because there is no printing cost. Therefore the ebook may have the latest changes and corrections before the paperback does.
+
+Please do contact me with any questions, comments, corrections, or Chess Challenges! My email address and website are below.
+
+chastitywhiterose@gmail.com
+
+https://chastitychesschallenge.com/
