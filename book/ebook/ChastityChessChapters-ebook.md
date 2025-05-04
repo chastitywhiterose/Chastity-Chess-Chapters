@@ -57,6 +57,8 @@ Strong open source chess variant engine](https://fairy-stockfish.github.io/)
 
 [Chapter 10: The Making of the Ebook](#chapter-10-the-making-of-the-ebook)
 
+[Chapter 11: Song Lyrics](#chapter-11-song-lyrics)
+
 # Copyright
 
 [Chastity's Chess
@@ -885,9 +887,7 @@ All 3 of those apps are useful for their ability to preview the output of what t
 
 In case you were wondering, all of the artwork was made using the program [Inkscape](https://inkscape.org/). The Chess, Shogi, and Xiangqi pieces are either under a GPL or Public Domain license and came from open-source projects like [lichess](https://lichess.org/), [lishogi](https://lishogi.org/) and [pychess](https://www.pychess.org/).
 
-More copies of this book in paperback form can be purchased here on Amazon.
-
-<https://www.amazon.com/dp/B0F44DG4XD>
+This book is available paperback form on Amazon. Both English and Spanish languages are available at this time. More will follow as I find the time to translate more of them with [Google Translate](https://translate.google.com/).
 
 # Chapter 10: The Making of the Ebook
 
@@ -914,13 +914,7 @@ My number one tip I would like to give authors right now is to publish an ebook 
 
 However, the best part of this is that the books you publish through Draft2Digital are also available on Smashwords. Smashwords is particularly good because if you buy a book there, you can download the epub and then load it into whichever ebook reading application you like. This way you are not locked into only one vendor and can freely read the same book if you change from using Kindle to Kobo, Nook, or Apple Books.
 
-For example, this ebook is available on Smashwords in both English and Spanish.
-
-## My Chess Books on Smashwords
-
-[Chastity's Chess Chapters](https://www.smashwords.com/books/view/1744420)
-
-[Capítulos de ajedrez de Chastity](https://www.smashwords.com/books/view/1760689)
+For example, the ebook edition of this book is available on Smashwords in both English and Spanish. At the same time, most people buy their ebooks from the larger well known companies. The content is exactly the same regardless of which way you buy it. It mostly depends on your preference and which device you prefer to read electronic books on.
 
 My final statement on this matter is that I still think original paperback books are superior to electronic books, but my goal is to make my books available to people who also prefer reading ebooks. It is also possible to update ebooks faster than paperbacks because there is no printing cost. Therefore the ebook may have the latest changes and corrections before the paperback does.
 
@@ -929,3 +923,171 @@ Please do contact me with any questions, comments, corrections, or Chess Challen
 chastitywhiterose@gmail.com
 
 <https://chastitychesschallenge.com>
+
+# Chapter 11: Song Lyrics
+
+Besides writing about Chess in this book, I also sometimes write poems about Chess which double as song lyrics. The lyrics for my top 3 best songs are below.
+
+```
+Chastity's Chess Challenge Lyrics
+
+Style: International Anthem of Chess Equality
+
+[Verse]
+Chastity sat down
+Chessboard in the light
+Pieces in a row
+Ready for the night
+
+[Verse 2]
+Every piece unique
+Knights jump around
+Bishops slide oblique
+Soon the pawns surround
+
+[Chorus]
+Checkmates and castles
+Battles on the squares
+Chastity’s got the tactics
+Winning everywhere
+
+[Verse 3]
+Opponents get nervous
+Rooks move with speed
+Chastity keeps her cool
+Focused indeed
+
+[Verse 4]
+She'll show you the websites
+Where she likes to play
+Just watch her stream highlights
+And you'll learn the way
+
+[Bridge]
+Every move calculated
+Every step so clear
+She's the queen of the board
+No need to fear
+
+[Verse 5]
+We don't always make the best move
+But the point of Chess is to have fun
+If you keep playing you will improve
+You'll believe me when the game is done
+
+[Verse 6]
+Whether you are a powerful queen
+Or just a slow moving pawn
+Soon you'll become a chess machine
+Playing in your dreams from dusk to dawn
+
+[Verse 7]
+Some people call Chess a game
+While others say it's a fight
+Perhaps it's all the same
+The dance of black and white
+
+[Verse 8]
+Chess is for people of every kind
+It doesn't matter who or what you are
+You have all the power in your mind
+Learn to checkmate like a star
+```
+
+```
+Chastity's Chess Chapters Lyrics
+
+I was trying to inspire people to play chess
+My plans were good, but the execution was a mess
+If people don't know how to start
+Then they will never know that chess is art
+
+I decided to write my own chess book
+With large pictures for people to take a look
+The new player needs some motivation
+Before they even know chess notation
+
+My graphic design was quite berserk
+Most of my time was spent on artwork
+They needed to be the right size
+I failed so many of my tries
+
+I never give up because I am a nerd
+I put my heart into every single word
+I want my readers to understand
+The vision of chess that I have planned
+
+Because chess is not hard to learn
+As long as you do not rush your turn
+It's not a game for the strong or fast
+But for the patient who can outlast
+
+With every piece that you take
+You question if you made a mistake
+The book I write will not mislead
+But you need the patience to read
+
+If there is something I should show
+Then message me and let me know
+The game of chess should always be free
+If you take the time, I know you will agree
+```
+
+```
+Chess for All (Latest version)
+
+[Verse]
+Board is set let's play our game
+Everyone can join the same
+Pieces move their timeless dance
+In chess there's always a chance
+
+[Verse 2]
+Kings and queens on either side
+Pawns advance with humble pride
+No one's left out in this fight
+A game of skill no dark no light
+
+[Chorus]
+Chess for all chess for you
+Every move it's something new
+No matter who or where you are
+In this game we're all a star
+
+[Verse 3]
+Black or white it doesn't matter
+On this board no walls to shatter
+Rich or poor we all belong
+In this fight we're going strong
+
+[Verse 4]
+Even if you've never played
+There's no need to be afraid
+Anyone can learn this game
+That's why chess has so much fame
+
+[Bridge]
+Male or female gay or straight
+At this table no one's late
+Every voice and move unique
+All together we are sleek
+
+[Verse 5]
+Anyone can win this game
+But when you lose feel no shame
+Even masters make mistakes
+All your games are just remakes
+
+[Verse 6]
+Each new player finds their style
+When you find it you will smile
+Books and courses help us learn
+What we need to take our turn
+
+[Chorus]
+Chess for all chess for you
+Every move it's something new
+No matter who or where you are
+In this game we're all a star
+
+```
