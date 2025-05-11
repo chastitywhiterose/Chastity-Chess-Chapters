@@ -928,11 +928,10 @@ chastitywhiterose@gmail.com
 
 Besides writing about Chess in this book, I also sometimes write poems about Chess which double as song lyrics. The lyrics for my top 3 best songs are below.
 
+
+## Chastity's Chess Challenge Lyrics
+
 ```
-Chastity's Chess Challenge Lyrics
-
-Style: International Anthem of Chess Equality
-
 [Verse]
 Chastity sat down
 Chessboard in the light
@@ -994,9 +993,9 @@ You have all the power in your mind
 Learn to checkmate like a star
 ```
 
-```
-Chastity's Chess Chapters Lyrics
+## Chastity's Chess Chapters Lyrics
 
+```
 I was trying to inspire people to play chess
 My plans were good, but the execution was a mess
 If people don't know how to start
@@ -1033,9 +1032,9 @@ The game of chess should always be free
 If you take the time, I know you will agree
 ```
 
-```
-Chess for All (Latest version)
+## Chess for All Lyrics
 
+```
 [Verse]
 Board is set let's play our game
 Everyone can join the same
