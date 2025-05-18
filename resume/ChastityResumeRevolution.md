@@ -53,7 +53,7 @@ Game Business and Esports - B.S. (Incomplete Previous Program before Creative Wr
 
 ## Work Experience:
 
-- Wal-Mart - Overnight Stock Team Associate - September 2023 - Present  
+- Wal-Mart - Overnight Stock Team Associate - September 2023 - Present
 
 - Hy-Vee - Clerk of Multiple Departments - October 2012 - July 2023
 
@@ -123,3 +123,27 @@ Working the overnight shift is something many people find difficult because work
 My job at Walmart doesn't involve any writing other than texting my team leads and coaches questions or reports on what I have gotten done so far. However, I have worked this job while I was also attending online school in my Full Sail University Creative Writing program. I consider my job with Walmart to be useful for keeping my body active while my mind is busy with my other responsibilities for my planned writing career.
 
 I often wonder if there are any roles involving writing or technology that I could obtain at Walmart. My current job as an overnight stocker is nice, but it does not use my computer skills or the detailed writing that is enhanced by my autistic brain.
+
+# Software Skills
+
+I have provided a short summary of each of the languages or software tools I have experience in.
+
+## Markdown
+
+Markdown is a Markup language which is an alternative to HTML. I have used it to save me time when writing books and essays for school assignments. The strength of Markdown is that it does not depend on specific software or operating systems because it is a pure text language.
+
+## LibreOffice
+
+I have been using LibreOffice, and its older relative OpenOffice since my teenage years. The Writer part of the LibreOffice suite is what I have used for all documents where page sizes and numbers mattered. It was the only program I needed to publish my paperback books through Amazon from 2013 to 2024. After that, I started using Markdown in combination with LibreOffice to support quick writing and then formating adjustment with LibreOffice when necessary.
+
+## Microsoft Word
+
+I learned to use Microsoft Word during my time with Full Sail University. I never had much personal interest in it because it would cost money to pay for a subscription, but it is not very different from LibreOffice Writer and can be used for any of the same tasks. Why anyone would use it by choice when LibreOffice is better is still beyond me.
+
+## Inkscape
+
+Inkscape is the vector graphics program I use which is equivalent to Adobe Illustrator in features. I used it to design all the pictures for my Chess book because I needed all the pieces and squares perfectly aligned to a grid. If someone needs a simple image made, I can usually come up with something in Inkscape quick. I once designed a logo for someone and they paid me $200 because they were very pleased with it.
+
+## Video Production
+
+I can Stream and record videos using OBS-Studio. Once I have a video file, I can do some basic editing such as clipping, joining, and adding text and audio to any part of a video. I use Kdenlive as my video editor because it has the most features of any Open Source video editor I use. 
