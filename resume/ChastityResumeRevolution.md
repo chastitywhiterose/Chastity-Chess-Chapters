@@ -18,6 +18,8 @@ I am a Technical Writer. My best genre of writing is when I am writing about how
 
 # Chastity's Resume
 
+## Artist, Author, Chess Coach and, Technical Writer
+
 Trans Name: Chastity White Rose
 
 Legal Name: Chandler Isaac Klebs
@@ -32,7 +34,9 @@ Main Website: https://chastitywhiterose.com/
 
 Chess Website: https://chastitychesschallenge.com/
 
-Chess Coach and Technical Writer: Writer of books, blogs, and commentary with a focus on making Chess accessible to low-income people through the power of free and open-source software. Utilizes words, video recordings, and graphic design to teach Chess to as many people as possible in a way they can understand. Available for contract and part-time work.
+## Summary
+
+I am a writer of books, blogs, and commentary with a focus on making Chess accessible to low-income people through the power of free and open-source software. I use words, video recordings, and graphic design to teach Chess to as many people as possible in a way they can understand. However, my technical skills can apply to other roles outside of what I do for my own business.
 
 ## Skills and Applications:
 
@@ -55,11 +59,11 @@ Game Business and Esports - B.S. (Incomplete Previous Program before Creative Wr
 
 - Wal-Mart - Overnight Stock Team Associate - September 2023 - Present
 
-- Hy-Vee - Clerk of Multiple Departments - October 2012 - July 2023
+- Hy-Vee - Floral Clerk and other Departments - October 2012 - July 2023
 
-- Brillient Corporation - General Clerk -	June 2019 - April 2021
+- Brillient - General Clerk - June 2019 - April 2021
 
-- GameStop - Game Advisor- June 2022 - February 2024
+- GameStop - Game Advisor - June 2022 - February 2024
 
 
 ## Written Publications
@@ -84,13 +88,13 @@ Being a Technical Writer is general-purpose enough that it can apply to anything
 
 # Hy-Vee
 
-My first job was with Hy-Vee. I was a Courtesy Clerk, which is a fancy term for someone who sacks groceries, helps customers load their car, and brings in the carts. 
+My first job was with Hy-Vee. I was a Courtesy Clerk, which is a fancy term for someone who sacks groceries, helps customers load their car, and brings in the carts.
 
 Over time, I moved into stocking the Health Market and other departments, where I helped many customers find things because I was one of the few people they saw to even ask for help.
 
 But the job I am most proud of was my role as a Floral Clerk. I was trained in watering the plants the correct amount, writing customer orders over the phone or in person, acting as a cashier at the register, and getting orders ready for delivery.
 
-When taking Floral orders, every detail mattered. We had to know who we were delivering to, their address, phone number, and instructions for what to do if they were not home to answer the door. 
+When taking Floral orders, every detail mattered. We had to know who we were delivering to, their address, phone number, and instructions for what to do if they were not home to answer the door.
 
 We also had to know what was being delivered, if it was not hand-picked by the customer from what we already had pre-made. Many times, customers would come in to order flowers for a funeral or a wedding. I would show them pictures from the books we had and then copy them with the copy machine in the store and write down the product numbers on the example arrangements from the book. The manager and designers would sometimes have to establish the final cost at a later time when they were in.
 
@@ -126,24 +130,28 @@ I often wonder if there are any roles involving writing or technology that I cou
 
 # Software Skills
 
-I have provided a short summary of each of the languages or software tools I have experience in.
+I have provided a summary of the top skills or software tools I have experience in.
 
 ## Markdown
 
-Markdown is a Markup language which is an alternative to HTML. I have used it to save me time when writing books and essays for school assignments. The strength of Markdown is that it does not depend on specific software or operating systems because it is a pure text language.
+Markdown is a Markup language that is an alternative to HTML. I have used it to save me time when writing books and essays for school assignments. The strength of Markdown is that it does not depend on specific software or operating systems because it is a pure text language.
 
 ## LibreOffice
 
-I have been using LibreOffice, and its older relative OpenOffice since my teenage years. The Writer part of the LibreOffice suite is what I have used for all documents where page sizes and numbers mattered. It was the only program I needed to publish my paperback books through Amazon from 2013 to 2024. After that, I started using Markdown in combination with LibreOffice to support quick writing and then formating adjustment with LibreOffice when necessary.
+I have been using LibreOffice, and its older relative OpenOffice, since my teenage years. The Writer part of the LibreOffice suite is what I have used for all documents where page sizes and numbers mattered. It was the only program I needed to publish my paperback books through Amazon from 2013 to 2024. After that, I started using Markdown in combination with LibreOffice to support quick writing and then formatting adjustments with LibreOffice when necessary.
 
 ## Microsoft Word
 
-I learned to use Microsoft Word during my time with Full Sail University. I never had much personal interest in it because it would cost money to pay for a subscription, but it is not very different from LibreOffice Writer and can be used for any of the same tasks. Why anyone would use it by choice when LibreOffice is better is still beyond me.
+I learned to use Microsoft Word during my time at Full Sail University. I never had much personal interest in it because it would cost money to pay for a subscription, but it is not very different from LibreOffice Writer and can be used for any of the same tasks. Why anyone would use it by choice when LibreOffice is better is still beyond me.
 
 ## Inkscape
 
-Inkscape is the vector graphics program I use which is equivalent to Adobe Illustrator in features. I used it to design all the pictures for my Chess book because I needed all the pieces and squares perfectly aligned to a grid. If someone needs a simple image made, I can usually come up with something in Inkscape quick. I once designed a logo for someone and they paid me $200 because they were very pleased with it.
+Inkscape is the vector graphics program I use, which is equivalent to Adobe Illustrator in features. I used it to design all the pictures for my Chess book because I needed all the pieces and squares perfectly aligned to a grid. If someone needs a simple image made, I can usually come up with something in Inkscape quick. I once designed a logo for someone, and they paid me $200 because they were very pleased with it.
 
 ## Video Production
 
-I can Stream and record videos using OBS-Studio. Once I have a video file, I can do some basic editing such as clipping, joining, and adding text and audio to any part of a video. I use Kdenlive as my video editor because it has the most features of any Open Source video editor I use. 
+I can stream and record videos using OBS Studio. Once I have a video file, I can do some basic editing such as clipping, joining, and adding text and audio to any part of a video. I use Kdenlive as my video editor because it has the most features of any Open Source video editor I use.
+
+## Chess Teaching
+
+I am highly skilled at playing Chess as well as using the previously mentioned skills to write, design pictures, and record videos designed for teaching the rules and my favorite strategies for winning at Chess. More than anything, Chess can be used to measure the intelligence and patience of a person. The number one reason people lose at Chess and in life is because they resign too easily.
