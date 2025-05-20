@@ -17,6 +17,7 @@ Similarly, many companies would expect the applicant to have experience in Micro
 
 I am a Technical Writer. My best genre of writing is when I am writing about how to do something. I might be writing about how to play a game, use some kind of software tool, or the steps involved in publishing a book.
 
+---
 
 # Chastity's Resume
 
@@ -49,13 +50,18 @@ I am a writer of books, blogs, and commentary with a focus on making Chess acces
 
 ## Skills and Applications:
 
-Writing: Markdown, LibreOffice, Simplenote, Joplin, Pandoc, Microsoft Word
-
-Chess Teaching: OBS-Studio, StreamYard, Zoom, En-Croissant, ChessX Social Media, Twitch, Instagram, TikTok, LinkedIn, Facebook.
-
-Graphic Design: Inkscape, GIMP
-
-Audio/Video Editing: Audacity, Kdenlive
+- Markdown
+- LibreOffice
+- Simplenote
+- Joplin
+- Pandoc
+- Microsoft Word
+- En-Croissant
+- ChessX
+- LinkedIn
+- Graphic Design (Inkscape and GIMP)
+- Video Recording (OBS-Studio, Zoom, StreamYard)
+- Audio/Video Editing (Audacity, Kdenlive)
 
 ## Education:
 
@@ -65,13 +71,33 @@ Audio/Video Editing: Audacity, Kdenlive
 
 ## Work Experience:
 
-- Wal-Mart - Overnight Stock Team Associate - September 2023 - Present
+### Wal-Mart
+- Overnight Stock Team Associate - September 2023 - Present
+- Stock Food and General Merchandise depending on what is delivered.
+- Remove trash and pallets from the floor before customers arrive in the morning and then assist customers in finding and purchasing merchandise.
+- Report work progress to coaches and team leads and inform them of any unethical or illegal activity.
 
-- Hy-Vee - Floral Clerk and other Departments - October 2012 - July 2023
+### Hy-Vee
 
-- Brillient - General Clerk - June 2019 - April 2021
+- Floral Clerk and other Departments - October 2012 - July 2023
+- Started as a Courtesy Clerk: Sacking groceries and bringing in carts.
+- Stocked Health Market and helped customers find things for their dietary needs.
+- Wrote down Floral Delivery orders both in person and over the phone. Prepared these orders for pickup or delivery.
+- Watered plants, sold items to customers and cleaned the shop before closing.
 
-- GameStop - Game Advisor - June 2022 - February 2024
+
+### Brillient
+- General Clerk - June 2019 - April 2021
+- Kept records and tracked files at the National Records Center containing 17 million files
+- Sorted incoming files to the facility and entered their numbers into the computer database managed by the Department of Homeland Security.
+- Placed files on the shelves and kept record digitally and on paper where they were placed.
+
+
+### GameStop
+- Game Advisor - June 2022 - February 2024
+- Helped customers find the games they were looking for.
+- Answered technical questions based on experience and the reading materials employees were given.
+- Promoted the Pro-Membership that Gamestop offered and how it saves money to recurring customers of over $60 annually.
 
 
 ## Written Publications
@@ -83,6 +109,9 @@ Audio/Video Editing: Audacity, Kdenlive
 ## Video Game Publications
 
 - [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - A relaxing clone of Tetris with no gravity.
+- [Chaste Chess](https://chastitywhiterose.itch.io/cpu-chaste-chess) - A small tool for creative animations of Chess games.
+
+---
 
 # Software Skills
 
