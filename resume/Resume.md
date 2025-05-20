@@ -29,9 +29,11 @@ I am a writer of books, blogs, and commentary with a focus on making Chess acces
 
 ## Skills and Applications:
 
-Writing: Markdown, LibreOffice, Simplenote, Joplin, Pandoc, Microsoft Word
+### Writing
+Markdown, LibreOffice, Simplenote, Joplin, Pandoc, Microsoft Word
 
-Chess Teaching: OBS-Studio, StreamYard, Zoom, En-Croissant, ChessX Social Media, Twitch, Instagram, TikTok, LinkedIn, Facebook.
+### Chess Teaching
+OBS-Studio, StreamYard, Zoom, En-Croissant, ChessX Social Media, Twitch, Instagram, TikTok, LinkedIn, Facebook.
 
 Graphic Design: Inkscape, GIMP
 
@@ -45,13 +47,37 @@ Audio/Video Editing: Audacity, Kdenlive
 
 ## Work Experience:
 
-- Wal-Mart - Overnight Stock Team Associate - September 2023 - Present
+### Wal-Mart
+- Overnight Stock Team Associate - September 2023 - Present
+- Stock Food and General Merchandise depending on what is delivered.
+- Help customers find what they need to buy.
+- Remove trash and pallets from the floor before customers arrive in the morning.
+- Report work progress to coaches and team leads and inform them of any unethical or illegal activity.
 
-- Hy-Vee - Floral Clerk and other Departments - October 2012 - July 2023
+### Hy-Vee
 
-- Brillient - General Clerk - June 2019 - April 2021
+- Floral Clerk and other Departments - October 2012 - July 2023
+- Started as a Courtesy Clerk: Sacking groceries and bringing in carts.
+- Stocked Health Market and helped customers find things for their dietary needs.
+- Stocked Health and Beauty department and ordered suppies for the Basin area.
+- Wrote down Floral Delivery orders both in person and over the phone
+- Got orders ready for pickup and delivery.
+- Watered plants, sold items to customers and cleaned the shop before closing.
 
-- GameStop - Game Advisor - June 2022 - February 2024
+
+### Brillient
+- General Clerk - June 2019 - April 2021
+- Kept records and tracked files at the National Records Center containing 17 million files
+- Sorted incoming files to the facility and entered their numbers into the computer database managed by the Department of Homeland Security.
+- Placed files on the shelves and kept record digitally and on paper where they were placed.
+
+
+### GameStop
+- Game Advisor - June 2022 - February 2024
+- Helped customers find the games they were looking for.
+- Answered technical questions based on experience and the reading materials employees were given.
+- Promoted the Pro-Membership that Gamestop offered and how it saves money to recurring customers of over $60 annually.
+
 
 
 ## Written Publications
@@ -63,6 +89,7 @@ Audio/Video Editing: Audacity, Kdenlive
 ## Video Game Publications
 
 - [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - A relaxing clone of Tetris with no gravity.
+- [Chaste Chess](https://chastitywhiterose.itch.io/cpu-chaste-chess) - A small tool for creative animations of Chess games.
 
 # Software Skills
 

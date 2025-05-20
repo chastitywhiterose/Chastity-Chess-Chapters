@@ -3,6 +3,8 @@
 
 # Introduction
 
+What you are about to read is my document containing my resume and plenty of additional details that short resume cannot cover. I use this information to create resumes depending on the need. This gives me a common source which allows me to keep the information up to date.
+
 One of the most valuable things I learned during my portfolio classes was the fact that resumes are required to be read by Artificial Intelligence before some of them are passed to an actual employer who may hire a person for the job.
 
 The implications of this are both negative and positive. On the one hand, it makes writing a good resume harder because it must be able to be read by a machine easily, but at the same time look good to an actual human. However, the addition of AI into the mix also means that there is theoretically an objective method by which a resume can be judged.
@@ -20,19 +22,26 @@ I am a Technical Writer. My best genre of writing is when I am writing about how
 
 ## Artist, Author, Chess Coach and, Technical Writer
 
-Trans Name: Chastity White Rose
+Pen Name: Chastity White Rose
 
 Legal Name: Chandler Isaac Klebs
 
 Phone: (816) 844-2077
 
-Email: chastitywhiterose@gmail.com
-
 Lee's Summit, Missouri
 
-Main Website: https://chastitywhiterose.com/
 
-Chess Website: https://chastitychesschallenge.com/
+## Email
+
+- chastitywhiterose@gmail.com
+- chandlerklebs@gmail.com
+
+## Websites
+
+- https://chastitywhiterose.com/
+- https://chastitychesschallenge.com/
+- https://www.linkedin.com/in/chastity-rose-96aaa492/
+- https://linktr.ee/chastitywhiterose
 
 ## Summary
 
@@ -50,10 +59,9 @@ Audio/Video Editing: Audacity, Kdenlive
 
 ## Education:
 
-Associate of Applied Science in Creative Writing (A.A.S.) - July 2025
-Full Sail University, Winter Park, FL
+- Associate of Applied Science in Creative Writing (A.A.S.) - July 2025 at Full Sail University, Winter Park, FL
 
-Game Business and Esports - B.S. (Incomplete Previous Program before Creative Writing)
+- Game Business and Esports - B.S. (Incomplete Previous Program before Creative Writing)
 
 ## Work Experience:
 
@@ -76,13 +84,45 @@ Game Business and Esports - B.S. (Incomplete Previous Program before Creative Wr
 
 - [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - A relaxing clone of Tetris with no gravity.
 
-## Career Goals:
+# Software Skills
+
+I have provided a summary of the top skills or software tools I have experience in.
+
+## Markdown
+
+Markdown is a Markup language that is an alternative to HTML. I have used it to save me time when writing books and essays for school assignments. The strength of Markdown is that it does not depend on specific software or operating systems because it is a pure text language.
+
+## LibreOffice
+
+I have been using LibreOffice, and its older relative OpenOffice, since my teenage years. The Writer part of the LibreOffice suite is what I have used for all documents where page sizes and numbers mattered. It was the only program I needed to publish my paperback books through Amazon from 2013 to 2024. After that, I started using Markdown in combination with LibreOffice to support quick writing and then formatting adjustments with LibreOffice when necessary.
+
+## Microsoft Word
+
+I learned to use Microsoft Word during my time at Full Sail University. I never had much personal interest in it because it would cost money to pay for a subscription, but it is not very different from LibreOffice Writer and can be used for any of the same tasks.
+
+## Inkscape
+
+Inkscape is the vector graphics program I use, which is equivalent to Adobe Illustrator in features. I used it to design all the pictures for my Chess book because I needed all the pieces and squares perfectly aligned to a grid. If someone needs a simple image made, I can usually come up with something in Inkscape quick. I once designed a logo for someone, and they paid me $200 because they were very pleased with it.
+
+## Video Production
+
+I can stream and record videos using OBS Studio. Once I have a video file, I can do some basic editing such as clipping, joining, and adding text and audio to any part of a video. I use Kdenlive as my video editor because it has the most features of any Open Source video editor I use.
+
+## Chess Teaching
+
+I am highly skilled at playing Chess as well as using the previously mentioned skills to write, design pictures, and record videos designed for teaching the rules and my favorite strategies for winning at Chess. More than anything, Chess can be used to measure the intelligence and patience of a person. The number one reason people lose at Chess and in life is because they resign too easily.
+
+## Detailed Education and Work History:
 
 In 2023, I made the move to continue my education and go into the entirely new fields of writing and teaching Chess. It was a Chess Journalist by the name of Tarjei J. Svensen who gave me the idea to combine writing with my love of the game of Chess. I especially take notice of news related to LGBTQIA issues and Gender Inequality in the world of competitive Chess.
 
-But as good as I am at playing and teaching Chess, I seem to be even better at using free and Open-Source software to create high-quality PDF and EPUB files, which can be printed or viewed on any digital screen. My dream is also to help other people publish their books. I also have a special interest in writing about software and how to use it. This kind of Technical Writing can apply to anything I have knowledge and experience with.
+But as good as I am at playing and teaching Chess, I seem to be even better at using free and Open-Source software to create high-quality PDF and EPUB files, which can be printed or viewed on any digital screen.
 
-My best role for a company would be where I am writing tutorials or documentation for how a product or service should be used. Writing of technical details could be anything from the very fun (how to play a video game), to the very boring and serious (how to take a medication and list all the possible side effects to watch for).
+My dream is to use the skills I have learned to enable the poor, elderly, and disabled people write and publish their books.
+
+I also have a special interest in writing about software and how to use it. This kind of Technical Writing can apply to anything I have knowledge and experience with.
+
+These skills can be used for writing tutorials or documentation for how a product or service should be used. Writing of technical details could be anything from the very fun (how to play a video game), to the very boring and serious (how to take a medication and list all the possible side effects to watch for).
 
 Being a Technical Writer is general-purpose enough that it can apply to anything. I will prove this point by explaining each of my previous jobs and their possible relevance to my future as a writer.
 
@@ -127,31 +167,3 @@ Working the overnight shift is something many people find difficult because work
 My job at Walmart doesn't involve any writing other than texting my team leads and coaches questions or reports on what I have gotten done so far. However, I have worked this job while I was also attending online school in my Full Sail University Creative Writing program. I consider my job with Walmart to be useful for keeping my body active while my mind is busy with my other responsibilities for my planned writing career.
 
 I often wonder if there are any roles involving writing or technology that I could obtain at Walmart. My current job as an overnight stocker is nice, but it does not use my computer skills or the detailed writing that is enhanced by my autistic brain.
-
-# Software Skills
-
-I have provided a summary of the top skills or software tools I have experience in.
-
-## Markdown
-
-Markdown is a Markup language that is an alternative to HTML. I have used it to save me time when writing books and essays for school assignments. The strength of Markdown is that it does not depend on specific software or operating systems because it is a pure text language.
-
-## LibreOffice
-
-I have been using LibreOffice, and its older relative OpenOffice, since my teenage years. The Writer part of the LibreOffice suite is what I have used for all documents where page sizes and numbers mattered. It was the only program I needed to publish my paperback books through Amazon from 2013 to 2024. After that, I started using Markdown in combination with LibreOffice to support quick writing and then formatting adjustments with LibreOffice when necessary.
-
-## Microsoft Word
-
-I learned to use Microsoft Word during my time at Full Sail University. I never had much personal interest in it because it would cost money to pay for a subscription, but it is not very different from LibreOffice Writer and can be used for any of the same tasks. Why anyone would use it by choice when LibreOffice is better is still beyond me.
-
-## Inkscape
-
-Inkscape is the vector graphics program I use, which is equivalent to Adobe Illustrator in features. I used it to design all the pictures for my Chess book because I needed all the pieces and squares perfectly aligned to a grid. If someone needs a simple image made, I can usually come up with something in Inkscape quick. I once designed a logo for someone, and they paid me $200 because they were very pleased with it.
-
-## Video Production
-
-I can stream and record videos using OBS Studio. Once I have a video file, I can do some basic editing such as clipping, joining, and adding text and audio to any part of a video. I use Kdenlive as my video editor because it has the most features of any Open Source video editor I use.
-
-## Chess Teaching
-
-I am highly skilled at playing Chess as well as using the previously mentioned skills to write, design pictures, and record videos designed for teaching the rules and my favorite strategies for winning at Chess. More than anything, Chess can be used to measure the intelligence and patience of a person. The number one reason people lose at Chess and in life is because they resign too easily.
