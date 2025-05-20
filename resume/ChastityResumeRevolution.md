@@ -46,7 +46,9 @@ Lee's Summit, Missouri
 
 ## Summary
 
-I am a writer of books, blogs, and commentary with a focus on making Chess accessible to low-income people through the power of free and open-source software. I use words, video recordings, and graphic design to teach Chess to as many people as possible in a way they can understand. However, my technical skills can apply to other roles outside of what I do for my own business.
+Chastity is a writer with a focus on making Chess accessible to low-income people through free and open-source 
+software. She uses words, video recordings, and graphic design to teach Chess and other topics to as as many 
+people as possible.
 
 ## Skills and Applications:
 

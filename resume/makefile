@@ -1,0 +1,3 @@
+Make-Book-and-Resume:
+	pandoc ChastityResumeRevolution.md -o Resume-Book.odt --reference-doc custom-reference.odt
+	pandoc Resume.md -o Resume.odt --reference-doc custom-reference.odt
