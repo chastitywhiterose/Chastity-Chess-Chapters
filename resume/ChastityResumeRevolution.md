@@ -17,8 +17,6 @@ Similarly, many companies would expect the applicant to have experience in Micro
 
 I am a Technical Writer. My best genre of writing is when I am writing about how to do something. I might be writing about how to play a game, use some kind of software tool, or the steps involved in publishing a book.
 
----
-
 # Chastity's Resume
 
 ## Artist, Author, Chess Coach and, Technical Writer
@@ -39,10 +37,10 @@ Lee's Summit, Missouri
 
 ## Websites
 
-- https://chastitywhiterose.com/
-- https://chastitychesschallenge.com/
-- https://www.linkedin.com/in/chastity-rose-96aaa492/
-- https://linktr.ee/chastitywhiterose
+- <https://chastitywhiterose.com/>
+- <https://chastitychesschallenge.com/>
+- <https://www.linkedin.com/in/chastity-rose-96aaa492/>
+- <https://linktr.ee/chastitywhiterose>
 
 ## Summary
 
@@ -112,8 +110,6 @@ people as possible.
 
 - [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - A relaxing clone of Tetris with no gravity.
 - [Chaste Chess](https://chastitywhiterose.itch.io/cpu-chaste-chess) - A small tool for creative animations of Chess games.
-
----
 
 # Software Skills
 

@@ -18,10 +18,10 @@ Lee's Summit, Missouri
 
 ## Websites
 
-- https://chastitywhiterose.com/
-- https://chastitychesschallenge.com/
-- https://www.linkedin.com/in/chastity-rose-96aaa492/
-- https://linktr.ee/chastitywhiterose
+- <https://chastitywhiterose.com/>
+- <https://chastitychesschallenge.com/>
+- <https://www.linkedin.com/in/chastity-rose-96aaa492/>
+- <https://linktr.ee/chastitywhiterose>
 
 ## Summary
 

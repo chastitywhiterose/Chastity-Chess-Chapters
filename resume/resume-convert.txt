@@ -1,0 +1,7 @@
+pandoc May-2025-Chastity_Resume.md -o Resume.odt --reference-doc custom-reference.odt
+
+---
+
+pandoc ChastityResumeRevolution.md -o Resume-Book.odt --reference-doc custom-reference.odt
+
+pandoc Resume.md -o Resume.odt --reference-doc custom-reference.odt
