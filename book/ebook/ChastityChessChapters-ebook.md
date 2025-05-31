@@ -19,16 +19,11 @@
 
 - [Stockfish
 Strong open-source chess engine](https://stockfishchess.org/)
-
 - [Fairy-Stockfish
 Strong open source chess variant engine](https://fairy-stockfish.github.io/)
-
 - [XBoard/WinBoard](http://hgm.nubati.net/)
-
 - [En Croissant](https://encroissant.org/)
-
 - [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/help.html)
-
 - [ChessX](https://chessx.sourceforge.io/)
 
 [Chapter 5: The Best Chess websites](#chapter-5-the-best-chess-websites)
