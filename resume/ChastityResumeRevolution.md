@@ -1,6 +1,5 @@
 # Chastity's Resume Revolution
 
-
 What you are about to read is my document containing my resume and plenty of additional details that a short resume cannot cover. I use this information to create resumes depending on the need. This document gives me a common source which allows me to keep the information up to date.
 
 One of the most valuable things I learned during my Full Sail portfolio classes was the fact that resumes are required to be read by Artificial Intelligence before some of them are passed to an actual employer who may hire a person for the job.
