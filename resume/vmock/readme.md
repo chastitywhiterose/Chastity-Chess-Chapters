@@ -1,1 +1,1 @@
-wfwfwf
+Vmock is a tool that I have access to as a Full Sail University student. It helps me refine my resume to be more friendly for Artificial Intelligence. I keep the AI friendly resume separate from the original Markdown resume that I wrote for humans to read. I copy the information between them as necessary.
