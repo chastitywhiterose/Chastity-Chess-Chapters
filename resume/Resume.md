@@ -17,7 +17,8 @@
 
 ## Summary
 
-Chastity is a writer with a focus on making Chess accessible to low-income people through free and open source software. She uses words, video recordings, and graphic design to teach Chess and other topics to as many people as possible.
+Chastity is a writer with a focus on making Chess accessible to low-income people through free and open source 
+software. She uses words, videos, and graphic design to teach Chess and computer software.
 
 ## Skills
 
@@ -53,18 +54,19 @@ Chastity is a writer with a focus on making Chess accessible to low-income peopl
 
 - Floral Clerk and other Departments - October 2012 - July 2023
 - Stocked Health Market and Health and Beauty Department.
-- Wrote down Floral Delivery orders both in person and over the phone. Prepared these orders for pickup or delivery. Acted as Cashier at Floral Register.
+- Wrote down Floral Delivery orders both in person and over the phone. Prepared these orders for pickup or delivery. Acted as Cashier at Floral Register. Regularly served over 100 customers on each Valentine's Day and Mother's Day.
 - Sold items to customers, watered plants, and cleaned the shop before closing at 7 PM.
 
 ## Brillient
 - General Clerk - June 2019 - April 2021
 - Kept records and tracked files at the National Records Center containing 17 million files.
-- Sorted incoming files to the facility and entered barcode numbers into the computer database managed by the Department of Homeland Security.
-- Placed files on the shelves and kept locations recorded digitally and on paper.
+-  Sorted incoming files to the facility and entered barcode numbers into the computer database managed by the Department of Homeland Security. Maintained Data Entry quota of 400 files per hour.
+- Placed files on the shelves and kept locations recorded digitally and on paper. Maintained Quota of 160 
+files per hour.
 
 ## Book Publications
 
-- [Chastity's Chess Chapters](https://www.amazon.com/dp/B0F44DG4XD) - authored a 100 page paperback and e-book to train new and advanced Chess players.
+- [Chastity's Chess Chapters](https://www.amazon.com/dp/B0F44DG4XD) - authored a 100 page paperback and e-book to train Chess players.
 - [Chandler's Honesty](https://www.amazon.com/dp/B08YDT2XQG) - authored a series of mental health conversations with a unicorn since 2017.
 - [The Elevator Debate](https://adelaidebooks.org/the-elevator-debate) - composed a flash fiction story about a political disagreement between co-workers.
 
@@ -72,4 +74,3 @@ Chastity is a writer with a focus on making Chess accessible to low-income peopl
 
 - [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - Published a relaxing clone of Tetris with no gravity to be used as a teaching tool. Released May 31, 2022.
 - [Chaste Chess](https://chastitywhiterose.itch.io/cpu-chaste-chess) - Published a small tool for creating animations of Chess games. Released on itch.io May 18, 2025.
-
