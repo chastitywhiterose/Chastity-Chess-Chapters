@@ -83,6 +83,7 @@ files per hour.
 ## Book Publications
 
 - [Chastity's Chess Chapters](https://www.amazon.com/dp/B0F44DG4XD) - authored a 100 page paperback and e-book to train Chess players.
+- [Minimal Markdown for Authors](https://www.amazon.com/Minimal-Markdown-Authors-Publish-Software/dp/B0FJ7HHLK8) - How to Write and Publish a Book Using Open Source Software
 - [Chandler's Honesty](https://www.amazon.com/dp/B08YDT2XQG) - authored a series of mental health conversations with a unicorn since 2017.
 - [The Elevator Debate](https://adelaidebooks.org/the-elevator-debate) - composed a flash fiction story about a political disagreement between co-workers.
 
